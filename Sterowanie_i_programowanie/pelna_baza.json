@@ -1,0 +1,5849 @@
+[
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Bity stopu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Adres serwera DNS"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Z szybkość przesyłania danych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Niepowtarzalny adres IP"
+      }
+    ],
+    "content": "Co koniecznie trzeba skonfigurować w urządzeniu, aby mogło funkcjonować w sieci Ethernet?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "co-bezwzglednie-nalezy-ustawic-w-urzadzeniu-aby-m-5ca23631",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Adware"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "GNU GPL"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Freeware"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Trial"
+      }
+    ],
+    "content": "Jaki typ licencji pozwala na używanie oprogramowania przez określony czas, po którym konieczna jest rejestracja lub usunięcie go z komputera?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-licencji-umozliwia-korzystanie-z-opro-501a4bed",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "lutownicy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "klucza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wkrętaka"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "szczypiec"
+      }
+    ],
+    "content": "Czujnik zbliżeniowy powinien być podłączony do cyfrowego wejścia sterownika PLC przy użyciu",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "czujnik-zblizeniowy-nalezy-podaczyc-do-wejscia-cy-4b720b7f",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "bez zapamiętania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "warunkowo."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "impulsowo."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "z zapamiętaniem."
+      }
+    ],
+    "content": "Umieszczony na rysunku zapis w metodzie Grafcet oznacza otwarcie zaworu 1V1\r\n<br><br>\r\n<table style=\"border-collapse: collapse; border: 2px solid black;\">\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 5px; text-align: center; font-weight: bold;\">N</td>\r\n    <td style=\"border: 1px solid black; padding: 5px; text-align: left;\">Otworzyć zawór 1V1</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "umieszczony-na-rysunku-zapis-w-metodzie-grafcet-oz-b128d6cc",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Panel operatorski HMI"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Robot przemysłowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Sterownik PLC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Przekaźnik programowalny"
+      }
+    ],
+    "content": "Jakie urządzenie pośredniczy w interakcji między urządzeniem mechatronicznym a jego użytkownikiem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-urzadzenie-posredniczy-w-komunikacji-pomiedz-e0b80413",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "krok 4 jest realizowany bezpośrednio przed krokiem 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "krok 3 jest realizowany bezpośrednio przed krokiem 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "kroki 3 i 4 są wykonywane równocześnie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "kroki 3 i 4 są wykonywane rozłącznie."
+      }
+    ],
+    "content": "Na podstawie poniższego algorytmu sterowania, przedstawionego w postaci schematu SFC, można stwierdzić, że",
+    "has_images": true,
+    "image": "/images/76718.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-ponizszego-algorytmu-sterowania-prze-26f39102",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76718.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Czujnik ultradźwiękowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Czujnik piezorezystancyjny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Czujnik manometryczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Czujnik termoelektryczny"
+      }
+    ],
+    "content": "Który z poniższych czujników mierzących powinien być użyty do określenia wartości ciśnienia w zbiorniku sprężonego powietrza oraz do przesłania danych do sterownika PLC z analogowymi wejściami?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-czujnikow-pomiarowych-nalezy-b959c6d5",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Przemiennika częstotliwości"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Prostownika sterowanego trójpulsowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Softstartu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Przełącznika gwiazda-trójkąt"
+      }
+    ],
+    "content": "Jakie urządzenie powinno być zastosowane do zasilania silnika indukcyjnego klatkowego w układzie trójfazowym, aby umożliwić ustawienie maksymalnych wartości prądu rozruchowego oraz płynne dostosowanie prędkości obrotowej silnika?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-urzadzenia-nalezy-uzyc-do-zasilania-trojfa-21e3b0bc",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "ręcznie, przyciskiem załącz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "ręcznie, przyciskiem wyłącz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "po zadziałaniu wyłącznika ciśnieniowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "po zadziałaniu wyłącznika krańcowego."
+      }
+    ],
+    "content": "Zawór 1V1 przełączany jest z pozycji b na a",
+    "has_images": true,
+    "image": "/images/72885.png",
+    "selected_answer": null,
+    "slug": "zawor-1v1-przeaczany-jest-z-pozycji-b-na-a-89c23323",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/72885.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/81899.webp",
+        "image_alt": "Wariant C",
+        "label": "A",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/81900.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/81898.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/81897.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "W którym z układów zastosowano sterowanie stycznikiem z podtrzymaniem?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-ktorym-z-ukadow-zastosowano-sterowanie-stycznik-8b2303df",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Komputerowe wspomaganie wytwarzania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Komputerowe przygotowanie produkcji"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Komputerowe wspomaganie projektowania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Komputerowa kontrola jakości"
+      }
+    ],
+    "content": "Które z poniższych sformułowań oznacza rozwinięcie skrótu CAM?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-z-wymienionych-okreslen-jest-tumaczeniem-sk-17ac9362",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "DI16/DO8 oraz AI4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "DI32/DO8 oraz AI2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "DI32/DO16 oraz AI4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "DI16/DO16 oraz AI2"
+      }
+    ],
+    "content": "W systemie mechatronicznym znajduje się 18 czujników cyfrowych, 4 przetworniki analogowe oraz 11 elementów wykonawczych działających w trybie dwustanowym. Jaką konfigurację modułowego sterownika PLC należy zastosować do zarządzania tym układem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-ukadzie-mechatronicznym-znajduje-sie-18-czujnik-df354255",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zwarciem jednej fazy z obudową."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "błędną sekwencją faz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "przerwą w jednej z faz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "zwarciem dwóch faz."
+      }
+    ],
+    "content": "Taśmociąg, który jest napędzany trójfazowym silnikiem indukcyjnym, porusza się w kierunku przeciwnym do oczekiwanego. Co może być tego przyczyną?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "tasmociag-napedzany-trojfazowym-silnikiem-indukcyj-bda4853b",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Kontynuować uruchamianie programu Proficy iFIX."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Zainstalować sterownik klucza sprzętowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Ponownie zainstalować program Proficy iFIX."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Sprawdzić, czy została zainstalowana właściwa wersja systemu operacyjnego."
+      }
+    ],
+    "content": "Którą czynność powinien wykonać użytkownik podczas uruchamiania komercyjnej wersji programu Proficy iFIX po ukazaniu się przedstawionego na rysunku komunikatu, aby program działał dłużej niż 2 godziny?",
+    "has_images": true,
+    "image": "/images/65970.png",
+    "selected_answer": null,
+    "slug": "ktora-czynnosc-powinien-wykonac-uzytkownik-podczas-5dd4a70c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65970.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "&quot;sink&quot; (ujście)."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "wejścia analogowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "&quot;source&quot; (źródło) i &quot;sink&quot; (ujście) równocześnie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "&quot;source&quot; (źródło)."
+      }
+    ],
+    "content": "Na rysunku przedstawiono fragment schematu połączeń sterownika PLC, Dla tak wykonanych połączeń, wejścia są skonfigurowane jako",
+    "has_images": true,
+    "image": "/images/76744.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-fragment-schematu-poacze-233b1da8",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76744.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "program kontrolny znajduje się w pamięci RAM sterownika i może zostać uruchomiony"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "konieczna jest wymiana baterii zasilającej pamięć RAM sterownika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "nastąpiła awaria wewnętrzna sterownika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "istnieje możliwość edytowania nowego programu kontrolnego przy użyciu komputera"
+      }
+    ],
+    "content": "Lampka sygnalizacyjna RUN w programowalnym sterowniku PLC wskazuje, że",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "swiecacy-element-sygnalizacyjny-run-w-sterowniku-p-307049f0",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "nitów"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "zatrzasków"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "łap"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "śrub"
+      }
+    ],
+    "content": "W celu zamontowania sterownika PLC na szynie DIN, należy użyć",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-szynie-din-sterownik-plc-nalezy-zamontowac-za-p-88aa0b60",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Ex-NOR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "NOT"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "NOR"
+      }
+    ],
+    "content": "Wskaźnikiem sygnałów logicznych określono poziomy logiczne na wejściach i wyjściach bramek układu przedstawionego na rysunku. Stwierdzono, że nieprawidłowo działa bramka",
+    "has_images": true,
+    "image": "/images/55821.png",
+    "selected_answer": null,
+    "slug": "wskaznikiem-sygnaow-logicznych-okreslono-poziomy-9f455056",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55821.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "NOR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "AND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "OR"
+      }
+    ],
+    "content": "Blok przedstawiony na rysunku realizuje funkcję logiczną",
+    "has_images": true,
+    "image": "/images/54173.png",
+    "selected_answer": null,
+    "slug": "blok-przedstawiony-na-rysunku-realizuje-funkcje-lo-989fde8f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/54173.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "odkręcenie tranzystora"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "wycięcie tranzystora"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wyjęcie tranzystora z gniazda"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "wylutowanie tranzystora"
+      }
+    ],
+    "content": "Zamiana tranzystorów BC109 na płytce kontrolera PLC może być przeprowadzona poprzez",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wymiana-tranzystorow-bc109-na-pycie-sterownika-pl-b549da5d",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Wejścia cyfrowe – 4, wyjścia cyfrowe – 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Wejścia cyfrowe – 3, wyjścia cyfrowe – 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Wejścia cyfrowe – 1, wyjścia cyfrowe – 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Wejścia cyfrowe – 2, wyjścia cyfrowe – 1."
+      }
+    ],
+    "content": "Którymi cyframi oznaczono moduły wejść i wyjść dyskretnych sterownika PLC?",
+    "has_images": true,
+    "image": "/images/65866.png",
+    "selected_answer": null,
+    "slug": "ktorymi-cyframi-oznaczono-moduy-wejsc-i-wyjsc-dys-46164ae5",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65866.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Który opis elementów dwustawnego regulatora temperatury jest poprawny?",
+    "has_images": true,
+    "image": "/images/77423.png",
+    "selected_answer": null,
+    "slug": "ktory-opis-elementow-dwustawnego-regulatora-temper-348e268b",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77423.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Zostanie włączone działanie przekaźnika KT3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Tłoczysko siłownika 1A1 zostanie natychmiast wsunięte."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Zostanie wyłączone działanie przekaźnika KT3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Tłoczysko siłownika 1A1 zostanie natychmiast wysunięte."
+      }
+    ],
+    "content": "Określ, na podstawie schematu elektropneumatycznego, jak zachowa się układ po zadziałaniu czujnika 1B2.",
+    "has_images": true,
+    "image": "/images/65809.png",
+    "selected_answer": null,
+    "slug": "okresl-na-podstawie-schematu-elektropneumatyczneg-6208d382",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65809.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Bramka D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Bramka B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Bramka A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Bramka C."
+      }
+    ],
+    "content": "W układzie cyfrowym, którego strukturę i stany logiczne przedstawiono na rysunku, wskaż która bramka nie działa prawidłowo.",
+    "has_images": true,
+    "image": "/images/65912.png",
+    "selected_answer": null,
+    "slug": "w-ukadzie-cyfrowym-ktorego-strukture-i-stany-log-a359ef82",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65912.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Wysuw po określonym czasie od naciśnięcia przycisku 1S3 i powrót po określonym czasie od zwarcia łącznika krańcowego 1S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Wysuw po określonym czasie od naciśnięcia przycisku 1S3 i natychmiastowy powrót po zwarciu łącznika krańcowego 1S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Wysuw po naciśnięciu przycisku 1S3, gdy tłok całkowicie wsunięty i powrót po określonym czasie od zwarcia łącznika krańcowego 1S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Wysuw po naciśnięciu przycisku 1S3, gdy tłok jest całkowicie wsunięty i natychmiastowy powrót po zwarciu łącznika krańcowego 1S2."
+      }
+    ],
+    "content": "Wskaż opis ruchu tłoczyska siłownika 1A zgodny z zamieszczonym rysunkiem.",
+    "has_images": true,
+    "image": "/images/69420.png",
+    "selected_answer": null,
+    "slug": "wskaz-opis-ruchu-toczyska-siownika-1a-zgodny-z-z-94e9ba04",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69420.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "USB"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "RS 232"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "IRDA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "RS 485"
+      }
+    ],
+    "content": "Który z podanych standardów przesyłania sygnałów cyfrowych pozwala na bezprzewodową transmisję danych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-standardow-transmisji-sygnao-213a3fda",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/85921.webp",
+        "image_alt": "Wariant C",
+        "label": "A",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/85919.webp",
+        "image_alt": "Wariant A",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/85922.webp",
+        "image_alt": "Wariant D",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/85920.webp",
+        "image_alt": "Wariant B",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Który symbol graficzny oznacza cewkę przekaźnika o opóźnionym załączaniu?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-symbol-graficzny-oznacza-cewke-przekaznika-o-823c991a",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "95,0 oC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "102,5 oC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "97,5 oC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "105,0 oC"
+      }
+    ],
+    "content": "Przy jakiej temperaturze nastąpi wyłączenie grzałki w układzie dwustanowej regulacji temperatury, jeśli wartość zadana To wynosi 100 oC, a szerokość pętli histerezy H = 5 oC?",
+    "has_images": true,
+    "image": "/images/65824.png",
+    "selected_answer": null,
+    "slug": "przy-jakiej-temperaturze-nastapi-wyaczenie-grzak-931b992e",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65824.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "W przedstawionym na rysunku układzie sterowania siłownikiem jednostronnego działania, którego schemat przedstawiono na rysunku, tłoczysko siłownika wysuwa się po naciśnięciu jednego z przycisków. W opisanej sytuacji znakiem \"?\" oznaczono zawór",
+    "has_images": true,
+    "image": "/images/65946.png",
+    "selected_answer": null,
+    "slug": "w-przedstawionym-na-rysunku-ukadzie-sterowania-si-9d88942a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65946.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zespół OZ1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Zawór 1V2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Zawór 1V1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Sterownik PLC"
+      }
+    ],
+    "content": "Który z elementów mechatronicznego układu napędowego umożliwia zmianę prędkości wysuwania tłoczyska siłownika 1A1?",
+    "has_images": true,
+    "image": "/images/65831.png",
+    "selected_answer": null,
+    "slug": "ktory-z-elementow-mechatronicznego-ukadu-napedowe-dfdbdb12",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65831.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "zegarów czasowych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "rejestrów licznikowych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "przerzutników"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "filtrów komparatorowych"
+      }
+    ],
+    "content": "W aplikacjach sterujących, wykonywanych przy użyciu sterownika PLC, do zapisywania sygnałów impulsowych oraz ich konwersji na sygnały trwałe (włączanie z samopodtrzymaniem) wykorzystuje się moduły",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-zadaniach-sterowniczych-realizowanych-za-pomoca-f2377bae",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/81913.webp",
+        "image_alt": "Wariant A",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/81916.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/81915.webp",
+        "image_alt": "Wariant C",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/81914.webp",
+        "image_alt": "Wariant B",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "W którym z układów zastosowano załączenie z podtrzymaniem?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-ktorym-z-ukadow-zastosowano-zaaczenie-z-podtrz-b1630afe",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "12 wejść i 15 wyjść."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "15 wejść i 12 wyjść."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "12 wejść i 6 wyjść."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "6 wejść i 12 wyjść."
+      }
+    ],
+    "content": "Ile cyfrowych wejść i cyfrowych wyjść posiada sterownik przedstawiony na rysunku?",
+    "has_images": true,
+    "image": "/images/65877.png",
+    "selected_answer": null,
+    "slug": "ile-cyfrowych-wejsc-i-cyfrowych-wyjsc-posiada-ster-e35f42b6",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65877.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Przepływomierz powietrza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Enkoder"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Pirometr"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Mostek tensometryczny"
+      }
+    ],
+    "content": "Który z poniższych czujników jest elementem serwomechanizmu sterującego ruchem ramienia robota?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-zespoow-pomiarowych-jest-cze-255a61a3",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "100 Hz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "25 Hz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "50 Hz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "75 Hz"
+      }
+    ],
+    "content": "Korzystając z podanego wzoru, określ jaką częstotliwość napięcia należy ustawić na falowniku, aby podłączony do niego silnik asynchroniczny o znamionowej prędkości obrotowej 2920 obr/min i znamionowej częstotliwości 50 Hz osiągnął prędkość obrotową 1460 obr/min.<br>Wzór: $$ n_s = \\frac{60 \\cdot f}{p} $$",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "korzystajac-z-podanego-wzoru-okresl-jaka-czestotl-38157462",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "IL (Instruction List) - lista instrukcji - lista instrukcji"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "FBD (Function Block Diagram) - schemat bloków funkcyjnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "SFC (SeΩuential Function Chart) - schemat sekwencji funkcji"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "ST (Structured Text) - tekst strukturalny"
+      }
+    ],
+    "content": "Który z poniższych języków programowania dla sterowników PLC jest językiem tekstowym?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-jezykow-programowania-sterown-1c2f0daa",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "4 urządzenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "1 urządzenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "2 urządzenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "3 urządzenia."
+      }
+    ],
+    "content": "Ile urządzeń sieciowych można maksymalnie podłączyć do sterownika, wykorzystując jeden dodatkowy moduł CSM 1277 o parametrach podanych w tabeli?\n<br><br>\n<table style=\"border-collapse: collapse; width: auto; border: 2px solid #000;\">\n  <tr>\n    <th style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Właściwości</th>\n    <th style=\"border: 1px solid #000; padding: 8px; text-align: center;\">CSM 1277 switch</th>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Typ interfejsu</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">Ethernet / Profinet</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Ilość interfejsów</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">4 x RJ45</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Szybkość transmisji danych</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">10/100 Mbit/s</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Typ switcha</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">niezarządzalny</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Zasilanie</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">24 V DC</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Max. długość kabla bez wzmacniacza</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">100 m</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Straty mocy</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">1,6 W</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">Stopień ochrony</td>\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">IP 20</td>\n  </tr>\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ile-urzadzen-sieciowych-mozna-maksymalnie-podaczy-83dd86af",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "brak modyfikacji częstotliwości impulsów z kontrolera"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "nadmierne obciążenie silnika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wysyłanie impulsów sterujących w błędnej kolejności"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "zbyt wysokie napięcie zasilające"
+      }
+    ],
+    "content": "Silnik krokowy (skokowy) nie reaguje na próby zmiany prędkości obrotów. Możliwą przyczyną nieprawidłowego działania silnika może być",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "silnik-krokowy-skokowy-nie-reaguje-na-probe-zmia-504ff8d7",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "4/2 sterowany elektrycznie bezpośrednio."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "5/2 sterowany elektrycznie pośrednio."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "4/2 sterowany elektrycznie pośrednio."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "5/2 sterowany elektrycznie bezpośrednio."
+      }
+    ],
+    "content": "Na rysunku przedstawiono zawór",
+    "has_images": true,
+    "image": "/images/69362.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-zawor-f4239c4a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69362.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "źle dobrane zabezpieczenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "brak blokady w obwodzie sterowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zwarcie w obwodzie sterowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "źle podłączone przyciski S1 i S2."
+      }
+    ],
+    "content": "W układzie nawrotnym sterowania stycznikowego silnika indukcyjnego klatkowego stwierdzono, że po wciśnięciu przycisku S1 a następnie S2, zadziałają zabezpieczenia w obwodzie siłowym silnika. Przyczyną zadziałania jest",
+    "has_images": true,
+    "image": "/images/55834.png",
+    "selected_answer": null,
+    "slug": "w-ukadzie-nawrotnym-sterowania-stycznikowego-siln-2cf8e762",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55834.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "IL"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "ST"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "LAD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "FBD"
+      }
+    ],
+    "content": "Przedstawiony program sterowniczy to program napisany w języku\n<br><br>\n<table style=\"border-collapse: collapse; border: 2px solid black;\">\n  <tr>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">L</td>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">I 0.00</td>\n  </tr>\n  <tr>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">O</td>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">Q 0.00</td>\n  </tr>\n  <tr>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">A</td>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">I 0.01</td>\n  </tr>\n  <tr>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">=</td>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">Q 0.00</td>\n  </tr>\n  <tr>\n    <td style=\"padding: 5px; border: 1px solid black; text-align: center;\">EP</td>\n    <td style=\"padding: 5px; border: 1px solid black;\"></td>\n  </tr>\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przedstawiony-program-sterowniczy-to-program-napis-53171655",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Mostek typu H."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Softstart."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Prostownik sterowany."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Przemiennik częstotliwości."
+      }
+    ],
+    "content": "W przenośniku taśmowym zastosowano napęd mechatroniczny, którego schemat blokowy przedstawiono na rysunku. Który element umożliwiający programowe zmiany prędkości obrotowej silników napędowych oznaczono znakiem zapytania?",
+    "has_images": true,
+    "image": "/images/65830.png",
+    "selected_answer": null,
+    "slug": "w-przenosniku-tasmowym-zastosowano-naped-mechatron-35bb0eb2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65830.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Brak baterii podtrzymującej zasilanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Tryb wstrzymania CPU"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Potrzeba zmian w parametrach programu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Tryb funkcjonowania CPU"
+      }
+    ],
+    "content": "Co znaczy zaświecenie czerwonej diody oznaczonej skrótem BATF na panelu kontrolnym sterownika PLC?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "co-oznacza-zaswiecenie-sie-czerwonej-diody-oznaczo-c9f94bcd",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "SCADA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "CAP"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "CAD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "CAM"
+      }
+    ],
+    "content": "Jaki rodzaj oprogramowania trzeba zainstalować na komputerze, aby mieć możliwość wspierania procesów produkcyjnych związanych z kontrolą maszyn CNC?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-typ-oprogramowania-nalezy-zainstalowac-na-ko-bd889819",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "przyciski S1 i S3"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "przyciski S1 i S2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wyłącznie przycisk S3"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wyłącznie przycisk S1"
+      }
+    ],
+    "content": "Aby zaświeciła się lampka H1 należy wcisnąć",
+    "has_images": true,
+    "image": "/images/65790.png",
+    "selected_answer": null,
+    "slug": "aby-zaswiecia-sie-lampka-hi-nalezy-wcisnac-b4c4912f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65790.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "NOR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "NOT"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "EX-NOR"
+      }
+    ],
+    "content": "Jaką funkcję realizuje bramka przedstawiona na rysunku?",
+    "has_images": true,
+    "image": "/images/69405.png",
+    "selected_answer": null,
+    "slug": "jaka-funkcje-realizuje-bramka-przedstawiona-na-rys-295c4463",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69405.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "włączenie zasilania cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "wyłączenie zasilania cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "blokowanie jednoczesnego załączenia cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "podtrzymanie zasilania cewek przekaźników K1 i K2"
+      }
+    ],
+    "content": "Zestyk K1 oznaczony na schemacie czerwoną ramką odpowiada za",
+    "has_images": true,
+    "image": "/images/65952.png",
+    "selected_answer": null,
+    "slug": "zestyk-k1-oznaczony-na-schemacie-czerwona-ramka-od-fb27bcaa",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65952.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "warunkowo."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "z ograniczeniem czasowym."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "impulsowo."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "z opóźnieniem czasowym."
+      }
+    ],
+    "content": "Poniższy zapis w metodzie Grafcet oznacza otwarcie zaworu 1V1\n<br><br>\n<table style=\"border-collapse: collapse; border: 2px solid black;\"><tr><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">D</td><td style=\"border: 1px solid black; padding: 5px; text-align: center;\">Otworzyć zawór 1V1<br>t = 2s</td></tr></table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ponizszy-zapis-w-metodzie-grafcet-oznacza-otwarcie-9459fef2",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "tranzystorów na wyjściach 1 i 3"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "tranzystorów na wyjściach 2 i 4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wyłącznie tranzystora na wyjściu 4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "wyłącznie tranzystora na wyjściu 3"
+      }
+    ],
+    "content": "Po programowym aktywowaniu czterech wyjść tranzystorowych w sterowniku PLC, które sterują cewkami elektrozaworów, stwierdzono, że nie wszystkie działają poprawnie. Pomiar napięcia U<sub>BE</sub> (między bazą a emiterem) tranzystorów na poszczególnych wyjściach wykazał następujące wartości: U<sub>BE1</sub> = 1 V, U<sub>BE2</sub> = 3 V, U<sub>BE3</sub> = 0,7 V, U<sub>BE4</sub> = 5 V. Wyniki pomiarów sugerują uszkodzenie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "po-programowym-waczeniu-czterech-wyjsc-tranzystor-7ec77481",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Silnika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Czujnika optycznego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Falownika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Sterownika PLC."
+      }
+    ],
+    "content": "Którego urządzenia dotyczą podane w tabeli parametry?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; border: 2px solid #000;\" aria-label=\"Specyfikacja techniczna\">\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Ilość wejść 24 VDC</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Ilość wyjść przekaźnikowych</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Rozszerzenie we/wy</td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Maksymalna ilość</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\"></td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Maksymalna ilość we/wy</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Pojemność programu</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Czas przetwarzania</td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Instrukcji podstawowych</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\"></td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">systemowych</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Pamięć danych</td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Wewnętrznych bajtów</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\"></td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Słów wewnętrznych</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\"></td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Timery</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\"></td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Liczniki</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Zasilanie</td>\r\n    <td style=\"border: 1px solid #000; padding: 4px; text-align: left;\">Znamionowe napięcie zasilania</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-urzadzenia-dotycza-podane-w-tabeli-paramet-965a8edd",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "częstotliwości oraz fazy impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "amplitudy impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "częstotliwości impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "szerokości impulsu"
+      }
+    ],
+    "content": "Modulacja impulsowa określana jako PWM polega na modyfikacji w sygnale, który jest modulowany",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "modulacja-impulsowa-oznaczona-jako-pwm-polega-na-z-42c6ea3a",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "1V1 i 2V1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "1V2 i 2V1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "1V1 i 2V2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "1V2 i 2V2"
+      }
+    ],
+    "content": "Za pomocą których elementów układu elektropneumatycznego, którego schemat przedstawiono na rysunku, należy regulować prędkość wysuwania tłoczysk siłowników 1A1 i 2A1?",
+    "has_images": true,
+    "image": "/images/65972.png",
+    "selected_answer": null,
+    "slug": "za-pomoca-ktorych-elementow-ukadu-elektropneumaty-a48530a4",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65972.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "negacji koniunkcji stanów przycisków S1 i S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "alternatywy stanów przycisków S1 i S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "koniunkcji stanów przycisków S1 i S2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "alternatywy wykluczającej stanów przycisków S1 i S2."
+      }
+    ],
+    "content": "Zadziałanie cewki przekaźnika K1 określone jest przez funkcję",
+    "has_images": true,
+    "image": "/images/65862.png",
+    "selected_answer": null,
+    "slug": "zadziaanie-cewki-przekaznika-k1-okreslone-jest-pr-d5660b49",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65862.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "obniżyć częstotliwość zasilania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "zamienić miejscami dwa dowolne fazowe przewody zasilające"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zwiększyć obciążenie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "podłączyć przewód neutralny"
+      }
+    ],
+    "content": "W jaki sposób można zmienić kierunek obrotów wału w trójfazowym silniku indukcyjnym?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "aby-zmienic-kierunek-wirowania-wau-silnika-indukc-aca3f38d",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Przenieść z nośnika instalacyjnego wersję instalacyjną oprogramowania na dysk twardy komputera"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Zweryfikować minimalne wymagania, które musi spełniać komputer, na którym oprogramowanie będzie instalowane"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Zaktualizować system operacyjny komputera, na którym zainstalowane będzie oprogramowanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Usunąć poprzednią wersję oprogramowania, które ma być zainstalowane"
+      }
+    ],
+    "content": "Jaką czynność należy zrealizować w pierwszej kolejności, instalując oprogramowanie do programowania sterowników PLC?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-z-czynnosci-nalezy-wykonac-jako-pierwsza-pod-c9ff8e11",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "usunąć przyciski sterujące i zastąpić je sterownikiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "rozłączyć główny obwód i obwód sterujący silnikiem, a następnie podłączyć wszystkie elementy do sterownika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "odłączyć stycznik z układu i w jego miejsce wstawić sterownik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "rozłączyć jedynie obwód sterujący silnikiem i podłączyć jego elementy do sterownika PLC"
+      }
+    ],
+    "content": "Zamieniając stycznikowy system sterowania silnikiem elektrycznym na system oparty na sterowniku PLC, należy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zastepujac-stycznikowy-ukad-sterownia-silnika-ele-cf907c3a",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "liczby par biegunów"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "kolejności faz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wartości częstotliwości napięcia zasilającego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "wartości skutecznej napięcia zasilania stojana"
+      }
+    ],
+    "content": "Nie można zrealizować regulacji prędkości obrotowej silników indukcyjnych poprzez zmianę",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "regulacji-predkosci-obrotowej-silnikow-indukcyjnyc-f3d77d3b",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "30 V DC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "20 V DC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "15 V DC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "25 V DC"
+      }
+    ],
+    "content": "Napięcie wyjściowe zasilacza zasilającego sterownik PLC zainstalowany w urządzeniu mechatronicznym, zgodnie z parametrami przedstawionymi w tabeli, może wynosić\r\n<br><br>\r\n<table style=\"border-collapse: collapse; width: auto; border: 2px solid black;\" aria-label=\"Parametry techniczne sterownika\">\r\n  <tr>\r\n    <th colspan=\"2\" style=\"border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;\">Parametry techniczne sterownika</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Normy i przepisy</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">IEC 61131-2</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Typ produktu</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Sterownik kompaktowy</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Liczba wejść dyskretnych</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">6</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Napięcie wejść dyskretnych</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">24 V DC</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Liczba wyjść dyskretnych</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">4 przekaźnikowe</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Typ wyjść</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">przekaźnikowe</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Sygnalizacja stanów</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">LED</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Napięcie zasilania</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">24 V DC</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Dopuszczalny zakres napięcia zasilania</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">21,2÷28,8 V DC</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Tętnienia</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">&lt;5%</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "napiecie-wyjsciowe-zasilacza-zasilajacego-sterowni-5c4c24d1",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "CAE"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "CAM"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "CAD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "SCADA"
+      }
+    ],
+    "content": "Jakiego typu oprogramowanie powinno być zastosowane do monitorowania przebiegu procesów w przemyśle?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-rodzaju-oprogramowania-nalezy-uzyc-w-celu-01c623c2",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "trójstanowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "impulsowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "ciągłego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "dwustanowego."
+      }
+    ],
+    "content": "Na rysunku przedstawiono wykres zależności sygnału wyjściowego od wielkości regulowanej (temperatury) regulatora",
+    "has_images": true,
+    "image": "/images/55835.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-wykres-zaleznosci-sygnau-c518e15f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55835.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "6 wejść i 3 wyjścia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "5 wejść i 3 wyjścia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "6 wejść i 4 wyjścia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "5 wejść i 4 wyjścia."
+      }
+    ],
+    "content": "Określ liczbę wejść i wyjść binarnych przedstawionego na rysunku sterownika PLC zastosowanego w urządzeniu mechatronicznym.",
+    "has_images": true,
+    "image": "/images/65966.png",
+    "selected_answer": null,
+    "slug": "okresl-liczbe-wejsc-i-wyjsc-binarnych-przedstawion-be78b832",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65966.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "grupy siłowników z modułem rozszerzającym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "programatora ze sterownikiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "programatora z siłownikiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "silnika z pompą hydrauliczną"
+      }
+    ],
+    "content": "W systemie mechatronicznym interfejs komunikacyjny ma na celu łączenie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "interfejs-komunikacyjny-w-systemie-mechatronicznym-2d71e35f",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Efektywność"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Iskrobezpieczeństwo"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Bezobsługowość"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Niezawodność"
+      }
+    ],
+    "content": "Która z wymienionych właściwości komponentów systemów automatyki, stosowanych w liniach produkcyjnych, ma kluczowe znaczenie przy projektowaniu linii do konfekcjonowania rozcieńczalników do farb i lakierów?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-z-wymienionych-cech-podzespoow-ukadow-auto-8f167605",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "zanegować sygnał B0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "zanegować sygnał B1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zamiast przerzutnika RS zastosować dwuwejściową bramkę NOR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "zamiast przerzutnika RS zastosować dwuwejściową bramkę NAND"
+      }
+    ],
+    "content": "Otwarcie zaworu 1V0 dopływu wody do zbiornika następuje po wygenerowaniu przez czujnik B0 sygnału o wartości 0, a zamknięcie po wygenerowaniu przez czujnik B1 sygnału o wartości 1. Sterowanie zrealizowane przy pomocy przerzutnika RS działa niepoprawnie. Należy",
+    "has_images": true,
+    "image": "/images/77021.png",
+    "selected_answer": null,
+    "slug": "otwarcie-zaworu-1v0-dopywu-wody-do-zbiornika-nast-f3d7aad0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77021.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "CAQ"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "CAM"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "SCADA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "CAD"
+      }
+    ],
+    "content": "Które oprogramowanie należy zainstalować do tworzenia wizualizacji procesu przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/69392.png",
+    "selected_answer": null,
+    "slug": "ktore-oprogramowanie-nalezy-zainstalowac-do-tworze-b6c44aac",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69392.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "SCADA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "CAM"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "CAD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "CAE"
+      }
+    ],
+    "content": "Aby zobrazować funkcjonowanie systemu mechatronicznego na panelu HMI, należy zainstalować oprogramowanie typu",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-celu-wizualizacji-dziaania-systemu-mechatronicz-bf4ddd1e",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Przyspiesza powrót tłoczyska siłownika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Opóźnia wysunięcia tłoczyska siłownika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Opóźnia powrót tłoczyska siłownika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Przyspiesza wysunięcia tłoczyska siłownika."
+      }
+    ],
+    "content": "Jaką funkcję w układzie sterowania przedstawionym na schemacie pełni element 1V3?",
+    "has_images": true,
+    "image": "/images/65942.png",
+    "selected_answer": null,
+    "slug": "jaka-funkcje-w-ukadzie-sterowania-przedstawionym-cfdd4039",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65942.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "RS 485"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "CAN"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "SmartWire-DT"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "PROFINET"
+      }
+    ],
+    "content": "Która z magistrali komunikacyjnych nie wymaga instalacji rezystorów terminacyjnych na końcach?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-magistrala-komunikacyjna-nie-wymaga-montowan-08f059d5",
+    "video": null,
+    "correct_answer": "Nie znaleziono"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Y2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Y1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "X0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "X1"
+      }
+    ],
+    "content": "Układ sterowania obrotami silnika elektrycznego (prawo-lewo), w którym wykorzystano sterownik PLC, działający według programu LD jak na rysunku, nie działa prawidłowo. Przyczyną jest błędne wykorzystanie w programie sterowniczym operandu",
+    "has_images": true,
+    "image": "/images/72883.png",
+    "selected_answer": null,
+    "slug": "ukad-sterowania-obrotami-silnika-elektrycznego-p-72bcc80b",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/72883.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "gdy siłownik 1A1 zostanie wsunięty i moduł czasowy odliczy czas t = 2 s"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "po 2 s od chwili zadziałania elementu sygnałowego SO"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "po 2 s od chwili zadziałania elementu sygnałowego S1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "gdy siłownik 1A1 zostanie wysunięty i moduł czasowy odliczy czas t = 2 s"
+      }
+    ],
+    "content": "Zawór 1V1 przełączy się z pozycji a na b",
+    "has_images": true,
+    "image": "/images/69416.png",
+    "selected_answer": null,
+    "slug": "zawor-1v1-przeaczy-sie-z-pozycji-a-na-b-a5d3ebc2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69416.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "-90°"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "90°"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "0°"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "45°"
+      }
+    ],
+    "content": "Jakie jest przesunięcie fazowe sygnału wyjściowego w odniesieniu do sygnału wejściowego sinusoidalnego w regulatorze typu PD?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaka-jest-wartosc-przesuniecia-fazowego-sygnau-wy-50c0a1be",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "wysunięcie tłoków obu siłowników 1A1 i 1A2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "wysunięcie tłoka siłownika 1A2 i wsunięcie tłoka siłownika 1A1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wysunięcie tłoka siłownika 1 Al i wsunięcie tłoka siłownika 1A2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "wsunięcie tłoków obu siłowników 1A1 i 1A2"
+      }
+    ],
+    "content": "Po wciśnięciu przycisku sterującego zaworu rozdzielającego IV nastąpi",
+    "has_images": true,
+    "image": "/images/55672.png",
+    "selected_answer": null,
+    "slug": "po-wcisnieciu-przycisku-sterujacego-zaworu-rozdzie-65e58c1d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55672.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "CAD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "CAM"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "SCADA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "CAQ"
+      }
+    ],
+    "content": "Który typ oprogramowania należy zastosować do utworzenia wizualizacji procesu przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/65923.png",
+    "selected_answer": null,
+    "slug": "ktory-typ-oprogramowania-nalezy-zastosowac-do-utwo-a8dcfee0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65923.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/85923.webp",
+        "image_alt": "Wariant A",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/85926.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/85924.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/85925.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Który symbol graficzny oznacza sterowanie ręczne dźwignią?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-symbol-graficzny-oznacza-sterowanie-reczne-d-84024b56",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "5°38&#x27;"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "11°15&#x27;"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "2°49&#x27;"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "22°30&#x27;"
+      }
+    ],
+    "content": "Silnik krokowy dysponuje 4 uzwojeniami wzbudzającymi, z których każde ma 8 nabiegunników. Jakie będzie przesunięcie kątowe silnika przypadające na pojedynczy krok przy sterowaniu jednym uzwojeniem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "silnik-krokowy-ma-4-uzwojenia-wzbudzajace-a-kazde-02e70077",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "pompy hydraulicznej z silnikiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "sterownika z programatorem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "modułu rozszerzającego z grupą siłowników"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "siłownika z programatorem"
+      }
+    ],
+    "content": "Interfejs komunikacyjny umożliwia połączenie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "interfejs-komunikacyjny-suzy-do-poaczenia-a49d61d7",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78086.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/78087.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/78088.webp",
+        "image_alt": "Wariant D",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/78085.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Pracownik obsługujący prasę ma do dyspozycji dwa przyciski typu NO: S1 (adres I1) oraz S2 (adres I2). Przyciski są podłączone do wejść sterownika PLC odpowiednio S1 do I1 oraz S2 do I2. Do wyjścia Ω3 jest podłączony elektrozawór Y1 (adres Ω3). Obsługujący prasę może ją uruchomić tylko w przypadku jednoczesnego naciśnięcia obu przycisków. Który z przedstawionych programów, napisanych w języku blokowym, realizuje to zadanie?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-obsugujacy-prase-ma-do-dyspozycji-dwa-p-6972704d",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Debugger"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Kompilator"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Deasembler"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Emulator"
+      }
+    ],
+    "content": "Który z programów przekształca kod napisany w danym języku programowania na kod maszynowy stosowany przez mikrokontroler?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-program-dokonuje-tumaczenia-kodu-napisanego-e97962ea",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Nie zaświeci się."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Będzie świeciła się przez 5 sekund."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Zaświeci się z opóźnieniem 5 sekund."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Będzie się świeciła ciągle."
+      }
+    ],
+    "content": "Wyjście Q0.0 sterownika PLC połączone jest z lampką sygnalizacyjną. Do sterownika tego wgrano program przedstawiony na rysunku. Jaka będzie reakcja lampki sygnalizacyjnej po pojawieniu się sygnału wysokiego na wejściu I0.0 przy jednoczesnym braku sygnału na wejściu I0.1?",
+    "has_images": true,
+    "image": "/images/77002.png",
+    "selected_answer": null,
+    "slug": "wyjscie-q00-sterownika-plc-poaczone-jest-z-lampk-301dd9b0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77002.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "programować i usuwać elektrycznie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "kasować za pomocą promieniowania ultrafioletowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "tylko odczytywać"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "bezpowrotnie stracić po odłączeniu zasilania"
+      }
+    ],
+    "content": "Pamięć EPROM (ang. Erasable Programmable Read-Only Memory) to typ pamięci cyfrowej realizowanej w formie układu scalonego, którą można",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pamiec-eprom-ang-erasable-programmable-read-only-8a3b2f35",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "S1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "B2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "B3"
+      }
+    ],
+    "content": "Wsuwanie siłownika 1A rozpoczyna się po zadziałaniu czujnika",
+    "has_images": true,
+    "image": "/images/77022.png",
+    "selected_answer": null,
+    "slug": "wsuwanie-siownika-1a-rozpoczyna-sie-po-zadziaani-25c24d1e",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77022.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "1V2 i zaworu 1V1 z pozycji b na a."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "1V2 z pozycji a na b."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "1V1 z pozycji a na b."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "1V2 lub zaworu 1V1 z pozycji b na a."
+      }
+    ],
+    "content": "Po wsunięciu siłownika 1A1 następuje przełączenie zaworu",
+    "has_images": true,
+    "image": "/images/77018.png",
+    "selected_answer": null,
+    "slug": "po-wsunieciu-siownika-1a1-nastepuje-przeaczenie-9a72c0f1",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77018.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Szybkiego spustu."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Podwójnego sygnału."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Dławiąco-zwrotny."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Przełącznik obiegu."
+      }
+    ],
+    "content": "W przedstawionym na schemacie układzie sterowania siłownikiem jednostronnego działania tłoczysko siłownika powinno się wysuwać przy jednoczesnym naciśnięciu obu przycisków. Który zawór należy zamontować w układzie w miejscu oznaczonym symbolem X?",
+    "has_images": true,
+    "image": "/images/55676.png",
+    "selected_answer": null,
+    "slug": "w-przedstawionym-na-schemacie-ukadzie-sterowania-da90e31a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55676.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "S7-200 o 6 wejściach i 4 wyjściach"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "S7-200 o 14 wejściach i 10 wyjściach"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "S7-200 o 24 wejściach i 16 wyjściach"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "S7-200 o 8 wejściach i 6 wyjściach"
+      }
+    ],
+    "content": "Dobierz minimalny zestaw sterownika S7-200 do realizacji sterowania windą w budynku trzykondygnacyjnym. Wykorzystaj w tym celu opis elementów wejściowych/wyjściowych podłączonych do sterownika.<br><br>\r\n<table style=\"border-collapse: collapse; text-align: left; font-family: Arial, sans-serif;\">\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px; vertical-align: top;\" rowspan=\"5\">Elementy<br>wejściowe</td>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">jeden czujnik na każdej kondygnacji informujący o stanie drzwi zewnętrznych (otwarte/zamknięte)</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">jeden czujnik na każdej kondygnacji informujący o położeniu windy</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">jeden przycisk na każdej kondygnacji przywołujący windę</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">3 przyciski wewnątrz windy służące do wyboru kondygnacji</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">jeden przycisk wewnątrz windy informujący o awarii (AWARIA)</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px; vertical-align: top;\" rowspan=\"2\">Elementy<br>wyjściowe</td>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">dwa styczniki załączające otwieranie i zamykanie drzwi</td>\r\n    </tr>\r\n    <tr>\r\n        <td style=\"border: 1px solid black; padding: 5px;\">dwa styczniki uruchamiające jazdę kabiny na dół i jazdę kabiny do góry</td>\r\n    </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "dobierz-minimalny-zestaw-sterownika-s7-200-do-real-1736d964",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "(-P1)-(+P1)-(+P2)-(-P2)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "(+P1)-(-P1)-(-P2)-(+P2)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "(-P1)-(-P1)-(+P2)-(+P2)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "(+P1)-(+P2)-(-P1)-(-P2)"
+      }
+    ],
+    "content": "Silnik krokowy zastosowany w napędzie mechatronicznym sterowany jest za pomocą dedykowanego układu mikroprocesorowego. Która z wymienionych sekwencji komutacji spowoduje wirowanie wirnika silnika w prawo?",
+    "has_images": true,
+    "image": "/images/65481.png",
+    "selected_answer": null,
+    "slug": "silnik-krokowy-zastosowany-w-napedzie-mechatronicz-cae29a5f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65481.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Pojawienie się stanu niskiego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Pojawienie się stanu wysokiego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Podtrzymanie stanu poprzedniego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Zmianę stanu na przeciwny."
+      }
+    ],
+    "content": "Na podstawie diagramu czasowego, określ jaką reakcję na wyjściu Q przerzutnika JK spowodowało podanie stanu wysokiego na wejście J (C↑, J=1, K=0).",
+    "has_images": true,
+    "image": "/images/77001.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-diagramu-czasowego-okresl-jaka-reakc-b369dc40",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77001.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Cewka Y1 zostanie załączona po 10 s od naciśnięcia któregokolwiek z przycisków S1 i S2 i wyłączona od razu po zwolnieniu jednego z przycisków."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Cewka Y1 zostanie załączona po naciśnięciu któregokolwiek z przycisków S1 i S2 i wyłączona po 10 s od zwolnienia obu przycisków."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Cewka Y1 zostanie załączona po naciśnięciu któregokolwiek z przycisków SI1 i S2 i wyłączona po 10 s od zwolnienia jednego z przycisków."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Cewka Y1 zostanie załączona po 10 s od naciśnięcia któregokolwiek z przycisków S1 i S2 i wyłączona od razu po zwolnieniu obu przycisków."
+      }
+    ],
+    "content": "Wskaż opis, który jest zgodny ze schematem.",
+    "has_images": true,
+    "image": "/images/69434.png",
+    "selected_answer": null,
+    "slug": "wskaz-opis-ktory-jest-zgodny-ze-schematem-5c1b4f9d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69434.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "10 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "2,5 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "0,75 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "3 A"
+      }
+    ],
+    "content": "W tabeli podano dane techniczne sterownika PLC Jakim maksymalnym prądem można obciążyć sterownik dołączając do jego wyjścia silnik?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; width: auto;\" aria-label=\"Dane techniczne\">\r\n  <tr>\r\n    <th colspan=\"2\" style=\"border: 1px solid black; padding: 8px; text-align: left; font-weight: bold;\">Dane techniczne</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Napięcie zasilające</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">AC/DC 24 V</td>\r\n  </tr>\r\n  <tr>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: left;\">Wejścia:</th>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\"></td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Zakres dopuszczalny</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">DC 20,4 ... 28,8 V</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przy sygnale „0\"</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">maks. AC/DC 5 V</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przy sygnale „1\"</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">min. AC/DC 12 V</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Prąd wejściowy</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">2,5 mA</td>\r\n  </tr>\r\n  <tr>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: left;\">Wyjścia:</th>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\"></td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Rodzaj</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">4 przekaźnikowe</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Prąd ciągły</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">10 A - przy obciążeniu rezystancyjnym,<br>3 A - przy obciążeniu indukcyjnym</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-tabeli-podano-dane-techniczne-sterownika-plc-jak-f57d43b0",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "I2 = 1 i I3 = 1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "I2 = 0 i I3 = 1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "I2 = 0 i I3 = 0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "I2 = 1 i I3 = 0"
+      }
+    ],
+    "content": "Wskaż stany logiczne wejść I2 i I3 sterownika w układzie przedstawionym na rysunku przy wysuniętym tłoczysku siłownika i poprawnej pracy czujników.",
+    "has_images": true,
+    "image": "/images/65822.png",
+    "selected_answer": null,
+    "slug": "wskaz-stany-logiczne-wejsc-i2-i-i3-sterownika-w-uk-38402cda",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65822.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Anoda"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Bramka"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Źródło"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Katoda"
+      }
+    ],
+    "content": "Który z elementów tyrystora ma funkcję sterowania?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-element-tyrystora-peni-funkcje-sterujaca-0f47532b",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "na odczyt wartości zmierzonych parametrów"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "na pomiar parametrów procesowych prasy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "na załączanie i wyłączanie pracy prasy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "na wizualizację przebiegu pracy prasy"
+      }
+    ],
+    "content": "Podsystem mechatroniczny prasy hydraulicznej został wyposażony w terminal HMI. To urządzenie nie pozwala jedynie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podsystem-mechatroniczny-prasy-hydraulicznej-zosta-3d050815",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "a0 w stanie wysokim i b1 w stanie wysokim."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "a0 w stanie niskim i b1 w stanie wysokim"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "a0 w stanie niskim lub b1 w stanie wysokim."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "a0 w stanie wysokim lub b1 w stanie wysokim."
+      }
+    ],
+    "content": "Z przedstawionego cyklogramu wynika, że w takcie 4 rozpoczęcie powrotu tłoczyska B nastąpi po wystąpieniu sygnałów:",
+    "has_images": true,
+    "image": "/images/76923.png",
+    "selected_answer": null,
+    "slug": "z-przedstawionego-cyklogramu-wynika-ze-w-takcie-4-9892aae2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76923.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "4 porty."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "3 porty."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "5 portów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "2 porty."
+      }
+    ],
+    "content": "Ile minimalnie 8 bitowych portów we/wy powinien posiadać mikrokontroler PIC wyposażony w szeregowy<br> 8-bitowy przetwornik analogowo-cyfrowy oznaczony ADC0831, aby można było zrealizować układ mechatroniczny przedstawiony na rysunku?",
+    "has_images": true,
+    "image": "/images/65836.png",
+    "selected_answer": null,
+    "slug": "ile-minimalnie-8-bitowych-portow-wewy-powinien-po-42297385",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65836.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "R"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "T"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Q"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "I"
+      }
+    ],
+    "content": "Jakim symbolem literowym określa się zmienną wyjściową w sterowniku PLC?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorym-symbolem-literowym-oznaczana-jest-zmienna-w-e58fe6ce",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Bezzwłocznie wyłącza się syrena H2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Syrena H2 załącza się dopiero po rozwarciu łącznika S1, a lampka H1 świeci nadal."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Syrena H2 załącza się dopiero po rozwarciu łącznika S1 i gaśnie wtedy lampka H1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Bezzwłocznie załącza się syrena H2."
+      }
+    ],
+    "content": "Po załączeniu łącznika S0 w obwodzie przedstawionym na schemacie zapala się lampka H1. Jakie jest dalsze działanie tego układu?",
+    "has_images": true,
+    "image": "/images/77133.png",
+    "selected_answer": null,
+    "slug": "po-zaaczeniu-acznika-s0-w-obwodzie-przedstawiony-6eed9df1",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77133.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "1500 obr./min"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "50 obr./min"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "400 obr./min"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "4,8 obr./min"
+      }
+    ],
+    "content": "Silnik synchroniczny zasilany z przemiennika częstotliwości o ustawieniach przedstawionych na rysunku, będzie pracował z prędkością obrotową",
+    "has_images": true,
+    "image": "/images/69391.png",
+    "selected_answer": null,
+    "slug": "silnik-synchroniczny-zasilany-z-przemiennika-czest-66f2a66d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69391.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "ini"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "sys"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "exe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "bmp"
+      }
+    ],
+    "content": "Jakie rozszerzenie nazwy pliku w systemie Windows wskazuje na pliki wykonywalne?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-rozszerzenie-nazwy-pliku-w-systemie-windows-59372b15",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "OR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "AND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "NOR"
+      }
+    ],
+    "content": "Bramka przedstawiona na rysunku realizuje funkcję",
+    "has_images": true,
+    "image": "/images/76383.png",
+    "selected_answer": null,
+    "slug": "bramka-przedstawiona-na-rysunku-realizuje-funkcje-687a58f9",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76383.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "elektrycznego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "mechanicznego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "hydraulicznego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "pneumatycznego."
+      }
+    ],
+    "content": "Na rysunku przedstawiono zawór rozdzielający przystosowany do sterowania",
+    "has_images": true,
+    "image": "/images/65855.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-zawor-rozdzielajacy-przys-cf4f58fe",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65855.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "być wciągane do osłon jako pierwsze"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "być wciągane do osłon jako ostatnie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "być kładzione w bezpośrednim sąsiedztwie kabli energetycznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "być układane jak najdalej od przewodów silnoprądowych"
+      }
+    ],
+    "content": "Podczas instalacji systemu z kontrolerem PLC, przewody magistrali Profibus powinny",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-montazu-ukadu-ze-sterownikiem-plc-przewod-8993a3c0",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "stycznik trójfazowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "mechanizm krzywkowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "przekaźnik termiczny."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "przekaźnik czasowy."
+      }
+    ],
+    "content": "Na fragmencie schematu obwodu sterowania silnika trójfazowego element oznaczony symbolem PC1 to",
+    "has_images": true,
+    "image": "/images/77543.png",
+    "selected_answer": null,
+    "slug": "na-fragmencie-schematu-obwodu-sterowania-silnika-t-315a55a3",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77543.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Aktualizacja stanu wejść, inicjalizacja sterownika, aktualizacja stanu wyjść, wykonanie programu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Aktualizacja stanu wyjść, inicjalizacja sterownika, wykonanie programu, uaktualnianie stanu wejść"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Inicjalizacja sterownika, aktualizacja stanu wyjść, aktualizacja stanu wejść, wykonanie programu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Inicjalizacja sterownika, aktualizacja stanu wejść, wykonanie programu, aktualizacja stanu wyjść"
+      }
+    ],
+    "content": "Jakie są etapy podstawowych cykli działania sterownika PLC?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaka-jest-kolejnosc-podstawowych-cykli-pracy-stero-c41d1d90",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "podtrzymanie tłoczyska przy zmieniających się siłach."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "połączenie różnicowe zasilania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "szybkie odciążenie tłoczyska."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "uzyskanie różnych prędkości tłoczyska w obu kierunkach."
+      }
+    ],
+    "content": "Na schemacie przedstawiono układ sterowania hydraulicznego, który zapewnia",
+    "has_images": true,
+    "image": "/images/69306.png",
+    "selected_answer": null,
+    "slug": "na-schemacie-przedstawiono-ukad-sterowania-hydrau-5774d31d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69306.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "IL"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "FBD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "STL"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "LD"
+      }
+    ],
+    "content": "Jakim skrótem literowym określa się język drabinkowy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorym-skrotem-literowym-jest-oznaczany-jezyk-drab-cfd6f224",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "symetryczny nieekranowany (tzw. skrętka nieekranowana)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "światłowodowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "koncentryczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "symetryczny ekranowany (tzw. skrętka ekranowana)"
+      }
+    ],
+    "content": "Aby maksymalnie zwiększyć zasięg przesyłania danych oraz ograniczyć wpływ zakłóceń elektromagnetycznych na transmisję w systemie mechatronicznym przy realizacji sterowania sieciowego, jaki kabel należy wykorzystać?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przy-realizacji-sterowania-sieciowego-w-systemie-m-e2d98e33",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zawór 1A1 jest przełączany z pozycji 2 na 1, a siłowniki 1V1 i 1V2 są w pozycji b."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "zawór 1A1 jest przełączany z pozycji 1 na 2, a siłowniki 1V1 i 1V2 są w pozycji b."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "siłownik 1A1 jest wsuwany, a zawory 1V1 i 1V2 są w pozycji b."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "siłownik 1A1 jest wysuwany, a zawory 1V1 i 1V2 są przełączane z pozycji b na a."
+      }
+    ],
+    "content": "W kroku drugim diagramu przedstawionego na rysunku",
+    "has_images": true,
+    "image": "/images/77020.png",
+    "selected_answer": null,
+    "slug": "w-kroku-drugim-diagramu-przedstawionego-na-rysunku-49439f8a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77020.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B2 i B4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "S0 i S1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "S0 i B2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "B3 i B5"
+      }
+    ],
+    "content": "W układzie przedstawionym na ilustracji wykonano pomiary rezystancji pomiędzy punktem zasilania +24 V a kolejnymi punktami wejściowymi sterownika PLC. Otrzymane wyniki zapisano w tabeli. Które elementy (łączniki sterownicze, kontaktrony) powinny zostać wymienione?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; border: 2px solid #000;\" aria-label=\"Tabela pomiarów rezystancji\">\r\n  <tr>\r\n    <th style=\"border: 1px solid #000; padding: 8px; text-align: left; background-color: #f8f8f8;\">Mierzony<br>odcinek</th>\r\n    <th style=\"border: 1px solid #000; padding: 8px; text-align: left; background-color: #f8f8f8;\">Wartość zmierzonej<br>rezystancji</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE1</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">1,02 Ω</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE2</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">∞</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE3</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">∞</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE4</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">2,04 Ω</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE5</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">∞</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: left;\">+24 V / WE6</td>\r\n    <td style=\"border: 1px solid #000; padding: 8px; text-align: center;\">2,12 Ω</td>\r\n  </tr>\r\n</table>",
+    "has_images": true,
+    "image": "/images/65827.png",
+    "selected_answer": null,
+    "slug": "w-ukadzie-przedstawionym-na-ilustracji-wykonano-p-a2889d02",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65827.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Kodowanie sygnałów na wejściach"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Porównywanie sygnałów podawanych na wejścia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Przesyłanie danych z jednego wejścia do wybranego wyjścia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Przesyłanie danych z wybranego wejścia na jedno wyjście"
+      }
+    ],
+    "content": "Jaką rolę pełni multiplekser?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaka-jest-funkcja-multipleksera-6a17fae0",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "wysunięcie tłoków obu siłowników 1A1 i 1A2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "wsunięcie tłoków obu siłowników 1A1 i 1A2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wysunięcie tłoka siłownika 1A1 i wsunięcie tłoka siłownika 1A2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "wysunięcie tłoka siłownika 1A2 i wsunięcie tłoka siłownika 1A1"
+      }
+    ],
+    "content": "Po wciśnięciu przycisku sterującego zaworu rozdzielającego 1V1 nastąpi",
+    "has_images": true,
+    "image": "/images/65941.png",
+    "selected_answer": null,
+    "slug": "po-wcisnieciu-przycisku-sterujacego-zaworu-rozdzie-a3bf97b2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65941.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Konwersja kodu binarnego na format dziesiętny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Przetłumaczenie programu na kod binarny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Pobranie programu z kontrolera"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Przesłanie programu do kontrolera"
+      }
+    ],
+    "content": "Jaką czynność zrealizuje polecenie COMPILE w kontekście programowania systemów mechatronicznych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-akcja-zostanie-wykonana-po-wywoaniu-polecen-590101b2",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "blokowanie jednoczesnego załączenia cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "włączenie zasilania cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wyłączenie zasilania cewek przekaźników K1 i K2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "podtrzymanie zasilania cewek przekaźników K1 i K2"
+      }
+    ],
+    "content": "Zestyk K1, oznaczony na schemacie czerwoną ramką, odpowiada za",
+    "has_images": true,
+    "image": "/images/69376.png",
+    "selected_answer": null,
+    "slug": "zestyk-k1-oznaczony-na-schemacie-czerwona-ramka-8f8c8e4f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69376.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "wysunięty, siłownik 2A w trakcie wysuwania, a silnik M1 wyłączony."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "wysunięty, siłownik 2A w trakcie wsuwania, a silnik M1 wyłączony."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wsunięty, siłownik 2A w trakcie wysuwania, a silnik M1 włączony."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "wysunięty, siłownik 2A w trakcie wysuwania, a silnik M1 włączony."
+      }
+    ],
+    "content": "W kroku 4 siłownik 1A jest",
+    "has_images": true,
+    "image": "/images/77023.png",
+    "selected_answer": null,
+    "slug": "w-kroku-4-siownik-1a-jest-059fb20a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77023.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "cyfrowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "binarnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "analogowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "programowalnego"
+      }
+    ],
+    "content": "Ciągłe sensory oraz wzmacniacze operacyjne stanowią standardowe komponenty systemu sterowania?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "sensory-o-dziaaniu-ciagym-i-wzmacniacze-operacyj-c7e85213",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "zestyku normalnie zamkniętego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "przycisku ręcznego rozwiernego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "przycisku ręcznego zwiernego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "zestyku normalnie otwartego."
+      }
+    ],
+    "content": "Na rysunku przedstawiono symbol graficzny",
+    "has_images": true,
+    "image": "/images/69680.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-symbol-graficzny-58355fe6",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69680.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "1-ON, 2-OFF, 3-OFF, 4-OFF"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "1-OFF, 2-ON, 3-OFF, 4-OFF"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "1-ON, 2-ON, 3-ON, 4-ON"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "1-OFF, 2-OFF, 3-OFF, 4-OFF"
+      }
+    ],
+    "content": "Jakie powinny być nastawy przełącznika przemiennika częstotliwości, by można było sterować jego pracą za pomocą sygnału 0÷20 mA?",
+    "has_images": true,
+    "image": "/images/65823.png",
+    "selected_answer": null,
+    "slug": "jakie-powinny-byc-nastawy-przeacznika-przemiennik-30330e54",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65823.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "szerokości impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "częstotliwości sygnału"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "fazy sygnału"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "amplitudy impulsu"
+      }
+    ],
+    "content": "Modulacja szerokości impulsu (PWM) w systemach sterujących odnosi się do regulacji poprzez zmianę",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pulse-width-modulation-pwm-w-ukadach-sterowania-c9ab788e",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "czerwonym i czarnym."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "brązowym i niebieskim."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "czarnym i niebieskim."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "szarym i niebieskim."
+      }
+    ],
+    "content": "Zgodnie z wytycznymi producenta przedstawionymi w tabeli układ sterowniczy urządzenia mechatronicznego pracującego przy napięciu zasilania 24 V DC należy połączyć przewodami w kolorach żółto-zielonym oraz\n<br><br>\n<table style=\"border-collapse: collapse; width: auto;\" aria-label=\"Oznaczenia przewodów\">\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;\">Nazwa przewodu</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;\">Oznaczenie przewodu lub zacisku kodem alfanumerycznym</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center; font-weight: bold;\">Oznaczenie przewodu kolorem</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód liniowy 1 (AC)<br>Przewód liniowy 2 (AC)<br>Przewód liniowy 3 (AC)</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">L1<br>L2<br>L3</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\" rowspan=\"2\">czarnym lub<br>brązowym, lub szarym</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód neutralny (AC)</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">N</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód środkowy (AC)</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">M</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">niebieskim</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód dodatni (DC)</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">L+</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">czerwonym</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód ujemny (DC)</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">L-</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">czarnym</td>\n  </tr>\n  <tr>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Przewód ochronny<br>Przewód ochronno-neutralny<br>Przewód ochronno-liniowy<br>Przewód ochronno-środkowy</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">PE<br>PEN<br>PEL<br>PEM</td>\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">żółto-zielonym</td>\n  </tr>\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zgodnie-z-wytycznymi-producenta-przedstawionymi-w-769329c7",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "przekaźnik elektromagnetyczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "czujnik rezystancyjny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "czujnik indukcyjny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "prądnicę tachometryczną"
+      }
+    ],
+    "content": "Aby zmierzyć temperaturę, należy podłączyć do wejścia sterownika PLC",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-pomiaru-temperatury-nalezy-podaczyc-na-wejscie-cd344d86",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "PS-2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "RJ-45"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "DB-25"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "DE-9"
+      }
+    ],
+    "content": "Którym wtykiem powinien być zakończony kabel komunikacyjny do sterownika przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/65971.png",
+    "selected_answer": null,
+    "slug": "ktorym-wtykiem-powinien-byc-zakonczony-kabel-komun-b92e08e1",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65971.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zmniejszyć przepływy na zaworze 1V3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Zmniejszyć równomiernie przepływy na zaworach 1V2 i 1V3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Zmniejszyć przepływy na zaworze 1V2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Zwiększyć równomiernie przepływy na zaworach 1V2 i 1V3."
+      }
+    ],
+    "content": "Którą z czynności regulacyjnych należy wykonać, aby tłoczysko siłownika 1A1 wsuwało się wolniej niż wysuwało?",
+    "has_images": true,
+    "image": "/images/65973.png",
+    "selected_answer": null,
+    "slug": "ktora-z-czynnosci-regulacyjnych-nalezy-wykonac-ab-fd42f357",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65973.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Rezystancją w obwodzie wzbudzenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Rezystancją w obwodzie twornika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Napięciem przyłożonym do obwodu twornika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Napięciem przyłożonym do obwodu wzbudzenia"
+      }
+    ],
+    "content": "Która metoda regulacji prędkości obrotowej silnika obcowzbudnego prądu stałego umożliwi efektywną regulację w szerokim zakresie od 0 do n<sub>n</sub>?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-sposob-regulacji-predkosci-obrotowej-silnika-d80baa43",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Na przedstawionym diagramie sygnał Y odpowiada funkcji logicznej",
+    "has_images": true,
+    "image": "/images/65832.png",
+    "selected_answer": null,
+    "slug": "na-przedstawionym-diagramie-sygna-y-odpowiada-fun-332e06ac",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65832.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "opóźnionego wyłączenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "opóźnionego załączenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "opóźnionego załączania cyklicznego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "opóźnionego wyłączania cyklicznego."
+      }
+    ],
+    "content": "Przekaźnik czasowy z nastawą dwóch czasów realizuje funkcję A ustawioną potencjometrem konfiguracyjnym FUNC, której odpowiada diagram pracy przedstawiony na rysunku. Oznacza to realizację przez przekaźnik funkcji",
+    "has_images": true,
+    "image": "/images/65861.png",
+    "selected_answer": null,
+    "slug": "przekaznik-czasowy-z-nastawa-dwoch-czasow-realizuj-0bd19001",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65861.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "S1 = 0 i S2 = 1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "S1 = 0 i S2 = 0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "S1 = 1 i S2 = 0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "S1 = 1 i S2 = 1"
+      }
+    ],
+    "content": "Sygnał MO w układzie przedstawionym na rysunku jest równy 1, gdy",
+    "has_images": true,
+    "image": "/images/72881.png",
+    "selected_answer": null,
+    "slug": "sygna-mo-w-ukadzie-przedstawionym-na-rysunku-jes-6cbb9db9",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/72881.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "wyłączyć dopływ sprężonego powietrza, odłączyć siłownik oraz wyłączyć PLC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "odłączyć przewody zasilające sterownik oraz przewody pneumatyczne od elektrozaworu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wprowadzić sterownik PLC w tryb STOP, odłączyć zasilanie elektryczne oraz pneumatyczne układu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "dezaktywować zasilanie pneumatyczne, odłączyć przewody od cewki elektrozaworu i przewody"
+      }
+    ],
+    "content": "Przed przystąpieniem do wymiany zaworu elektropneumatycznego, który jest sterowany przez PLC, należy zająć się zasilaniem pneumatycznym.",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przed-rozpoczeciem-wymiany-zaworu-elektropneumatyc-d991508c",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "PID"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "PI"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "I"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "PD"
+      }
+    ],
+    "content": "Przedstawiony na rysunku układ jest symbolem regulatora typu",
+    "has_images": true,
+    "image": "/images/55832.png",
+    "selected_answer": null,
+    "slug": "przedstawiony-na-rysunku-ukad-jest-symbolem-regul-0f7733f7",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55832.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "silnika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "bezpiecznika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "stycznika 1S."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "stycznika 2S."
+      }
+    ],
+    "content": "Stycznikowy układ sterowania silnikiem, przedstawiony na schemacie, nie działa prawidłowo. W tabeli zestawiono wyniki pomiarów dla tego układu. Na ich podstawie można stwierdzić, że przyczyną niesprawności układu jest uszkodzenie",
+    "has_images": true,
+    "image": "/images/77540.png",
+    "selected_answer": null,
+    "slug": "stycznikowy-ukad-sterowania-silnikiem-przedstawi-db6c97f9",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77540.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "pneumatycznie przez spadek ciśnienia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "siłą mięśni."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "elektrycznie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "pneumatycznie przez wzrost ciśnienia."
+      }
+    ],
+    "content": "W układzie przedstawionym na schemacie zawór zasadniczy jest sterowany",
+    "has_images": true,
+    "image": "/images/69382.png",
+    "selected_answer": null,
+    "slug": "w-ukadzie-przedstawionym-na-schemacie-zawor-zasad-79dea1b8",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69382.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odłączyć przewody zasilające do sterownika oraz przewody pneumatyczne od elektrozaworu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "wyłączyć dopływ sprężonego powietrza, odłączyć siłownik oraz PLC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "wprowadzić sterownik PLC w stan STOP, a następnie wyłączyć zasilanie elektryczne i pneumatyczne układu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "zatrzymać zasilanie pneumatyczne, odłączyć przewody od cewki elektrozaworu oraz przewody pneumatyczne"
+      }
+    ],
+    "content": "Przed przystąpieniem do wymiany zaworu elektropneumatycznego, sterowanego przez PLC, co należy zrobić?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przed-rozpoczeciem-wymiany-zaworu-elektropneumatyc-3ca481d6",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "8-bitowym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "16-bitowym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "64-bitowym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "32-bitowym"
+      }
+    ],
+    "content": "Maksymalne napięcie na analogowym wejściu kontrolera PLC wynosi 10 V DC, a rozdzielczość tego wejścia, wynosząca około 40 mV, zapewnia zastosowanie kontrolera PLC z przetwornikiem A/C.",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "maksymalne-napiecie-na-wejsciu-analogowym-sterowni-405988ef",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Ex-OR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Ex-NOR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "NOR"
+      }
+    ],
+    "content": "Rysunek przedstawia symbol graficzny bramki",
+    "has_images": true,
+    "image": "/images/54174.png",
+    "selected_answer": null,
+    "slug": "rysunek-przedstawia-symbol-graficzny-bramki-1f994a2d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/54174.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "amplitudy impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "częstotliwości"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zmianę szerokości impulsu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "zmianę fazy impulsu"
+      }
+    ],
+    "content": "Sterowanie za pomocą Pulse Width Modulation (PWM) w systemach kontrolnych odnosi się do regulacji przez",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pulse-width-modulation-pwm-w-ukadach-sterowania-ff282301",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "2A1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "B1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "1S1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "T"
+      }
+    ],
+    "content": "Na podstawie przedstawionego diagramu określ którym symbolem jest oznaczony element powodujący wysterowanie zaworu Y1 w pierwszym kroku działania.",
+    "has_images": true,
+    "image": "/images/65927.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-przedstawionego-diagramu-okresl-ktory-ff401371",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65927.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "\\( Y = 0 \\)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "\\( Y = 1 \\)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "\\( Y = \\overline{A} \\cap \\overline{B} \\)"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "\\( Y = \\overline{A} \\cup \\overline{B} \\)"
+      }
+    ],
+    "content": "Bramka przedstawiona na rysunku realizuje funkcję logiczną.",
+    "has_images": true,
+    "image": "/images/82989.png",
+    "selected_answer": null,
+    "slug": "bramka-przedstawiona-na-rysunku-realizuje-funkcje-85054078",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/82989.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "dwa siłowniki jednostronnego działania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "dwa siłowniki dwustronnego działania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "jeden siłownik dwustronnego i jeden siłownik jednostronnego działania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "trzy siłowniki dwustronnego działania."
+      }
+    ],
+    "content": "Układ sterowania pneumatycznego przedstawiony na schemacie zawiera",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ukad-sterowania-pneumatycznego-przedstawiony-na-s-1be98315",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "9"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "6"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "7"
+      }
+    ],
+    "content": "Przedstawione na rysunku przebiegi czasowe są właściwe dla licznika o cyklu zliczania",
+    "has_images": true,
+    "image": "/images/69397.png",
+    "selected_answer": null,
+    "slug": "przedstawione-na-rysunku-przebiegi-czasowe-sa-was-47d31552",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69397.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "zmianę częstotliwości sygnału cyfrowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "opóźnienie czasowe sygnału."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "odmierzanie określonego czasu."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "pamiętanie informacji w postaci binarnej."
+      }
+    ],
+    "content": "Przedstawiony na rysunku blok z biblioteki sterownika PLC ma za zadanie",
+    "has_images": true,
+    "image": "/images/69390.png",
+    "selected_answer": null,
+    "slug": "przedstawiony-na-rysunku-blok-z-biblioteki-sterown-8c5597e6",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69390.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Prostownik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Chopper"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Falownik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Stycznik"
+      }
+    ],
+    "content": "Jakie urządzenie stosowane do zasilania silnika indukcyjnego potrafi regulować częstotliwość wyjściową?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-urzadzenie-wykorzystywane-do-zasilania-silni-798e6e48",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "192.168.0.1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "192.168.0.45"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "192.168.0.50"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "192.168.0.55"
+      }
+    ],
+    "content": "Który adres IP ma urządzenie służące do wizualizacji procesu sterowania systemem mechatronicznym, obsługiwanym przez sterowniki PLC, pracujące w sieci Ethernet, której strukturę przedstawiono na rysunku.",
+    "has_images": true,
+    "image": "/images/65965.png",
+    "selected_answer": null,
+    "slug": "ktory-adres-ip-ma-urzadzenie-suzace-do-wizualizac-5ac737a1",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65965.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "trój fazowy na prąd jednofazowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "zmienny o regulowanej częstotliwości na prąd zmienny 50 Hz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zmienny o częstotliwości 50 Hz na prąd stały"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "stały na prąd zmienny o regulowanej częstotliwości"
+      }
+    ],
+    "content": "Falownik to urządzenie przetwarzające moc, które konwertuje prąd",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "falownik-to-przetwornik-mocy-ktory-zamienia-prad-df5c3c39",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "zasilacz impulsowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "przekaźnik półprzewodnikowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "regulator temperatury."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "sterownik PLC."
+      }
+    ],
+    "content": "Na rysunku przedstawiono",
+    "has_images": true,
+    "image": "/images/69378.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-346d4da5",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69378.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "NAND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "AND"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "OR"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "NOR"
+      }
+    ],
+    "content": "Którą funkcję logiczną realizują przedstawione na rysunku zawory?",
+    "has_images": true,
+    "image": "/images/69315.png",
+    "selected_answer": null,
+    "slug": "ktora-funkcje-logiczna-realizuja-przedstawione-na-4bf8a4e6",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69315.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "układu regulacji automatycznej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "sterowania w układzie otwartym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "sterowania sekwencyjnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "układu sterowania programowalnego"
+      }
+    ],
+    "content": "Elektryczne żelazko wyposażone w termoregulator bimetaliczny stanowi przykład",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zelazko-elektryczne-z-termoregulatorem-bimetaliczn-c87d64cc",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "(255)10"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "(230)10"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "(231)10"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "(254)10"
+      }
+    ],
+    "content": "Wartość sygnału binarnego (11100111)<sub>2</sub> na wyjściu ośmiobitowego przetwornika A/C w urządzeniu mechatronicznym odpowiada liczbie dziesiętnej",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "sygna-binarny-o-wartosci-11100111sub2sub-n-ee5f0f72",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "A=1, B=1, C=1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "A=0, B=0, C=0"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "A=0, B=1, C=1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "A=l, B=0, C=0"
+      }
+    ],
+    "content": "Dla którego stanu wejść na wyjściu Y układu logicznego pojawi się \"1\"?",
+    "has_images": true,
+    "image": "/images/69328.png",
+    "selected_answer": null,
+    "slug": "dla-ktorego-stanu-wejsc-na-wyjsciu-y-ukadu-logicz-205ad16c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69328.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Zestaw 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Zestaw 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Zestaw 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Zestaw 1."
+      }
+    ],
+    "content": "Która kombinacja stanów logicznych wejść I2 i I3 sterownika w przedstawionym układzie wskazuje na poprawny montaż czujników?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; border: 2px solid black;\" aria-label=\"Tabela stanów tłoczyska siłownika\">\r\n  <tr>\r\n    <th style=\"border: 1px solid black; padding: 8px;\"></th>\r\n    <th colspan=\"2\" style=\"border: 1px solid black; padding: 8px; text-align: center;\">Tłoczysko siłownika wsunięte</th>\r\n    <th colspan=\"2\" style=\"border: 1px solid black; padding: 8px; text-align: center;\">Tłoczysko siłownika wysunięte</th>\r\n  </tr>\r\n  <tr>\r\n    <th style=\"border: 1px solid black; padding: 8px;\"></th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Stan I2</th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Stan I3</th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Stan I2</th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Stan I3</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px;\">Zestaw 1.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px;\">Zestaw 2.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px;\">Zestaw 3.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px;\">Zestaw 4.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">1</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">0</td>\r\n  </tr>\r\n</table>",
+    "has_images": true,
+    "image": "/images/65816.png",
+    "selected_answer": null,
+    "slug": "ktora-kombinacja-stanow-logicznych-wejsc-i2-i-i3-s-1a1c3b20",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65816.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Uruchomienie krokowej symulacji działania układu zaprojektowanego w programie przedstawionym na rysunku wymaga kliknięcia ikony",
+    "has_images": true,
+    "image": "/images/65967.png",
+    "selected_answer": null,
+    "slug": "uruchomienie-krokowej-symulacji-dziaania-ukadu-z-65afe423",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65967.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Wskaż zawór, który należy zamontować w miejsce szarego prostokąta, aby w układzie przedstawionym na schemacie zapewnić uruchomienie siłownika wyłącznie po jednoczesnym naciśnięciu obu zaworów rozdzielających.",
+    "has_images": true,
+    "image": "/images/66742.png",
+    "selected_answer": null,
+    "slug": "wskaz-zawor-ktory-nalezy-zamontowac-w-miejsce-sza-28748eec",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66742.png",
+    "correct_answer": "D"
+  }
+]
