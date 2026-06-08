@@ -1,0 +1,4151 @@
+[
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Frezowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Struganie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Toczenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Wiercenie."
+      }
+    ],
+    "content": "Który rodzaj obróbki wiórowej przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/69366.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-obrobki-wiorowej-przedstawiono-na-rys-1510e4a2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69366.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Żeliwo białe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Stal niskowęglowa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Stal wysokowęglowa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Żeliwo szare"
+      }
+    ],
+    "content": "Który z podanych materiałów znajduje zastosowanie w konstrukcjach spawanych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-materiaow-jest-stosowany-w-k-9d297d4e",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "klejenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "lutowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "spawanie."
+      }
+    ],
+    "content": "Przedstawiony na rysunku element elektroniczny należy zamontować na płytce obwodu drukowanego poprzez",
+    "has_images": true,
+    "image": "/images/69401.png",
+    "selected_answer": null,
+    "slug": "przedstawiony-na-rysunku-element-elektroniczny-nal-284f3a77",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69401.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "tarczowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "gwintowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "spawanego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "kołnierzowego."
+      }
+    ],
+    "content": "Muskuł pneumatyczny przedstawiony na rysunku przystosowany jest do połączenia",
+    "has_images": true,
+    "image": "/images/69403.png",
+    "selected_answer": null,
+    "slug": "musku-pneumatyczny-przedstawiony-na-rysunku-przys-e258ebf0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69403.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "szlifowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "cięcia plazmą."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "spawania łukowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "zgrzewania."
+      }
+    ],
+    "content": "Ilustracja przedstawia proces",
+    "has_images": true,
+    "image": "/images/65805.png",
+    "selected_answer": null,
+    "slug": "ilustracja-przedstawia-proces-ed5fd8ec",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65805.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Na ilustracji 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Na ilustracji 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Na ilustracji 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Na ilustracji 4."
+      }
+    ],
+    "content": "Na której ilustracji przedstawiono prawidłowe zaciśnięcie końcówki przewodu w obszarze z izolacją?",
+    "has_images": true,
+    "image": "/images/65814.png",
+    "selected_answer": null,
+    "slug": "na-ktorej-ilustracji-przedstawiono-prawidowe-zaci-a2bce13a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65814.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "klejenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "kołkowania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "spawania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "nitowania"
+      }
+    ],
+    "content": "Do połączeń spoczynkowych trwałych nie wlicza się",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-poaczen-spoczynkowych-nierozacznych-nie-zalic-8985e842",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/84845.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/84844.webp",
+        "image_alt": "Wariant A",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/84847.webp",
+        "image_alt": "Wariant D",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/84846.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Zabezpieczenie łącznika gwintowego nakrętką koronową przedstawiono na rysunku",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zabezpieczenie-acznika-gwintowego-nakretka-korono-7170cdf0",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Szczypce i pilnik."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Lutownicę i odsysacz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Wkrętak i szczypce."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Pilnik i zaciskarkę."
+      }
+    ],
+    "content": "Które narzędzia należy zastosować podczas wymiany rezystora R1 przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/65979.png",
+    "selected_answer": null,
+    "slug": "ktore-narzedzia-nalezy-zastosowac-podczas-wymiany-9d0c2bd7",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65979.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Pilnik i zaciskarkę."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Lutownicę i odsysacz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Wkrętak i szczypce."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Szczypce i pilnik."
+      }
+    ],
+    "content": "Które narzędzia należy zastosować podczas wymiany układu scalonego przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/65931.png",
+    "selected_answer": null,
+    "slug": "ktore-narzedzia-nalezy-zastosowac-podczas-wymiany-9d4ea955",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65931.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "odprysków cząsteczek metalu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "zanieczyszczenia pyłem wdychanego powietrza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zanieczyszczenia powietrza wdychanego oparami metalu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "hałasu generowanego w trakcie obróbki"
+      }
+    ],
+    "content": "Podczas użytkowania urządzenia laserowego do obróbki metali, ryzyko dla zdrowia pracownika może wynikać między innymi z",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-czasie-eksploatacji-urzadzenia-laserowego-do-cie-7326d25d",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "malowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "spawania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "klejenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "cięcia."
+      }
+    ],
+    "content": "Na rysunku przedstawiono proces",
+    "has_images": true,
+    "image": "/images/69359.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-proces-e30b8ad5",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69359.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "spawanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "klejenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "lutowanie."
+      }
+    ],
+    "content": "Pokazany na rysunku sposób montowania podzespołów elektronicznych, na płytce obwodu drukowanego, to",
+    "has_images": true,
+    "image": "/images/66865.png",
+    "selected_answer": null,
+    "slug": "pokazany-na-rysunku-sposob-montowania-podzespoow-95992617",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66865.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "zszywką"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "klejem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "śrubą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "nitem"
+      }
+    ],
+    "content": "Tensomer foliowy powinien być zamocowany do podłoża",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "tensomer-foliowy-nalezy-przymocowac-do-podoza-abdaa255",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Połączenia nitowe metalowej obudowy urządzenia należy wykonać przy użyciu narzędzia przedstawionego na rysunku",
+    "has_images": true,
+    "image": "/images/69415.png",
+    "selected_answer": null,
+    "slug": "poaczenia-nitowe-metalowej-obudowy-urzadzenia-nal-a0160cd2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69415.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Klejenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Lutowania miękkiego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Zgrzewania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Lutowania twardego."
+      }
+    ],
+    "content": "Którą technikę łączenia materiałów przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/65936.png",
+    "selected_answer": null,
+    "slug": "ktora-technike-aczenia-materiaow-przedstawiono-n-efca2481",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65936.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "cięcie plazmą."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "szlifowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "spawanie łukowe."
+      }
+    ],
+    "content": "Przedstawiony na rysunku proces to",
+    "has_images": true,
+    "image": "/images/65935.png",
+    "selected_answer": null,
+    "slug": "przedstawiony-na-rysunku-proces-to-bd0f737d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65935.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "lampy UV i szczypce"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "obcinacze i szczypce"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "lampy UV i odsysacz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "obcinacze i odsysacz"
+      }
+    ],
+    "content": "Aby zrealizować lutowanie na płytce drukowanej, konieczne jest użycie stacji lutowniczej oraz",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-wykonania-poaczenia-lutowanego-na-pytce-druk-d4d2168a",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "krwawienie z nosa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "poparzenie dłoni"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "uszkodzenie słuchu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "uszkodzenie wzroku"
+      }
+    ],
+    "content": "Podczas nieostrożnego lutowania pracownik narażony jest przede wszystkim na",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-podczas-nieostroznego-wykonywania-lutowa-b58b09d7",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "obwodowe współbieżne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "obwodowe przeciwbieżne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "czołowe niepełne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "czołowe pełne."
+      }
+    ],
+    "content": "Na rysunku przedstawiono frezowanie",
+    "has_images": true,
+    "image": "/images/55668.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-frezowanie-d49bbc50",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55668.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "imadło."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "suport poprzeczny."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "uchwyt tokarski."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wałek pociągowy."
+      }
+    ],
+    "content": "Na rysunku przedstawiono m.in.",
+    "has_images": true,
+    "image": "/images/65852.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-min-80594462",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65852.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "SAW"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "TIG"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "MIG"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "MAG"
+      }
+    ],
+    "content": "Jaką metodę spawania wykorzystuje się z gazem o właściwościach chemicznych aktywnych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-ktorej-metodzie-spawania-stosuje-sie-gaz-chemicz-72588a05",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "śrub, nakrętek, podkładek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "narzędzi do obróbki skrawaniem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "łożysk tocznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "resorów, sprężyn i drążków skrętnych"
+      }
+    ],
+    "content": "Stal niskostopowa zawierająca składniki takie jak krzem, mangan, chrom oraz wanad, cechująca się podwyższoną ilością krzemu, znajduje zastosowanie w produkcji",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "stal-niskostopowa-zawierajaca-dodatki-krzemu-mang-fd63c5fc",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "rękawicach skórzanych i fartuchu skórzanym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "obuwiu z gumową podeszwą oraz fartuchu ochronnym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "kasku ochronnym i rękawicach elektroizolacyjnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "rękawicach i okularach ochronnych"
+      }
+    ],
+    "content": "Przy obróbce metalu z użyciem pilników, jakie środki ochrony osobistej są wymagane?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "obrabianie-metalu-przy-uzyciu-pilnikow-nalezy-wyko-27fc9756",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/84662.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/84664.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/84661.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/84663.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Toczenie powierzchni czołowej przedstawia rysunek",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "toczenie-powierzchni-czoowej-przedstawia-rysunek-b27bd951",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Na rysunku 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Na rysunku 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Na rysunku 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Na rysunku 1."
+      }
+    ],
+    "content": "Na którym rysunku przedstawiono proces gięcia stali przez przeciąganie?",
+    "has_images": true,
+    "image": "/images/65897.png",
+    "selected_answer": null,
+    "slug": "na-ktorym-rysunku-przedstawiono-proces-giecia-stal-b5fa42bf",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65897.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Narzędzia 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Narzędzia 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Narzędzia 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Narzędzia 2."
+      }
+    ],
+    "content": "Którego z narzędzi przedstawionych na ilustracjach należy zastosować do cięcia przewodów miedzianych, wykorzystanych do budowy instalacji hydraulicznej?",
+    "has_images": true,
+    "image": "/images/65900.png",
+    "selected_answer": null,
+    "slug": "ktorego-z-narzedzi-przedstawionych-na-ilustracjach-3a93e21f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65900.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/84762.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/84761.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/84760.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/84759.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Toczenie powierzchni czołowej przedstawia rysunek.",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "toczenie-powierzchni-czoowej-przedstawia-rysunek-b50f94fd",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Którego klucza należy użyć do zamocowania przedmiotu w uchwycie tokarki?",
+    "has_images": true,
+    "image": "/images/55776.png",
+    "selected_answer": null,
+    "slug": "ktorego-klucza-nalezy-uzyc-do-zamocowania-przedmio-5b3f3aaa",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55776.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Spawanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Zgrzewanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Nitowanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Klejenie"
+      }
+    ],
+    "content": "Jaką metodę należy wykorzystać do połączenia szkła z metalem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-metode-nalezy-zastosowac-aczac-szko-z-met-f55feaea",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/82396.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/82393.webp",
+        "image_alt": "Wariant A",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/82394.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/82395.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Które z narzędzi przedstawionych na rysunkach należy zastosować do cięcia przewodów miedzianych, wykorzystanych do budowy instalacji hydraulicznej?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-z-narzedzi-przedstawionych-na-rysunkach-nale-a99d06ce",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Tłocznik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Skrobak"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Gwintownik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Narzynka"
+      }
+    ],
+    "content": "Jakie narzędzie jest konieczne do wykonania gwintu zewnętrznego?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-narzedzia-nalezy-uzyc-do-nacinania-gwintu-461ac302",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "2,0 mm"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "1,9 mm"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "2,1 mm"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "2,3 mm"
+      }
+    ],
+    "content": "Jaką średnicę powinien mieć otwór, aby pomieścić nit o średnicy 2 mm?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaka-srednice-powinien-miec-otwor-wykonany-pod-nit-009af67c",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Lutownica na gorące powietrze z dyszą w kształcie 7x7"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Rozlutownica"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Lutownica z końcówką &#x27;minifala&#x27;"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Stacja lutownicza"
+      }
+    ],
+    "content": "Jakie narzędzia powinno się zastosować do montażu przewlekanego komponentów elektronicznych na płytce PCB?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-z-wymienionych-narzedzi-nalezy-wykorzystac-d-0b71ae89",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "spawanie łukowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "szlifowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "cięcie plazmą."
+      }
+    ],
+    "content": "Przedstawiony proces to",
+    "has_images": true,
+    "image": "/images/55773.png",
+    "selected_answer": null,
+    "slug": "przedstawiony-proces-to-b9c255d4",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55773.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Rozwiercanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Pogłębianie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Wiercenie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Wiercenie wtórne"
+      }
+    ],
+    "content": "Jaką czynność należy przeprowadzić, aby zwiększyć średnicę otworu i umożliwić osadzenie w nim łba śruby?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-operacje-nalezy-wykonac-w-celu-powiekszenia-88716d55",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Szlifowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Toczenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Walcowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Nawęglanie."
+      }
+    ],
+    "content": "Który rodzaj obróbki metalu przedstawiono na ilustracji?",
+    "has_images": true,
+    "image": "/images/69372.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-obrobki-metalu-przedstawiono-na-ilust-e18dd991",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69372.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "honowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "frezowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wiercenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "gwintowania."
+      }
+    ],
+    "content": "Narzędzia przedstawione na rysunku są stosowane do",
+    "has_images": true,
+    "image": "/images/66864.png",
+    "selected_answer": null,
+    "slug": "narzedzia-przedstawione-na-rysunku-sa-stosowane-do-d39f9d7f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66864.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "stopić je w miejscu zetknięcia bez użycia spoiwa."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "stopić je w miejscu styku z użyciem spoiwa."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wprowadzić płynne spoiwo pomiędzy te elementy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "docisnąć je podczas podgrzewania miejsca łączenia."
+      }
+    ],
+    "content": "Aby połączyć dwa stalowe elementy w procesie zgrzewania, należy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "aczac-dwa-elementy-stalowe-poprzez-zgrzewanie-nal-03c6e20f",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "odlewanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "wytłaczanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "walcowanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "tłoczenie"
+      }
+    ],
+    "content": "Jakie metody wykorzystuje się do produkcji prętów?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-produkcji-pretow-stosuje-sie-75290601",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "dl &gt; d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "dl &lt; d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "dl ≤ d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "dl = d2"
+      }
+    ],
+    "content": "Na rysunku przedstawione zostały fragmenty dwóch elementów, które należy połączyć techniką połączenia wciskowego wtłaczanego. Jaka powinna być zależność pomiędzy wymiarami d<sub>1</sub> i d<sub>2</sub>?",
+    "has_images": true,
+    "image": "/images/65484.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawione-zostay-fragmenty-dwoch-e-a6545382",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65484.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "koncentrycznych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "wieloparowych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "światłowodowych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "uziemiających."
+      }
+    ],
+    "content": "Przedstawione na rysunkach elementy wykorzystuje się do łączenia przewodów",
+    "has_images": true,
+    "image": "/images/65867.png",
+    "selected_answer": null,
+    "slug": "przedstawione-na-rysunkach-elementy-wykorzystuje-s-fb543a87",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65867.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Zastosować siłę, aby nasunąć jeden element na drugi w temperaturze otoczenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Podnieść temperaturę obu elementów, a następnie połączyć je z użyciem siły"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Obniżyć temperaturę obu elementów i połączyć je, stosując siłę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Obniżyć temperaturę wałka, a następnie wyrównać temperaturę obu elementów po połączeniu"
+      }
+    ],
+    "content": "Jak należy przeprowadzić połączenie wciskowe skurczowe piasty z wałkiem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-jaki-sposob-nalezy-wykonac-poaczenie-wciskowe-s-a43408ef",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "4."
+      }
+    ],
+    "content": "Toczenie powierzchni czołowej przedstawia ilustracja",
+    "has_images": true,
+    "image": "/images/65806.png",
+    "selected_answer": null,
+    "slug": "toczenie-powierzchni-czoowej-przedstawia-ilustrac-fc8daf26",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65806.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zgrzewanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Lutowanie twarde"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Klejenie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Lutowanie miękkie"
+      }
+    ],
+    "content": "Jaką metodę łączenia materiałów należy wykorzystać do zestawienia stali nierdzewnej z mosiądzem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-technike-aczenia-materiaow-nalezy-zastosow-b309061d",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Zgrzewania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Spawania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Zaginania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Klejenia"
+      }
+    ],
+    "content": "Która z poniższych metod <u>nie jest wykorzystywana</u> do trwałego łączenia elementów z tworzyw sztucznych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorej-z-wymienionych-technik-unie-stosuje-sie-444e3642",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "liniową."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "punktową."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "doczołową."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "garbową."
+      }
+    ],
+    "content": "Na rysunku przedstawiono wykonywanie połączenia metodą",
+    "has_images": true,
+    "image": "/images/69347.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-wykonywanie-poaczenia-me-f403196c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69347.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "frezowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "gwintowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "wiercenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "nitowania."
+      }
+    ],
+    "content": "Ilustracja przedstawia proces",
+    "has_images": true,
+    "image": "/images/69371.png",
+    "selected_answer": null,
+    "slug": "ilustracja-przedstawia-proces-b21fa352",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69371.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Lutowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Klejenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Spawanie."
+      }
+    ],
+    "content": "Którą metodę łączenia materiałów przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/55775.png",
+    "selected_answer": null,
+    "slug": "ktora-metode-aczenia-materiaow-przedstawiono-na-da24cc6b",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55775.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Narzędzia 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Narzędzia 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Narzędzia 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Narzędzia 2."
+      }
+    ],
+    "content": "Którego narzędzia z przedstawionych na ilustracjach należy użyć, aby wlutować elementy tak jak na rysunku?",
+    "has_images": true,
+    "image": "/images/65914.png",
+    "selected_answer": null,
+    "slug": "ktorego-narzedzia-z-przedstawionych-na-ilustracjac-15c9eae4",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65914.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/85103.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/85105.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/85102.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/85104.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Którego narzędzia z przedstawionych należy użyć, aby wlutować elementy tak jak na rysunku?",
+    "has_images": true,
+    "image": "/images/85106.webp",
+    "selected_answer": null,
+    "slug": "ktorego-narzedzia-z-przedstawionych-nalezy-uzyc-a-d16aee43",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/85106.webp",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Struganie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Wiercenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Piłowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Przecinanie."
+      }
+    ],
+    "content": "Który rodzaj obróbki ręcznej przedstawiono na rysunkach?",
+    "has_images": true,
+    "image": "/images/77574.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-obrobki-recznej-przedstawiono-na-rysu-a45b2f61",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77574.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "spiczastymi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "do cięcia czołowymi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "do cięcia bocznymi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "uniwersalnymi"
+      }
+    ],
+    "content": "Wprowadzenie przewodu do zacisku, delikatne wygięcia oraz wykonanie oczka na końcu przewodu z żyłą z drutu miedzianego, realizuje się cęgami",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wprowadzenie-przewodu-do-zacisku-agodne-wygiecia-a7cd8ba8",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Dłutowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Toczenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Struganie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Frezowanie."
+      }
+    ],
+    "content": "Który proces technologiczny przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/65934.png",
+    "selected_answer": null,
+    "slug": "ktory-proces-technologiczny-przedstawiono-na-rysun-8ffd75df",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65934.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "polerowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "skrobanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "docieranie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "piłowanie."
+      }
+    ],
+    "content": "Obróbka ręczna przedstawiona na rysunku to",
+    "has_images": true,
+    "image": "/images/66735.png",
+    "selected_answer": null,
+    "slug": "obrobka-reczna-przedstawiona-na-rysunku-to-714e9453",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66735.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Żeliwo białe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Teflon"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Polistyren"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Epoksyt"
+      }
+    ],
+    "content": "Z wymienionych materiałów wybierz ten, który jest najczęściej używany w produkcji łożysk ślizgowych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "z-podanego-wykazu-wskaz-materia-ktory-jest-najcz-4fda48bc",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "klinowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "kołkowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wciskowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "sworzniowe."
+      }
+    ],
+    "content": "Który rodzaj połączenia przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/55670.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-poaczenia-przedstawiono-na-rysunku-2a75517a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55670.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Lutowania twardego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Klejenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Lutowania miękkiego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Zgrzewania"
+      }
+    ],
+    "content": "Jaką metodę łączenia materiałów należy wybrać do połączenia stali nierdzewnej z mosiądzem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-technike-aczenia-materiaow-nalezy-zastosow-bcf7d7b3",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78814.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/78813.webp",
+        "image_alt": "Wariant A",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/78815.webp",
+        "image_alt": "Wariant C",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/78816.webp",
+        "image_alt": "Wariant D",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Na którym rysunku przedstawiono schemat mechanicznej obróbki toczenia?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-ktorym-rysunku-przedstawiono-schemat-mechaniczn-9baceb4d",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "1.0037"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "1.3343"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "1.4541"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "1.2311"
+      }
+    ],
+    "content": "Wskaż gatunek stali, z której należy wykonać niepodatne na korozję żaroodporne ramię robota przemysłowego.",
+    "has_images": true,
+    "image": "/images/69426.png",
+    "selected_answer": null,
+    "slug": "wskaz-gatunek-stali-z-ktorej-nalezy-wykonac-niepo-193116ba",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69426.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Gratowanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Szlifowanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Wygładzanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Powiercanie"
+      }
+    ],
+    "content": "Po wykonaniu otworów w płaskowniku, które są potrzebne do zrealizowania połączenia śrubowego, należy pozbyć się metalowych zadziorów. Jak się nazywa ta czynność?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "po-wywierceniu-w-paskowniku-otworow-suzacych-do-9c4bf23a",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Którego z kluczy należy użyć do wykonania połączenia gwintowego śruby z gniazdem sześciokątnym?",
+    "has_images": true,
+    "image": "/images/65854.png",
+    "selected_answer": null,
+    "slug": "ktorego-z-kluczy-nalezy-uzyc-do-wykonania-poaczen-66dd0b4c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65854.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zaciskania opasek kablowych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "zaciskania końcówek kablowych elektrycznych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "zarabiania łączówek telekomunikacyjnych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "ściągania izolacji z przewodów."
+      }
+    ],
+    "content": "Przedstawione narzędzie służy do",
+    "has_images": true,
+    "image": "/images/55680.png",
+    "selected_answer": null,
+    "slug": "przedstawione-narzedzie-suzy-do-f31d1f92",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55680.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "toczenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "frezowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "gwintowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "wiercenia."
+      }
+    ],
+    "content": "Przedstawione narzędzie jest wykorzystywane podczas",
+    "has_images": true,
+    "image": "/images/69358.png",
+    "selected_answer": null,
+    "slug": "przedstawione-narzedzie-jest-wykorzystywane-podcza-68fb51f7",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69358.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "zgrzewanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "spawanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "lutowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "klejenie."
+      }
+    ],
+    "content": "Pokazany na rysunku sposób montowania podzespołów elektronicznych, na płytce obwodu drukowanego to",
+    "has_images": true,
+    "image": "/images/66647.png",
+    "selected_answer": null,
+    "slug": "pokazany-na-rysunku-sposob-montowania-podzespoow-ea0788d0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66647.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "wysokim napięciu i małym prądzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "niskim napięciu i dużym prądzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "niskim napięciu i małym prądzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wysokim napięciu i dużym prądzie"
+      }
+    ],
+    "content": "Do spawania metali za pomocą łuku elektrycznego wykorzystuje się zasilacz o",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-spawania-metali-za-pomoca-uku-elektrycznego-st-482da69a",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Gięcia prętów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Szlifowania powierzchni."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Wiercenia otworów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Cięcia blachy."
+      }
+    ],
+    "content": "Do jakiego rodzaju prac stosowane jest narzędzie przedstawione na rysunku?",
+    "has_images": true,
+    "image": "/images/69424.png",
+    "selected_answer": null,
+    "slug": "do-jakiego-rodzaju-prac-stosowane-jest-narzedzie-p-d704105a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69424.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Mosiądz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Stal szybkotnącą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Żeliwo szare"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Brąz"
+      }
+    ],
+    "content": "Jakiego rodzaju materiału należy użyć do produkcji narzędzi do mechanicznej obróbki skrawaniem, takich jak frezy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-materiaow-nalezy-zastosowac-b2aac671",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Spoina X"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Spoina Y"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Spoina V"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Spoina I"
+      }
+    ],
+    "content": "Na podstawie przedstawionej tabeli określ, którą spoinę należy wykonać w celu połączenia czołowego blach o grubości 2 mm.",
+    "has_images": true,
+    "image": "/images/77573.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-przedstawionej-tabeli-okresl-ktora-s-4f7ce9d5",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/77573.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Spawanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Skrobanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Rozwiercanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Docieranie"
+      }
+    ],
+    "content": "Jakie czynności nie są wykonywane w trakcie dopasowywania komponentów podczas montażu systemów mechatronicznych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-operacje-nie-sa-wykonywane-podczas-dopasowyw-2a7bf2d9",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Materiał 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Materiał 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Materiał 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Materiał 3."
+      }
+    ],
+    "content": "Który materiał o właściwościach podanych w tabeli należy wybrać do konstrukcji lekkiej i odpornej na odkształcenia mobilnej podstawy konstrukcyjnej urządzenia mechatronicznego?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; width: auto;\" aria-label=\"Właściwości materiałów\">\r\n  <tr>\r\n    <td></td>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Gęstość<br>ρ<br>[g/cm<sup>3</sup>]</th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center;\">Granica plastyczności<br>Re<br>[MPa]</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Materiał 1.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">2,70</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">40</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Materiał 2.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">2,75</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">320</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Materiał 3.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">7,70</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">320</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: left;\">Materiał 4.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">8,85</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">35</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-materia-o-wasciwosciach-podanych-w-tabeli-d2d243a8",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "spawane"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "śrubowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zgrzewane"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "nitowe"
+      }
+    ],
+    "content": "Do połączeń, które można rozłączyć, zalicza się połączenia",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-poaczen-rozacznych-zalicza-sie-poaczenia-21dbb52e",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Spawanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Zaginanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Zgrzewanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Klejenie"
+      }
+    ],
+    "content": "Która z wymienionych metod nie jest wykorzystywana do trwałego łączenia elementów z tworzyw sztucznych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorej-z-wymienionych-technik-nie-stosuje-sie-do-t-426781b4",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "toczenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "walcowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "frezowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "tłoczenia."
+      }
+    ],
+    "content": "Element przedstawiony na rysunku uzyskano w wyniku",
+    "has_images": true,
+    "image": "/images/68364.png",
+    "selected_answer": null,
+    "slug": "element-przedstawiony-na-rysunku-uzyskano-w-wyniku-f546bd9f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/68364.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zgrzewane."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Lutowane."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Spawane."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Nitowe."
+      }
+    ],
+    "content": "Który rodzaj połączenia przedstawiono na rysunku?",
+    "has_images": true,
+    "image": "/images/75802.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-poaczenia-przedstawiono-na-rysunku-fad20c2a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/75802.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "kołkowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "gwintowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "sworzniowego."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "nitowego."
+      }
+    ],
+    "content": "Na rysunku przedstawiono elementy połączenia",
+    "has_images": true,
+    "image": "/images/69319.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-elementy-poaczenia-fc828dfb",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69319.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Ścinanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Wiercenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Piłowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Przecinanie."
+      }
+    ],
+    "content": "Który rodzaj obróbki ręcznej przedstawiono na rysunkach?",
+    "has_images": true,
+    "image": "/images/55669.png",
+    "selected_answer": null,
+    "slug": "ktory-rodzaj-obrobki-recznej-przedstawiono-na-rysu-aa9fc986",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55669.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Szlifowania otworów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Wytaczania otworów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Gwintowania otworów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Wiercenia otworów."
+      }
+    ],
+    "content": "Do czego służy przedstawione na rysunku narzędzie?",
+    "has_images": true,
+    "image": "/images/69320.png",
+    "selected_answer": null,
+    "slug": "do-czego-suzy-przedstawione-na-rysunku-narzedzie-0ce4a8df",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69320.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Za pomocą klejenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Poprzez skręcenie kluczem oczkowym."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Za pomocą lutowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Wtykowo bez użycia narzędzi."
+      }
+    ],
+    "content": "W jaki sposób należy podłączyć przewody do złącz przedstawionych na fotografii?",
+    "has_images": true,
+    "image": "/images/69299.png",
+    "selected_answer": null,
+    "slug": "w-jaki-sposob-nalezy-podaczyc-przewody-do-zacz-p-e6b18c7d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69299.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "toczenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "frezowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "ciągnięcia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "tłoczenia."
+      }
+    ],
+    "content": "Przy wykonaniu elementu przedstawionego na rysunku była zastosowana obróbka",
+    "has_images": true,
+    "image": "/images/69425.png",
+    "selected_answer": null,
+    "slug": "przy-wykonaniu-elementu-przedstawionego-na-rysunku-6e9d4597",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69425.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "wylutowania uszkodzonej diody oraz wlutowania nowej diody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "wylutowania uszkodzonej diody, oczyszczenia otworów na płycie, uformowania i pobielenia końcówek nowej diody i jej wlutowania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "wycięcia uszkodzonej diody, uformowania i pobielenia końcówek nowej diody, a następnie jej wlutowania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "wycięcia uszkodzonej diody, wylutowania jej końcówek oraz wlutowania nowej diody"
+      }
+    ],
+    "content": "Zamiana diody prostowniczej na płycie zasilacza wymaga",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wymiana-diody-prostowniczej-na-pycie-zasilacza-wy-73c9179b",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "pęknięcia powierzchni łba i zakuwki nitu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "luźnego osadzenia nitu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "odkształcenia nitu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "nieprawidłowego kształtu zakuwki"
+      }
+    ],
+    "content": "Weryfikacja połączeń nitowanych, realizowana poprzez uderzanie młotkiem w nit, ma na celu wykrycie nieprawidłowości",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "kontrola-poaczen-nitowanych-przeprowadzona-przez-7ed617b3",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "dozowania oleju."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "nitowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "odsysania spoiwa."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "przedmuchiwania sprężonym powietrzem."
+      }
+    ],
+    "content": "Narzędzie przedstawione na rysunku służy do",
+    "has_images": true,
+    "image": "/images/65864.png",
+    "selected_answer": null,
+    "slug": "narzedzie-przedstawione-na-rysunku-suzy-do-29b02542",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65864.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "strumieniem elektronów"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "elektrodą wolframową w osłonie argonowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "elektrodą topliwą w osłonie dwutlenku węgla"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "łukiem plazmowym"
+      }
+    ],
+    "content": "W procesie TIG stosuje się technikę spawania",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-metodzie-tig-wykorzystuje-sie-spawanie-17301903",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Cięcia przewodów pneumatycznych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Łączenia przewodów hydraulicznych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Usuwania izolacji z przewodów elektrycznych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Gięcia przewodów elektrycznych."
+      }
+    ],
+    "content": "Do czego służy narzędzie przedstawione na rysunku?",
+    "has_images": true,
+    "image": "/images/69334.png",
+    "selected_answer": null,
+    "slug": "do-czego-suzy-narzedzie-przedstawione-na-rysunku-94b2a0a0",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69334.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "nitowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "wiercenia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "gwintowania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "frezowania."
+      }
+    ],
+    "content": "Rysunek przedstawia proces",
+    "has_images": true,
+    "image": "/images/65483.png",
+    "selected_answer": null,
+    "slug": "rysunek-przedstawia-proces-f220957b",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65483.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odizolowany na dowolną długość"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "zaizolowany na końcach"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zakończony na końcach tulejkami"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "równo przycięty na końcach"
+      }
+    ],
+    "content": "Elastyczny przewód elektryczny, służący do łączenia elementów systemu elektrycznego w aplikacjach mechatronicznych, powinien być",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przewod-elektryczny-gietki-przeznaczony-do-aczen-06f0ef20",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Spawanie elektryczne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Spawanie gazowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Lutowanie twarde"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Lutowanie miękkie"
+      }
+    ],
+    "content": "Jaką metodę łączenia metali należy wybrać, gdy maksymalna temperatura w trakcie łączenia nie może przekroczyć 450<sup>O</sup>C?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-z-technik-aczenia-materiaow-metalowych-nal-5a0552a6",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "E"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "P"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "L"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "S"
+      }
+    ],
+    "content": "Stal używana do wytwarzania zbiorników ciśnieniowych oznaczana jest w symbolu głównym literą",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "stal-przeznaczona-do-produkcji-zbiornikow-cisnieni-84c6d539",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Ucinaczki i pilnik."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Lutownicę i odsysacz."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Śrubokręt i szczypce."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Pęsetę i zaciskarkę."
+      }
+    ],
+    "content": "Które z wymienionych narzędzi należy zastosować podczas wymiany układu scalonego na płytce drukowanej, widocznej na zdjęciu?",
+    "has_images": true,
+    "image": "/images/68931.png",
+    "selected_answer": null,
+    "slug": "ktore-z-wymienionych-narzedzi-nalezy-zastosowac-po-39b3813e",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/68931.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Poliamid"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Silikon"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Poliuretan"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Lateks"
+      }
+    ],
+    "content": "Które z wymienionych materiałów sztucznych jest najbardziej odpowiednie do wytwarzania kół zębatych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-z-wymienionych-tworzyw-sztucznych-najlepiej-d3244b34",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "d1 &lt; d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "d1 &gt; d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "d1 ≤ d2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "d1 = d2"
+      }
+    ],
+    "content": "Na rysunku przedstawione zostały fragmenty dwóch elementów, które należy połączyć techniką połączenia wciskowego wtłaczanego. Jaka powinna być zależność pomiędzy wymiarami d1 i d2?",
+    "has_images": true,
+    "image": "/images/69304.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawione-zostay-fragmenty-dwoch-e-8071393f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69304.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/86015.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/86013.webp",
+        "image_alt": "Wariant B",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/86014.webp",
+        "image_alt": "Wariant C",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/86012.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Które z narzędzi należy zastosować do usuwania nadmiaru roztopionego lutu z miejsca lutowania?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-z-narzedzi-nalezy-zastosowac-do-usuwania-nad-30734aa4",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "struganie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "toczenie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "szlifowanie."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "frezowanie."
+      }
+    ],
+    "content": "Na rysunku przedstawiono",
+    "has_images": true,
+    "image": "/images/55771.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-6159e673",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55771.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/82402.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/82404.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/82403.webp",
+        "image_alt": "Wariant C",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/82401.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Na którym rysunku przedstawiono proces gięcia stali przez przeciąganie?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-ktorym-rysunku-przedstawiono-proces-giecia-stal-aa6b8020",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "na rysunkach 2 i 3"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "tylko na rysunku 1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "na rysunkach 1 i 2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "tylko na rysunku 2"
+      }
+    ],
+    "content": "Prawidłowo wykonane połączenie lutowane przedstawiono",
+    "has_images": true,
+    "image": "/images/65956.png",
+    "selected_answer": null,
+    "slug": "prawidowo-wykonane-poaczenie-lutowane-przedstawi-28bf7699",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65956.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Stal niskowęglowa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Żeliwo szare"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Stal wysokowęglowa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Żeliwo białe"
+      }
+    ],
+    "content": "Który z wymienionych materiałów znajduje zastosowanie w konstrukcjach spawanych?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-podanych-materiaow-jest-stosowany-w-konst-06f00f72",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Spawania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Zgrzewania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Klejenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Zaginania"
+      }
+    ],
+    "content": "Której z podanych metod <b>nie wykorzystuje się</b> do trwałego łączenia elementów wykonanych z plastiku?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorej-z-wymienionych-technik-bnie-stosuje-sie-ea9e480e",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Zgrzewanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Lutowanie miękkie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Sklejanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Lutowanie twarde"
+      }
+    ],
+    "content": "Jaką metodę łączenia materiałów powinno się wybrać do skrzyżowania elementów ze stali nierdzewnej i mosiądzu?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-technike-aczenia-materiaow-nalezy-zastosow-59dfd694",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "polerowania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "napawania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "spawania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "lutowania"
+      }
+    ],
+    "content": "Niewielkie, drobne zarysowania na tłoczysku hydraulicznego siłownika eliminuje się za pomocą",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "drobne-niewielkie-rysy-na-toczysku-siownika-hyd-c4094940",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "okulary ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "rękawice odporne na wysoką temperaturę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "fartuch ochronny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "obuwie ochronne z gumową podeszwą"
+      }
+    ],
+    "content": "Do pracy związanej z lutowaniem elementów dyskretnych na płytce drukowanej powinno się założyć",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-pracy-zwiazanej-z-lutowaniem-elementow-dyskretn-27bf4680",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "nitowane."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "śrubowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "spawane."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "lutowane."
+      }
+    ],
+    "content": "Na rysunku przedstawiono połączenie dwóch elementów. Jest to połączenie",
+    "has_images": true,
+    "image": "/images/55819.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-poaczenie-dwoch-elemento-6821206e",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55819.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Materiał o których właściwościach należy wybrać do konstrukcji lekkiej i odpornej na odkształcenia mobilnej podstawy konstrukcyjnej urządzenia mechatronicznego?\r\n<br><br>\r\n<table style=\"border-collapse: collapse; width: auto;\" aria-label=\"Tabela właściwości materiałów\">\r\n  <tr>\r\n    <td></td>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;\">Gęstość<br>ρ<br>[g/cm<sup>3</sup>]</th>\r\n    <th style=\"border: 1px solid black; padding: 8px; text-align: center; background-color: #f2f2f2;\">Granica plastyczności<br>Re<br>[MPa]</th>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">A.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">2,70</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">40</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">B.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">2,75</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">320</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">C.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">7,70</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">320</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">D.</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">8,85</td>\r\n    <td style=\"border: 1px solid black; padding: 8px; text-align: center;\">35</td>\r\n  </tr>\r\n</table>",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "materia-o-ktorych-wasciwosciach-nalezy-wybrac-do-c6a9c87b",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Nitowane"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Wpustowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Sworzniowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Wciskowe"
+      }
+    ],
+    "content": "Jakie połączenie można zaklasyfikować jako połączenia trwałe?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-poaczenie-nalezy-zaliczyc-do-grupy-poaczen-75787ea1",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "rozdzielenie folią aluminiową"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "pokrycie klejem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "rozdzielenie papierem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "pokrycie pastą termoprzewodzącą"
+      }
+    ],
+    "content": "W trakcie montażu systemu elektronicznego chłodzonego radiatorem, należy zapewnić odpowiednią powierzchnię styku pomiędzy układem a radiatorem poprzez",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-montazu-ukadu-elektronicznego-chodzonego-574ee5d4",
+    "video": null,
+    "correct_answer": "D"
+  }
+]
