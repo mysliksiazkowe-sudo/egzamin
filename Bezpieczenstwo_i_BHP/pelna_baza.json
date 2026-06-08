@@ -1,0 +1,4749 @@
+[
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Podgrzać wał i schłodzić koło pasowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Podgrzać koło pasowe oraz wał"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Podgrzać koło pasowe i schłodzić wał"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Obniżyć temperaturę koła pasowego i wału"
+      }
+    ],
+    "content": "Jakie czynności trzeba wykonać, aby zamocować koło pasowe na wale przy użyciu pasowania?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jakie-czynnosci-nalezy-wykonac-w-celu-zamocowania-ad07c533",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Niebieskim"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Żółtym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Czarnym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Brązowym"
+      }
+    ],
+    "content": "Jakiego koloru powinna być izolacja przewodu neutralnego w instalacji elektrycznej typu TN–S?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-jakim-kolorze-powinna-byc-izolacja-przewodu-prze-ec6388ca",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "100 lx"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "800 lx"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "600 lx"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "300 lx"
+      }
+    ],
+    "content": "Wartość natężenia oświetlenia podczas wykonywania precyzyjnych zadań powinna wynosić",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "natezenie-oswietlenia-w-miejscu-wykonywania-precyz-b2af0cfa",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "nie wywiera wpływu na wzrost lub zmniejszenie ryzyka, jakie wynika z możliwości rozerwania zbiornika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "całkowicie redukuje ryzyko, jakie wiąże się z możliwością rozerwania zbiornika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "ogranicza ryzyko wynikające z możliwości rozerwania zbiornika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "powiększa ryzyko związane z możliwością rozerwania zbiornika"
+      }
+    ],
+    "content": "Zainstalowanie dodatkowych zaworów bezpieczeństwa w systemie zasilającym zbiornik ciśnieniowy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zamontowanie-dodatkowych-zaworow-bezpieczenstwa-w-af8520cf",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/82392.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/82391.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/82389.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/82390.webp",
+        "image_alt": "Wariant B",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Którego z przedstawionych elementów należy użyć do połączenia pneumatycznego przewodu gumowego z instalacją sprężonego powietrza wyposażoną w gniazdo szybkozłącza?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-z-przedstawionych-elementow-nalezy-uzyc-do-d4751676",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Wyłączenie zasilania, odkręcenie siłownika od podstawy, odłączenie zasilania sprężonym powietrzem, odłączenie przewodów pneumatycznych od siłownika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Wyłączenie zasilania sprężonym powietrzem, zdjęcie czujników, odłączenie przewodów pneumatycznych od siłownika, wyłączenie zasilania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Wyłączenie zasilania oraz odłączenie sprężonego powietrza, odłączenie przewodów pneumatycznych od siłownika, odłączenie przewodów czujników od układu sterującego, odkręcenie siłownika od podstawy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Wyłączenie zasilania, zdjęcie czujników z cylindra, odkręcenie siłownika od podstawy, odłączenie przewodów pneumatycznych, wyłączenie zasilania sprężonym powietrzem"
+      }
+    ],
+    "content": "Podaj kolejność działań prowadzących do demontażu siłownika dwustronnego działania z układu pneumatycznego, który jest sterowany elektrozaworem 5/2 oraz posiada dwa czujniki kontaktronowe zamontowane na cylindrze.",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wskaz-kolejnosc-czynnosci-prowadzacych-do-wymontow-554f41be",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "podnapięciowy zwłoczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "nadprądowy zwłoczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "różnicowoprądowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "nadnapięciowy zwłoczny"
+      }
+    ],
+    "content": "Aby chronić silnik przed wystąpieniem napięcia zasilającego po krótkim zgaśnięciu, należy użyć przekaźnika",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "aby-zabezpieczyc-silnik-przed-pojawieniem-sie-napi-b6e104d9",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Okulary ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Buty ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Odzież ochronna"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Rękawice ochronne"
+      }
+    ],
+    "content": "Jakie środki ochrony osobistej, oprócz kasku ochronnego, powinien założyć pracownik wykonujący konserwację wyłączonego z eksploatacji urządzenia mechatronicznego w hali produkcyjnej?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaki-srodek-ochrony-indywidualnej-oprocz-kasku-oc-03046f63",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Podać leki przeciwbólowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Zabandażować kostkę i przewieźć pacjenta do lekarza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Przyłożyć zimny okład na zwichnięty staw i unieruchomić go"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Nastawić staw i zabandażować kostkę"
+      }
+    ],
+    "content": "W trakcie pracy z urządzeniem hydraulicznym pracownik poślizgnął się na plamie oleju i doznał zwichnięcia kostki. Jakie czynności należy podjąć, aby udzielić pierwszej pomocy poszkodowanemu?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-obsugi-urzadzenia-hydraulicznego-pracowni-8855922a",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zmiana kolejności faz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Podłączenie kondensatora rozruchowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Odłączenie uziemienia silnika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Zastosowanie wyłącznika instalacyjnego zwłocznego"
+      }
+    ],
+    "content": "Próba włączenia napędu z prawidłowo działającym silnikiem trójfazowym za każdym razem powoduje włączenie wyłącznika instalacyjnego. Jakie działanie może potencjalnie rozwiązać ten problem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "kazdorazowa-proba-zaaczenia-napedu-ze-sprawnym-si-7f31838b",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "przystąpić do pośredniego masażu serca"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "położyć go na plecach z uniesionymi nogami"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "ustawić go w pozycji bocznej ustalonej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "rozpocząć wykonywanie sztucznego oddychania i kontynuować przez około 30 minut"
+      }
+    ],
+    "content": "W trakcie użytkowania urządzenia mechatronicznego pracownik doznał porażenia prądem, lecz po chwili odzyskał oddech. Co należy zrobić?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-eksploatacji-urzadzenia-mechatronicznego-p-9917a61f",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "należy zdjąć biżuterię z palców poszkodowanego, rozgrzać dłoń i nałożyć jałowy opatrunek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "należy polać dłoń wodą utlenioną oraz wykonać opatrunek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "należy posmarować odmrożone miejsce tłustym kremem i przewieźć pracownika do domu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "należy podać leki przeciwbólowe i przetransportować poszkodowanego do szpitala"
+      }
+    ],
+    "content": "W wyniku działania strumienia wysoko ciśnieniowego dwutlenku węgla na rękę pracownika doszło do odmrożenia drugiego stopnia (zaczerwienienie skóry i pojawienie się pęcherzy). Jakie działania należy podjąć, udzielając pierwszej pomocy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-skutek-oddziaywania-na-don-pracownika-strumie-6b438044",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "HFA - emulsja olejowo-wodna, mająca w składzie ponad 80 % wody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "HTG - produkowana na bazie olejów roślinnych, rozpuszczalna w wodzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "HV - dla urządzeń funkcjonujących w zmiennych warunkach temperatury"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "HT - ester syntetyczny, najlepiej ulegający biodegradacji"
+      }
+    ],
+    "content": "Jakiego rodzaju cieczy hydraulicznej powinno się użyć w urządzeniu hydrauliczny, które może być narażone na kontakt z otwartym ogniem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "urzadzenie-hydrauliczne-przeznaczone-jest-do-pracy-e0c27bed",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "dławiki blokujące"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "izolatory długiej osi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "wyłączniki montażowe"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wyłączniki różnicowoprądowe"
+      }
+    ],
+    "content": "W instalacjach niskonapięciowych (systemach TN) jako elementy zabezpieczające mogą być wykorzystywane",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-instalacjach-niskiego-napiecia-ukadach-tn-jak-580ae516",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78083.webp",
+        "image_alt": "Wariant C",
+        "label": "A",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/78082.webp",
+        "image_alt": "Wariant B",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/78081.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/78084.webp",
+        "image_alt": "Wariant D",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Na którym rysunku przedstawiono środek ochrony indywidualnej, jaki należy zastosować podczas pracy przy układach pneumatycznych w warunkach bardzo dużego hałasu, w celu skutecznej ochrony słuchu przed niskimi częstotliwościami?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-ktorym-rysunku-przedstawiono-srodek-ochrony-ind-7e4ea6e2",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Odpowiednim narzędziem do przykręcania i odkręcania elastycznych przewodów hydraulicznych jest klucz przedstawiony na rysunku",
+    "has_images": true,
+    "image": "/images/76417.png",
+    "selected_answer": null,
+    "slug": "odpowiednim-narzedziem-do-przykrecania-i-odkrecani-745ef8ba",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76417.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "fartuch ochronny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "okulary ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "kask ochronny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "buty na gumowej podeszwie"
+      }
+    ],
+    "content": "Pracownik obsługujący urządzenia pneumatyczne generujące wibracje powinien mieć na sobie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-pracy-z-urzadzeniami-pneumatycznymi-wytwarzajac-f571a68f",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Narzędzie 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Narzędzie 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Narzędzie 2."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Narzędzie 4."
+      }
+    ],
+    "content": "Które narzędzie służy do zaciskania przedstawionych opasek na wiązkach przewodów?",
+    "has_images": true,
+    "image": "/images/65913.png",
+    "selected_answer": null,
+    "slug": "ktore-narzedzie-suzy-do-zaciskania-przedstawionyc-b240d1b8",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65913.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "przemiennym w granicach 85 - 250 V."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "zmiennym o wartości co najmniej 24 V."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "stałym o wartości 24 V (z dokładnością do 1 %)."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "stałym w granicach 85 - 250 V."
+      }
+    ],
+    "content": "Podzespół elektryczny przedstawiony na rysunku wymaga zasilania napięciem",
+    "has_images": true,
+    "image": "/images/76351.png",
+    "selected_answer": null,
+    "slug": "podzespo-elektryczny-przedstawiony-na-rysunku-wym-aabc92b2",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/76351.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Nakrętkę 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Nakrętkę 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Nakrętkę 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Nakrętkę 2."
+      }
+    ],
+    "content": "Którą z przedstawionych na ilustracji nakrętek należy zastosować w połączeniach gwintowych, aby zapewnić ochronę przed zranieniem o powierzchnię gwintu oraz nadać im estetyczny wygląd?",
+    "has_images": true,
+    "image": "/images/65896.png",
+    "selected_answer": null,
+    "slug": "ktora-z-przedstawionych-na-ilustracji-nakretek-nal-d92837dc",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65896.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "zabezpieczenie przeciążeniowe."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "układ antyprzepięciowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "wyłącznik silnikowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "przekaźnik czasowy."
+      }
+    ],
+    "content": "Na rysunku przedstawiono",
+    "has_images": true,
+    "image": "/images/69345.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-przedstawiono-964e927e",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69345.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zamocować silnik w obudowie wiertarki przy użyciu śrub, podłączyć źródło zasilania, założyć pasek klinowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "zamocować silnik w obudowie wiertarki przy użyciu śrub, założyć pasek klinowy, podłączyć źródło zasilania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "podłączyć źródło zasilania, założyć pasek klinowy, zamocować silnik w obudowie wiertarki przy użyciu śrub"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "podłączyć źródło zasilania, zamocować silnik w obudowie wiertarki przy użyciu śrub, założyć pasek klinowy"
+      }
+    ],
+    "content": "Kolejność montażu silnika elektrycznego w wiertarce stołowej powinna być następująca:",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "montaz-silnika-elektrycznego-w-wiertarce-stoowej-f6f70e66",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/84556.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/84555.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/84554.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/84553.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Które narzędzie należy zastosować do zamocowania końcówki tulejkowej na przewodzie elektrycznym LY?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktore-narzedzie-nalezy-zastosowac-do-zamocowania-k-9fa55d37",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "ochrony ramienia robota przed kolizjami z operatorem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "chwytania obiektu z odpowiednią siłą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "przemieszczania obiektu w przestrzeni"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "chronienia ramienia robota przed przeciążeniem"
+      }
+    ],
+    "content": "Efektor zainstalowany na końcu ramienia robota przede wszystkim pełni funkcję",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "efektor-umieszczony-na-koncu-ramienia-robota-suzy-e8e00af2",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "1% roztworu kwasu octowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "1% roztworu kwasu cytrynowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "3% roztworu sody oczyszczonej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "wody destylowanej"
+      }
+    ],
+    "content": "W przypadku oparzenia kwasem siarkowym, jak najszybciej należy usunąć kwas z oparzonej powierzchni dużą ilością wody, a potem zastosować kompres z",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-przypadku-oparzenia-kwasem-siarkowym-nalezy-jak-0e7191f2",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "2,5,3,6,4,1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "6,2,4,3,5,1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "5,1,3,4,6,2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "1,6,2,3,4,5"
+      }
+    ],
+    "content": "Określ prawidłową kolejność dokręcania śrub lub nakrętek części podzespołu, przedstawionej na rysunku.",
+    "has_images": true,
+    "image": "/images/55671.png",
+    "selected_answer": null,
+    "slug": "okresl-prawidowa-kolejnosc-dokrecania-srub-lub-na-c8c0898a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55671.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "roboczą standardową"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "bawełnianą w formie kombinezonu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "roboczą trudnopalną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "termoaktywną"
+      }
+    ],
+    "content": "Osoba pracująca na linii produkcyjnej blach, która prowadzi proces odlewania taśmy cynkowo-tytanowej, powinna poza obuwiem, rękawicami i kaskiem roboczym posiadać odzież",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "operator-linii-produkcji-blach-nadzorujacy-proces-fd0f6c00",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78394.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/78396.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/78393.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/78395.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Do zatrzymania pracy układu elektropneumatycznego, w przypadku gdy nastąpi wzrostu ciśnienia ponad nastawioną wartość, należy zastosować element pokazany na rysunku",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-zatrzymania-pracy-ukadu-elektropneumatycznego-6a32aac5",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78857.webp",
+        "image_alt": "Wariant A",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/78859.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/78860.webp",
+        "image_alt": "Wariant D",
+        "label": "C",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/78858.webp",
+        "image_alt": "Wariant B",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Którego z przedstawionych narzędzi należy użyć do zaciskania końcówek tulejkowych na przewodach elektrycznych?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-z-przedstawionych-narzedzi-nalezy-uzyc-do-b3753d2b",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Lampki 4."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "Lampki 3."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Lampki 1."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Lampki 2."
+      }
+    ],
+    "content": "Zaświecenie której lampki sygnalizacyjnej informuje o niebezpieczeństwie?",
+    "has_images": true,
+    "image": "/images/65909.png",
+    "selected_answer": null,
+    "slug": "zaswiecenie-ktorej-lampki-sygnalizacyjnej-informuj-403ace7f",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65909.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Do zdejmowania izolacji z przewodów elektrycznych należy zastosować narzędzie przedstawione na rysunku",
+    "has_images": true,
+    "image": "/images/66741.png",
+    "selected_answer": null,
+    "slug": "do-zdejmowania-izolacji-z-przewodow-elektrycznych-691a3e05",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66741.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "metalowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "polwinitowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "drewnianej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "z żywicy epoksydowej"
+      }
+    ],
+    "content": "Negatywny wpływ intensywnych fal elektromagnetycznych emitowanych przez działające urządzenie mechatroniczne można zredukować, stosując osłonę w postaci obudowy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "niekorzystny-wpyw-silnych-fal-elektromagnetycznyc-2e8ed00f",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "założyć poszkodowanemu opatrunek uciskowy na ranę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "założyć poszkodowanemu opatrunek uciskowy poniżej rany"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "umieścić poszkodowanego w bezpiecznej pozycji bocznej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "sprawdzić, czy w okolicy są osoby posiadające kwalifikacje w reanimacji"
+      }
+    ],
+    "content": "Podczas pracy z urządzeniem hydraulicznym pracownik odniósł ranę w udo na skutek wysunięcia siłownika i krwawi. Osoba ratująca, przystępując do udzielania pierwszej pomocy, powinna najpierw",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-obsugi-urzadzenia-hydraulicznego-pracowni-ae77adfd",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odłączyć przewody zasilające do sterownika oraz przewody pneumatyczne od elektrozaworu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "wyłączyć dopływ sprężonego powietrza, odłączyć siłownik oraz PLC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zatrzymać zasilanie pneumatyczne, odłączyć przewody od cewki elektrozaworu oraz przewody pneumatyczne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "wprowadzić sterownik PLC w stan STOP, a następnie wyłączyć zasilanie elektryczne i pneumatyczne układu"
+      }
+    ],
+    "content": "Przed przystąpieniem do wymiany zaworu elektropneumatycznego, sterowanego przez PLC, co należy zrobić?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przed-rozpoczeciem-wymiany-zaworu-elektropneumatyc-3ca481d6",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Silnika prądu stałego o napięciu 400 V"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Silnika jednofazowego o napięciu 230 V"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Transformatora trójfazowego o napięciu górnym 400 V i skojarzeniu Dy5"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Silnika trójfazowego klatkowego o napięciu międzyfazowym 400 V skojarzonego w Δ"
+      }
+    ],
+    "content": "Którego urządzenia nie wolno zasilać z źródła napięcia oznaczonego jako 400 V; 3/N/PE ~50 Hz?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-odbiornika-nie-mozna-zasilac-ze-zroda-nap-1e6d620d",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "PE - brązowy, N - niebieski, LI - czarny."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "PE - niebieski, N - żółto-zielony, LI - brązowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "PE - żółto-zielony, N - niebieski, LI - czarny."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "PE - żółto-zielony, N - czarny, LI - niebieski."
+      }
+    ],
+    "content": "Które kolory przewodów należy zastosować do połączenia urządzenia z siecią pokazaną na rysunku?",
+    "has_images": true,
+    "image": "/images/69295.png",
+    "selected_answer": null,
+    "slug": "ktore-kolory-przewodow-nalezy-zastosowac-do-poacz-1af48755",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69295.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odpowiada za załączanie i wyłączania silnika."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "zabezpiecza obwód przed skutkami zwarć i przeciążeń."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "poprawia współczynnik cos φ."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "ogranicza natężenie prądu rozruchu silnika."
+      }
+    ],
+    "content": "W obwodzie zasilania silnika element oznaczony symbolem Ql",
+    "has_images": true,
+    "image": "/images/69342.png",
+    "selected_answer": null,
+    "slug": "w-obwodzie-zasilania-silnika-element-oznaczony-sym-7f8e9eb4",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69342.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "przefiltrować przy użyciu węgla aktywnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "odprowadzić bezpośrednio do ścieków"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "osuszyć z nadmiaru wody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "oczyścić z resztek oleju"
+      }
+    ],
+    "content": "Po wyczyszczeniu filtra używanego do wstępnego oczyszczania powietrza, kondensat należy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "po-oproznieniu-filtra-stosowanego-do-zgrubnego-ocz-878873e8",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "30 mA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "63 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "400 V"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "800 A"
+      }
+    ],
+    "content": "Ile wynosi wartość natężenia prądu znamionowego toru głównego wyłącznika różnicowoprądowego przedstawionego na rysunku?",
+    "has_images": true,
+    "image": "/images/68369.png",
+    "selected_answer": null,
+    "slug": "ile-wynosi-wartosc-natezenia-pradu-znamionowego-to-c0c22895",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/68369.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Opaskę uziemiającą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Fartuch ochronny z bawełny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Ochronne okulary"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Buty z izolującą podeszwą"
+      }
+    ],
+    "content": "Jakiego rodzaju środek ochrony indywidualnej powinien w szczególności wykorzystać pracownik podczas wymiany tranzystora CMOS?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-wymienionych-srodkow-ochrony-indywidualnej-571bd681",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "sygnałowych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "fazowych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "ochronnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "neutralnych"
+      }
+    ],
+    "content": "Izolacja w kolorze niebieskim jest używana dla kabli",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "izolacje-niebieska-stosuje-sie-dla-przewodow-b8bd99a2",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "800 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "30 mA"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "400 V"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "63 A"
+      }
+    ],
+    "content": "Ile wynosi wartość natężenia prądu znamionowego toru głównego wyłącznika różnicowoprądowego przedstawionego na ilustracji?",
+    "has_images": true,
+    "image": "/images/65906.png",
+    "selected_answer": null,
+    "slug": "ile-wynosi-wartosc-natezenia-pradu-znamionowego-to-a80d3dcc",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65906.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "szczypiec oraz zestawu wkrętaków"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "rękawic ochronnych i fartucha ochronnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "nienaruszonych narzędzi izolowanych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "okularów ochronnych i fartucha ochronnego"
+      }
+    ],
+    "content": "W trakcie serwisowania urządzenia mechatronicznego, w którym istnieje ryzyko wystąpienia napięcia elektrycznego, technik mechatronik powinien stosować",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-naprawy-urzadzenia-mechatronicznego-w-kto-198e23a6",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "uruchomienia silnika przy niewielkim obciążeniu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "braku jednej fazy zasilającej silnik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "połączenia uzwojeń silnika w gwiazdę zamiast w trójkąt"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "użycia stałego napięcia w obwodzie sterowania silnika"
+      }
+    ],
+    "content": "Wyłącznik silnikowy może zadziałać na skutek",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przyczyna-zadziaania-wyacznika-silnikowego-moze-9621700c",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "po zadziałaniu wyłącznika ciśnieniowego ustawionego na 6 bar"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "przyciskiem załącz ręcznie, jeśli ciśnienie nie przekracza 6 bar"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "po zadziałaniu pompy hydraulicznej o ciśnieniu 6 bar"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "przyciskiem wyłącz ręcznie, jeśli ciśnienie nie przekracza 6 bar"
+      }
+    ],
+    "content": "Zawór 1V1 przełączany jest z pozycji b na a",
+    "has_images": true,
+    "image": "/images/75787.png",
+    "selected_answer": null,
+    "slug": "zawor-1v1-przeaczany-jest-z-pozycji-b-na-a-ac27c4e7",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/75787.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "wystąpienia zwarcia doziemnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "pojawu przerwy w obwodzie elektrycznym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "dotknięcia odizolowanych części będących pod napięciem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "dotknięcia elementów urządzenia elektrycznego mających uziemienie"
+      }
+    ],
+    "content": "Największe ryzyko związane z urządzeniami elektrycznymi wynika z możliwości",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "najwieksze-zagrozenie-pochodzace-od-urzadzen-elekt-3e53fee8",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "halonowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "proszkowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "pianowej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "śniegowej"
+      }
+    ],
+    "content": "Nie wolno stosować gaśnicy do gaszenia pożaru sprzętu elektrycznego, który jest pod napięciem",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-gaszenia-pozaru-urzadzen-elektrycznych-pod-napi-49fba87c",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "przekaźnik termiczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "odgromnik"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "wyłącznik silnikowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "termistor"
+      }
+    ],
+    "content": "Jakie urządzenie chroni silnik przed zwarciem i przeciążeniem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "silnik-przed-zwarciem-i-przeciazeniem-zabezpiecza-9d469d66",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Stycznik elektromagnetyczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Wyłącznik nadmiarowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Przekaźnik termobimetalowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Wyłącznik różnicowoprądowy"
+      }
+    ],
+    "content": "Jaki aparat elektryczny jest wykorzystywany do ochrony silnika indukcyjnego przed przeciążeniem?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-aparat-elektryczny-suzy-do-zabezpieczenia-s-f1f3bde0",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "kask zabezpieczający."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "okulary ochronne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "obuwie ochronne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "rękawice antywibracyjne."
+      }
+    ],
+    "content": "Jeśli w trakcie standardowych warunków eksploatacji pneumatyczne urządzenie mechatroniczne generuje duże drgania, to osoba obsługująca powinna być wyposażona w",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jezeli-podczas-normalnych-warunkow-pracy-pneumatyc-dd05ced2",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "1 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "2 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "3 A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "0 A"
+      }
+    ],
+    "content": "W normalnych warunkach działania wyłącznika różnicowoprądowego wektorowa suma natężeń prądów sinusoidalnych przepływających w przewodach fazowych oraz neutralnym wynosi",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-warunkach-normalnej-pracy-wyacznika-roznicowopr-4872a10f",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "2-5-3-4-6-1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "1-2-3-6-5-4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "2-5-3-6-1-4"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "1-4-3-6-2-5"
+      }
+    ],
+    "content": "W jakiej kolejności należy dokręcać śruby pokrywy, których układ przedstawiono na rysunku, aby uzyskać równomierne przyleganie pokrywy do korpusu?",
+    "has_images": true,
+    "image": "/images/69404.png",
+    "selected_answer": null,
+    "slug": "w-jakiej-kolejnosci-nalezy-dokrecac-sruby-pokrywy-84bb04e7",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69404.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "duże przepływy prądów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "wysokie temperatury płynów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "wibracje oraz hałas."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wysokie ciśnienia płynów oraz ogromne siły."
+      }
+    ],
+    "content": "Czynniki zagrażające zdrowiu ludzi, związane z użyciem urządzeń hydraulicznych, są w głównej mierze spowodowane przez",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zagrozenie-dla-zdrowia-czowieka-pochodzace-od-ur-ad2b9ed0",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/84558.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/84560.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/84559.webp",
+        "image_alt": "Wariant C",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/84557.webp",
+        "image_alt": "Wariant A",
+        "label": "D",
+        "original_number": 1,
+        "text": "A."
+      }
+    ],
+    "content": "Który zawór należy zastosować w układzie pneumatycznym, aby zabezpieczyć obciążony podnośnik przed opadaniem spowodowanym chwilowym spadkiem ciśnienia zasilania?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-zawor-nalezy-zastosowac-w-ukadzie-pneumatyc-e0f81ff6",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "wyrzucić je do pojemnika na śmieci po wcześniejszym stłuczeniu szyjki kineskopu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "pozostawić je obok kontenera na śmieci"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "wrzucić je do kosza na śmieci"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "przekazać je firmie zajmującej się odbiorem odpadów po wcześniejszym uzgodnieniu"
+      }
+    ],
+    "content": "Przepisy dotyczące usuwania używanych urządzeń elektronicznych nakładają obowiązek",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-przypadku-pozbywania-sie-wyeksploatowanych-urzad-330345d0",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "kasku ochronnym i rękawicach elektroizolacyjnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "rękawicach i okularach ochronnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "rękawicach skórzanych i fartuchu skórzanym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "obuwiu z gumową podeszwą oraz fartuchu ochronnym"
+      }
+    ],
+    "content": "Przy obróbce metalu z użyciem pilników, jakie środki ochrony osobistej są wymagane?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "obrabianie-metalu-przy-uzyciu-pilnikow-nalezy-wyko-27fc9756",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "proszkową oznaczoną ABC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "śniegową oznaczoną BC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "proszkową oznaczoną ABC/E"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "pianową oznaczoną AF"
+      }
+    ],
+    "content": "Zgodnie z normami ochrony przeciwpożarowej, do gaszenia urządzeń elektrycznych pod napięciem przekraczającym 1000 V należy zastosować gaśnicę",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zgodnie-z-przepisami-ochrony-przeciwpozarowej-do-66c718cf",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "umieszczania elementu w odpowiedniej lokalizacji"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "ochrony ramienia robota przed zderzeniem z operatorem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "ochrony ramienia robota przed przeciążeniem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "chwytania elementu z odpowiednią siłą"
+      }
+    ],
+    "content": "Efektor umieszczony na końcu ramienia robota pełni przede wszystkim funkcję",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "efektor-umieszczony-na-koncu-ramienia-robota-suz-19ac3b26",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "butów z izolowaną podeszwą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "bawełnianego fartucha ochronnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "opaski uziemiającej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "okularów ochronnych"
+      }
+    ],
+    "content": "Wymiana tranzystora wyjściowego w CMOS sterowniku PLC powinna być przeprowadzana z użyciem",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wymiany-tranzystora-wyjsciowego-cmos-sterownika-pl-1e9b106f",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "założyć jałowy opatrunek na ranę i umieścić rannego z uniesionymi kończynami powyżej poziomu serca"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "usunąć ciało obce, położyć rannego i wezwać lekarza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "wezwać pomoc i nałożyć opatrunek uciskowy powyżej rany siedzącego rannego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "nałożyć jałowy opatrunek na ranę siedzącego rannego i wezwać lekarza"
+      }
+    ],
+    "content": "W wyniku incydentu u rannego wystąpił krwotok zewnętrzny, a w ranie pozostało ciało obce. Co należy zrobić w pierwszej kolejności?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-wyniku-wypadku-u-poszkodowanego-wystapi-krwotok-2de864f8",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "odprysków cząsteczek metalu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "zanieczyszczenia pyłem wdychanego powietrza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "hałasu generowanego w trakcie obróbki"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "zanieczyszczenia powietrza wdychanego oparami metalu"
+      }
+    ],
+    "content": "Podczas użytkowania urządzenia laserowego do obróbki metali, ryzyko dla zdrowia pracownika może wynikać między innymi z",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-czasie-eksploatacji-urzadzenia-laserowego-do-cie-7326d25d",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/82466.webp",
+        "image_alt": "Wariant B",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/82468.webp",
+        "image_alt": "Wariant D",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/82465.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/82467.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Zaświecenie której lampki sygnalizacyjnej informuje o niebezpieczeństwie?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "zaswiecenie-ktorej-lampki-sygnalizacyjnej-informuj-8c01b433",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "6-3-5-2-4-1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "1-6-4-3-2-5"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "2-5-4-1-3-6"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "5-4-1-2-3-6"
+      }
+    ],
+    "content": "Podczas dokręcania jednakowymi śrubami głowicy przedstawionej na rysunku należy zachować następującą kolejność:",
+    "has_images": true,
+    "image": "/images/65488.png",
+    "selected_answer": null,
+    "slug": "podczas-dokrecania-jednakowymi-srubami-gowicy-prz-6c3b9205",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65488.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Termiczny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Różnicowoprądowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Nadprądowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Silnikowy"
+      }
+    ],
+    "content": "Na obudowie urządzenia wystąpiło niebezpieczne napięcie dotykowe. Który wyłącznik zredukowałby zasilanie urządzenia, gdy ktoś dotknie jego obudowy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-obudowie-urzadzenia-pojawio-sie-niebezpieczne-33cc7cc8",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "ustawić poszkodowanego w stabilnej pozycji bocznej i wezwać pomoc medyczną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "wezwać pomoc medyczną, położyć poszkodowanego na plecach i rozpocząć sztuczne oddychanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "ustawić poszkodowanego na boku, zapewnić mu świeże powietrze i rozpocząć sztuczne oddychanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "ułożyć poszkodowanego na noszach w wygodnej pozycji i przetransportować go do lekarza w celu oceny stanu zdrowia"
+      }
+    ],
+    "content": "Po przeprowadzeniu napraw w szafie sterowniczej numerycznej obrabiarki, pracownik doznał porażenia prądem. Jest nieprzytomny, lecz oddycha. W pierwszej kolejności, po odłączeniu go od źródła prądu, powinno się wykonać następujące kroki:",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-wykonywania-czynnosci-naprawczych-w-szafie-3b91c4a3",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "krwawienie z nosa"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "poparzenie dłoni"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "uszkodzenie słuchu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "uszkodzenie wzroku"
+      }
+    ],
+    "content": "Podczas nieostrożnego lutowania pracownik narażony jest przede wszystkim na",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-podczas-nieostroznego-wykonywania-lutowa-b58b09d7",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "odłączyć napięcie, zwolnić zatrzask i zdjąć stycznik z szyny, odkręcić przewody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "odkręcić przewody, zwolnić zatrzask i zdjąć stycznik z szyny, odłączyć napięcie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "zwolnić zatrzask i zdjąć stycznik z szyny, odłączyć napięcie, odkręcić przewody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "odłączyć napięcie, odkręcić przewody, zwolnić zatrzask i zdjąć stycznik z szyny"
+      }
+    ],
+    "content": "Aby usunąć stycznik zamontowany na szynie, należy wykonać działania w poniższej kolejności:",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-celu-demontazu-zamontowanego-na-szynie-stycznika-3a424590",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/81893.webp",
+        "image_alt": "Wariant A",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/81895.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/81894.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/81896.webp",
+        "image_alt": "Wariant D",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Którego narzędzia należy użyć do zaciśnięcia końcówki tulejowej na przewodzie elektrycznym?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktorego-narzedzia-nalezy-uzyc-do-zacisniecia-konco-d30bbc77",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "przepaleniem bezpieczników w obwodzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "pojawieniem się napięcia na obudowie urządzeń podłączonych do gniazda z bolcem ochronnym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "brakiem zasilania dla wszystkich odbiorników"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "spadkiem napięcia zasilającego do 0,5 UN"
+      }
+    ],
+    "content": "W sieci TN - C doszło do przerwania przewodu PEN. Jakie są tego konsekwencje?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-sieci-tn-c-zosta-przerwany-przewod-pen-grozi-6c34f9e4",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "dwutlenek węgla"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "piana gaśnicza"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "proszek gaśniczy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "woda"
+      }
+    ],
+    "content": "Środek gaśniczy, który może być zastosowany do likwidacji wszystkich kategorii pożarów i nie powoduje znacznych, nieodwracalnych uszkodzeń, na przykład w przypadku gaszenia sprzętu komputerowego, to",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "srodek-gasniczy-ktory-moze-byc-uzyty-do-gaszenia-w-46433af3",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "wprowadzić sterownik PLC w tryb STOP, odłączyć zasilanie elektryczne oraz pneumatyczne układu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "dezaktywować zasilanie pneumatyczne, odłączyć przewody od cewki elektrozaworu i przewody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "odłączyć przewody zasilające sterownik oraz przewody pneumatyczne od elektrozaworu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "wyłączyć dopływ sprężonego powietrza, odłączyć siłownik oraz wyłączyć PLC"
+      }
+    ],
+    "content": "Przed przystąpieniem do wymiany zaworu elektropneumatycznego, który jest sterowany przez PLC, należy zająć się zasilaniem pneumatycznym.",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przed-rozpoczeciem-wymiany-zaworu-elektropneumatyc-d991508c",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "okularów ochronnych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "kasku ochronnego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "rękawic dielektrycznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "ochronników słuchu"
+      }
+    ],
+    "content": "W trakcie inspekcji efektywności systemu sterującego urządzeń transportujących elementy aluminiowe, w środowisku produkcyjnym o podwyższonym poziomie hałasu powinno się używać",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-kontroli-sprawnosci-ukadu-sterowania-urza-fd6c96f6",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "poranienie prądem elektrycznym w trakcie dotykania ręką metalowej obudowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "poranienie prądem elektrycznym w momencie kontaktu ręką z nieizolowanymi elementami aktywnymi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "odczuwalne efekty przepływu prądu przy kontakcie ręką z nieizolowanymi elementami aktywnymi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "poranienie prądem elektrycznym podczas dotykania ręką nieizolowanego zacisku PEN"
+      }
+    ],
+    "content": "Osoba obsługująca elektryczne urządzenie prądu stałego o nominalnym napięciu 60 V oraz III klasie ochronności jest narażona na",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-obsugujacy-urzadzenie-elektryczne-pradu-03ce9c7e",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zasięgu ręki."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "pomieszczeniu, gdzie znajduje się stanowisko pracy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "zapleczu zakładu pracy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "widoczności."
+      }
+    ],
+    "content": "Używane wielokrotnie w ciągu jednej godziny przyrządy oraz narzędzia powinny być zgodnie z zasadami ergonomii w",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przyrzady-i-narzedzia-uzywane-kilka-razy-w-ciagu-g-90f458bc",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "umieścić poszkodowanego w ustalonej pozycji bocznej."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "unieruchomić staw kolanowy na jakimkolwiek podparciu, nie zmieniając jego pozycji."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "nałożyć bandaż na kolano po delikatnym wyprostowaniu nogi."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wyregulować nogę, lekko ciągnąc ją w dół."
+      }
+    ],
+    "content": "Co należy zrobić w przypadku urazu kolana u pracownika po upadku z wysokości?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-przypadku-stwierdzenia-urazu-kolana-u-pracownika-15c5e348",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "miernik RLC"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "kamerę termowizyjną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "miernik uniwersalny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "miernik parametrów instalacji"
+      }
+    ],
+    "content": "Aby sprawdzić stan bezpieczników, znaleźć niedokręcone złącza oraz zidentyfikować przegrzane elementy instalacji bez konieczności wyłączania zasilania, należy wykorzystać",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-celu-sprawdzenia-stanu-bezpiecznikow-zlokalizow-ea74a568",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "do dokręcania śrub z określonym momentem obrotowym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "do ułatwienia odkręcania i dokręcania śrub"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "do odkręcania zardzewiałych śrub"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "do dokręcania śrub w trudno dostępnych miejscach"
+      }
+    ],
+    "content": "Do czego służy klucz dynamometryczny?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "klucz-dynamometryczny-nalezy-stosowac-do-ccda7e79",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "okulary ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "rękawice odporne na wysoką temperaturę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "obuwie ochronne z gumową podeszwą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "fartuch ochronny"
+      }
+    ],
+    "content": "Do pracy związanej z lutowaniem elementów dyskretnych na płytce drukowanej powinno się założyć",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-pracy-zwiazanej-z-lutowaniem-elementow-dyskretn-27bf4680",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "nałożyć opatrunek z jałowej gazy bezpośrednio na ranę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "przemyć ranę wodą utlenioną i oczekiwać na pomoc medyczną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "położyć poszkodowanego w pozycji bocznej ustalonej i czekać na pomoc medyczną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "założyć opaskę uciskową powyżej miejsca urazu"
+      }
+    ],
+    "content": "Co należy uczynić w przypadku rany z krwotokiem tętniczym?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-przypadku-wystapienia-rany-z-krwotokiem-tetniczy-46aec1cd",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Demontaż połączenia kołkowego wykonuje się narzędziem przedstawionym na rysunku",
+    "has_images": true,
+    "image": "/images/66734.png",
+    "selected_answer": null,
+    "slug": "demontaz-poaczenia-kokowego-wykonuje-sie-narzedz-06dc2d4c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/66734.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "dwoma kluczami płaskimi"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "jednym kluczem płaskim"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "jednym kluczem nasadowym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "dwoma kluczami nasadowymi"
+      }
+    ],
+    "content": "Aby zabezpieczyć połączenia gwintowe przed niekontrolowanym odkręceniem, należy zastosować przeciwnakrętkę oraz wykorzystać",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-zabezpieczenia-poaczen-gwintowych-przed-s-ce11f162",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "średnicy żył przewodu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "wagi żył w przewodzie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "stanu izolacji przewodu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "ciągłości żył przewodu"
+      }
+    ],
+    "content": "Przed zainstalowaniem podtynkowej instalacji zasilającej dla urządzenia mechatronicznego nie weryfikuje się",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "przed-montazem-podtynkowej-instalacji-zasilajacej-b7e67cec",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "ciśnienia zasilającego układ"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "przewodów elektrycznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "przewodów pneumatycznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "napięcia zasilającego"
+      }
+    ],
+    "content": "Rozpoczęcie demontażu elektrozaworu w systemie elektropneumatycznym wymaga najpierw odłączenia",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "demontaz-elektrozaworu-w-ukadzie-elektropneumatyc-bd166fc9",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odkręcić przewody, zdjąć stycznik z szyny, odłączyć napięcie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "odłączyć napięcie, odkręcić przewody, zdjąć stycznik z szyny"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "odłączyć napięcie, zdjąć stycznik z szyny, odkręcić przewody"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "zdjąć stycznik z szyny, odłączyć napięcie, odkręcić przewody"
+      }
+    ],
+    "content": "Aby zdemontować stycznik zamocowany na szynie, należy wykonać czynności w odpowiedniej kolejności:",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-celu-zdemontowania-umocowanego-na-szynie-styczni-6d4647c0",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Zdjęcie osłon oraz pokryw, wyciągnięcie elementów zabezpieczających, odłączenie instalacji zewnętrznych, wyciągnięcie elementów ustalających"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Wyciągnięcie elementów zabezpieczających, odłączenie instalacji zewnętrznych, zdjęcie osłon oraz pokryw, wyciągnięcie elementów ustalających"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Odłączenie instalacji zewnętrznych, zdjęcie osłon oraz pokryw, wyciągnięcie elementów zabezpieczających, wyciągnięcie elementów ustalających"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Odłączenie instalacji zewnętrznych, wyciągnięcie elementów ustalających, zdjęcie osłon oraz pokryw, wyciągnięcie elementów zabezpieczających"
+      }
+    ],
+    "content": "Jakie są właściwe etapy postępowania podczas rozbierania urządzenia mechatronicznego?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jaka-jest-prawidowa-kolejnosc-czynnosci-wykonywan-3f47d7c5",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "awarii stojana silnika"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "pojawienia się napięcia na obudowie silnika, co grozi porażeniem prądem elektrycznym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "przeciążenia instalacji elektrycznej, co może skutkować pożarem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "wzrostu temperatury silnika podczas pracy, co może prowadzić do zapalenia się silnika"
+      }
+    ],
+    "content": "Co może się zdarzyć, gdy w trakcie montażu silnika trójfazowego nastąpi przerwanie przewodu ochronnego PE?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jezeli-w-trakcie-montazu-silnika-trojfazowego-prze-387d45a2",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "układu pokarmowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "układu słuchu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "dermatologicznych"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "układu sercowego"
+      }
+    ],
+    "content": "Mocno podgrzana ciecz hydrauliczna wytwarza podczas awarii w słabo wentylowanym pomieszczeniu tzw. \"mgłę olejową\", która może prowadzić do różnych schorzeń",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "silnie-rozgrzana-ciecz-hydrauliczna-tworzy-podczas-c846efdb",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "nieprawidłowo zamocowanym przewodem pneumatycznym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "przerwanym przewodem pneumatycznym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "siłownikiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "tłoczyskiem siłownika"
+      }
+    ],
+    "content": "Układ mechatroniczny jest zbudowany z elementu wykonawczego funkcjonującego w specjalnej osłonie, pod wysokim ciśnieniem roboczym, oraz z komponentów sterujących połączonych wzmocnionymi przewodami pneumatycznymi, które są mocowane za pomocą złączy wtykowych. Osoba obsługująca ten układ może być szczególnie narażona na uderzenie",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ukad-mechatroniczny-skada-sie-z-elementu-wykonaw-717f35d1",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "okulary ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "maskę przeciwpyłową"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "buty ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "kask ochronny"
+      }
+    ],
+    "content": "Podczas prac związanych z montażem mechatronicznych elementów konstrukcyjnych na znacznej wysokości, co należy założyć?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-prac-zwiazanych-z-montazem-mechatronicznych-ele-dd4bbcaa",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "oblać dłoń wodą utlenioną i nałożyć opatrunek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "usunąć z palców poszkodowanego biżuterię, ogrzać dłoń i zastosować jałowy opatrunek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "smarować odmrożone miejsce tłustym kremem i przewieźć pracownika do domu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "podać środki przeciwbólowe i przetransportować poszkodowanego do szpitala"
+      }
+    ],
+    "content": "W wyniku kontaktu dłoni pracownika ze strumieniem wysoko sprężonego dwutlenku węgla doszło do odmrożenia drugiego stopnia (zaczerwienienie dłoni, pojawienie się pęcherzy). Jakie czynności należy podjąć udzielając pierwszej pomocy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-skutek-oddziaywania-na-don-pracownika-strumie-13408797",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "chwilowym zanikiem napięcia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "gwałtownym wzrostem napięcia."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zwarciem i przeciążeniem."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "zwarciem doziemnym."
+      }
+    ],
+    "content": "Na rysunku zamieszczono element, który zabezpiecza przed",
+    "has_images": true,
+    "image": "/images/69433.png",
+    "selected_answer": null,
+    "slug": "na-rysunku-zamieszczono-element-ktory-zabezpiecza-0fc57e9d",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69433.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "HPG, HTG, HT"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "HFA, HFC, HFD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "HV, HLP, HLPD"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "HLP, HFA, HTG"
+      }
+    ],
+    "content": "Ciecze hydrauliczne o podwyższonej odporności na ogień, wykorzystywane w miejscach narażonych na wybuch, to ciecze oznaczone symbolami",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "trudnopalne-ciecze-hydrauliczne-stosowane-tam-gdz-4649ce91",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "odłamki rozrywanych maszyn"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "iskra prowadząca do pożaru lub wybuchu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "nadmierny hałas generowany przez pracujące urządzenia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "przenoszenie wibracji na pracownika"
+      }
+    ],
+    "content": "Cechy medium energii pneumatycznej, jakim jest sprężone powietrze, eliminują ryzyko powstania zagrożenia takiego jak",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "wasciwosci-nosnika-energii-pneumatycznej-jakim-j-dfc1484d",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Które oczko, przygotowane do założenia na śrubę w tabliczce zaciskowej silnika, jest prawidłowo uformowane i wygięte we właściwym kierunku?",
+    "has_images": true,
+    "image": "/images/65932.png",
+    "selected_answer": null,
+    "slug": "ktore-oczko-przygotowane-do-zaozenia-na-srube-w-f15f7840",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65932.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "skraca się przewody elektryczne."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "przecina się drut stalowy."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "zdejmuje się izolację z przewodów."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "tnie się przewody."
+      }
+    ],
+    "content": "Za pomocą narzędzia przedstawionego na rysunku",
+    "has_images": true,
+    "image": "/images/65498.png",
+    "selected_answer": null,
+    "slug": "za-pomoca-narzedzia-przedstawionego-na-rysunku-4799b30c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65498.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "B."
+      }
+    ],
+    "content": "Praska do zaciskania końcówek tulejkowych może być użyta do montażu końcówki przedstawionej na rysunku",
+    "has_images": true,
+    "image": "/images/69375.png",
+    "selected_answer": null,
+    "slug": "praska-do-zaciskania-koncowek-tulejkowych-moze-byc-0a853be3",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69375.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Do zagniatania tulejek kablowych należy użyć narzędzia przedstawionego na rysunku",
+    "has_images": true,
+    "image": "/images/65863.png",
+    "selected_answer": null,
+    "slug": "do-zagniatania-tulejek-kablowych-nalezy-uzyc-narze-77011a56",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65863.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Czapkę z daszkiem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Maskę osłaniającą twarz"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Rękawice i nauszniki ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "Okulary ochronne"
+      }
+    ],
+    "content": "Jakie środki ochrony osobistej powinien używać pracownik obsługujący tokarkę precyzyjną?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jakie-srodki-ochrony-indywidualnej-powinien-stosow-8171e6ee",
+    "video": null,
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/82397.webp",
+        "image_alt": "Wariant A",
+        "label": "A",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/82399.webp",
+        "image_alt": "Wariant C",
+        "label": "B",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": "/images/82398.webp",
+        "image_alt": "Wariant B",
+        "label": "C",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/82400.webp",
+        "image_alt": "Wariant D",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Którą z przedstawionych nakrętek należy zastosować w połączeniach gwintowych, aby zapewnić ochronę przed zranieniem o powierzchnię gwintu oraz nadać im estetyczny wygląd?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-z-przedstawionych-nakretek-nalezy-zastosowac-558f94b4",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "zdjąć obudowę."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "zweryfikować stan izolacji."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "odłączyć urządzenie od źródła zasilania."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "uziemić urządzenie."
+      }
+    ],
+    "content": "Przed wykonaniem czynności konserwacyjnych zawsze należy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "czynnosci-konserwacyjne-zawsze-musza-byc-poprzedzo-77aadbce",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Rezystancji izolacji"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Napięcia zasilania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Poboru prądu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Ciągłości uzwojeń"
+      }
+    ],
+    "content": "Jakie pomiary należy przeprowadzić, aby zidentyfikować awarię w urządzeniu mechatronicznym, które uruchamia wyłącznik różnicowoprądowy w chwili włączenia zasilania?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktory-z-pomiarow-nalezy-wykonac-w-celu-lokalizacji-bc98f599",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "1, 6, 2, 3, 4, 5"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "2, 5, 3, 6, 4, 1"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "5, 1, 3, 4, 6, 2"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "6, 2, 4, 3, 5, 1"
+      }
+    ],
+    "content": "Określ prawidłową kolejność dokręcania śrub lub nakrętek części podzespołu, przedstawionego na rysunku.",
+    "has_images": true,
+    "image": "/images/65853.png",
+    "selected_answer": null,
+    "slug": "okresl-prawidowa-kolejnosc-dokrecania-srub-lub-na-b5e7f075",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65853.png",
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "symbolem podwójnego trójkąta z określoną wartością napięcia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "symbolem kwadratu z określoną wartością napięcia"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zielonym kolorem z żółtą obręczą"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "napisem &quot;narzędzie bezpieczne&quot;"
+      }
+    ],
+    "content": "Przy pracy z urządzeniami, które są zasilane, należy używać narzędzi izolowanych oznaczonych",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "do-pracy-przy-urzadzeniach-znajdujacych-sie-pod-na-e5eaba7b",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zasilanym trójfazowo."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "o szybko wirujących elementach."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "o groźnej promieniotwórczości."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "emitującym światło."
+      }
+    ],
+    "content": "Symbol przedstawiony na rysunku należy umieścić na urządzeniu",
+    "has_images": true,
+    "image": "/images/55840.png",
+    "selected_answer": null,
+    "slug": "symbol-przedstawiony-na-rysunku-nalezy-umiescic-na-adf24b8c",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/55840.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "Stoperów do ochrony słuchu."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Rękawic ochronnych i nauszników ochronnych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "Kasku ochronnego i okularów ochronnych."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Butów ochronnych."
+      }
+    ],
+    "content": "Jakich środków ochrony indywidualnej należy używać podczas wprasowywania ciasno pasowanych elementów przy użyciu prasy śrubowej przedstawionej na rysunku?",
+    "has_images": true,
+    "image": "/images/69399.png",
+    "selected_answer": null,
+    "slug": "jakich-srodkow-ochrony-indywidualnej-nalezy-uzywac-2f7849fa",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/69399.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": "/images/78812.webp",
+        "image_alt": "Wariant D",
+        "label": "A",
+        "original_number": 4,
+        "text": "D."
+      },
+      {
+        "image": "/images/78810.webp",
+        "image_alt": "Wariant B",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": "/images/78809.webp",
+        "image_alt": "Wariant A",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": "/images/78811.webp",
+        "image_alt": "Wariant C",
+        "label": "D",
+        "original_number": 3,
+        "text": "C."
+      }
+    ],
+    "content": "Na którym rysunku przedstawiono podłączenie układu sieci TN-S?",
+    "has_images": true,
+    "image": null,
+    "selected_answer": null,
+    "slug": "na-ktorym-rysunku-przedstawiono-podaczenie-ukadu-108d5322",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "C."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "B."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "A."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "D."
+      }
+    ],
+    "content": "Który przyrząd pozwoli przed podłączeniem silnika trójfazowego do napięcia zasilającego na określenie kierunku obrotów wirnika?",
+    "has_images": true,
+    "image": "/images/65880.png",
+    "selected_answer": null,
+    "slug": "ktory-przyrzad-pozwoli-przed-podaczeniem-silnika-8a7b56de",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65880.png",
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 4,
+        "text": "Zielony."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Żółto-zielony."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 3,
+        "text": "Niebieski."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Brązowy."
+      }
+    ],
+    "content": "Jakiego koloru powinna być izolacja przewodu PE?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-jakim-kolorze-powinna-byc-izolacja-przewodu-pe-bab14722",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "ustawienie na boku, sztuczne oddychanie"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "udrożnienie dróg oddechowych, wykonanie sztucznego oddychania"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "sztuczne oddychanie oraz masaż serca"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "udrożnienie dróg oddechowych, wykonanie sztucznego oddychania i masaż serca"
+      }
+    ],
+    "content": "Osoba, która doświadczyła porażenia prądem elektrycznym, nie oddycha, natomiast krążenie krwi jest prawidłowe. Jakie czynności należy wykonać w odpowiedniej kolejności podczas udzielania pierwszej pomocy?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "osoba-porazona-pradem-elektrycznym-nie-oddycha-a-e543662f",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "przygotować jałowy opatrunek i mocno nacisnąć go na ranę"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "nałożyć opatrunek, a po chwili zmienić go sprawdzając, czy krwawienie ustąpiło"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zatamować krew używając opaski powyżej rany i owinąć ranę bandażem"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "zatamować krew stosując opaskę poniżej rany i zabezpieczyć ranę bandażem"
+      }
+    ],
+    "content": "W sytuacji krwawienia zewnętrznego dłoni pracownika po upadku z wysokości (pracownik jest przytomny, oddycha, tętno jest wyczuwalne, wezwano pogotowie), należy",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "w-przypadku-krwotoku-zewnetrznego-doni-pracownika-c6e1aba1",
+    "video": null,
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Napięcie stałe 30 V."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "Napięcie stałe 40 V."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "Napięcie przemienne 12 V."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "Napięcie przemienne 30 V."
+      }
+    ],
+    "content": "Na podstawie fragmentu instrukcji określ możliwe napięcie zasilające przetwornik ultradźwiękowy zastosowany w urządzeniu pracującym w strefie zagrożonej wybuchem.\r\n<br><br>\r\n<table style=\"border-collapse: collapse; border: 2px solid #000;\" aria-label=\"Specyfikacja czujnika temperatury\">\r\n  <tr>\r\n    <td style=\"padding: 8px; border: 1px solid #000; vertical-align: top;\"><strong>A.</strong> Zdalny czujnik temperatury (tylko 3108)</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"padding: 8px; border: 1px solid #000; vertical-align: top;\"><strong>B.</strong> Czarny: 0 V DC</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"padding: 8px; border: 1px solid #000; vertical-align: top;\"><strong>C.</strong> Czerwony: 12 ÷ 40 V DC (w obszarze bezpiecznym), 12 ÷ 30 V DC z bariery ochronnej (w obszarze zagrożonym)</td>\r\n  </tr>\r\n  <tr>\r\n    <td style=\"padding: 8px; border: 1px solid #000; vertical-align: top;\"><strong>D.</strong> Obszar bezpieczny: Ekran kabla podłączyć do standardowego uziemienia (masy) lub obszar zagrożony: Ekran kabla podłączyć do uziemienia iskrobezpiecznego (masy)</td>\r\n  </tr>\r\n</table>",
+    "has_images": true,
+    "image": "/images/65818.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-fragmentu-instrukcji-okresl-mozliwe-n-a767ff42",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65818.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "skrócenia o 5 minut czasu pracy za każdą godzinę pracy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "5-minutowej przerwy po każdej godzinie pracy, wliczanej do czasu pracy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "zmniejszenia o 10 minut czasu pracy za każdą godzinę pracy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "10-minutowej przerwy po każdej godzinie pracy, wliczanej do czasu pracy"
+      }
+    ],
+    "content": "Osoba pracująca przy monitorze komputerowym ma prawo do",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracujac-przy-monitorze-ekranowym-pracownikowi-prz-765f8598",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "Rotametr należy montować w pozycji pionowej z przepływem czynnika z dołu do góry."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "Rotametr należy montować w pozycji pionowej z przepływem czynnika z góry do dołu."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Rotametr należy montować w pozycji poziomej z przepływem czynnika z prawej do lewej."
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "Rotametr należy montować w pozycji poziomej z przepływem czynnika z lewej do prawej."
+      }
+    ],
+    "content": "Na podstawie ilustracji z instrukcji obsługi rotametru wskaż sposób jego montażu.",
+    "has_images": true,
+    "image": "/images/65808.png",
+    "selected_answer": null,
+    "slug": "na-podstawie-ilustracji-z-instrukcji-obsugi-rotam-a43e19be",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65808.png",
+    "correct_answer": "A"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 1,
+        "text": "F, B, D, C, E, A"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "F, C, A, D, B, E"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "A, F, B, C, D, E"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "B, E, C, F, D, A"
+      }
+    ],
+    "content": "Określ prawidłową kolejność dokręcania śrub lub nakrętek części podzespołu, przedstawionej na rysunku.",
+    "has_images": true,
+    "image": "/images/65937.png",
+    "selected_answer": null,
+    "slug": "okresl-prawidowa-kolejnosc-dokrecania-srub-lub-na-f24e1e5a",
+    "video": null,
+    "local_image_path": "baza_ELM03/obrazki/65937.png",
+    "correct_answer": "D"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "w odzież ochronną"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "w gogle ochronne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "w rękawice antywibracyjne"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "w hełm ochronny"
+      }
+    ],
+    "content": "Osoba obsługująca urządzenie generujące drgania, takie jak młot pneumatyczny, powinna być przede wszystkim wyposażona",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-obsugujacy-sprzet-wytwarzajacy-drgania-cb39f4db",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "zmiany w układzie kostnym"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 3,
+        "text": "uszkodzenie narządu słuchu"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "uszkodzenie skóry dłoni"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "porażenie prądem elektrycznym"
+      }
+    ],
+    "content": "Osoba pracująca z urządzeniami pneumatycznymi emitującymi głośny dźwięk jest narażona na",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-podczas-obsugi-urzadzen-pneumatycznych-f98c94af",
+    "video": null,
+    "correct_answer": "B"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "miejsca oparzone posmarować tłustym kremem, a następnie na ranę oparzeniową zastosować okład z 1% kwasu octowego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "zdjąć odzież i bieliznę z oparzonych miejsc, a następnie na ranę oparzeniową nałożyć okład z 3% roztworu sody oczyszczonej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 2,
+        "text": "miejsca oparzone polewać zimną wodą, a następnie na ranę oparzeniową założyć jałowy opatrunek"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 4,
+        "text": "zdjąć odzież i bieliznę z oparzonych miejsc, a następnie miejsca oparzone polewać wodą utlenioną"
+      }
+    ],
+    "content": "Podczas naprawy pieca indukcyjnego pracownik doznał poparzenia ramienia. Jaką pomoc powinien otrzymać w pierwszej kolejności?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "podczas-wykonywania-naprawy-pieca-indukcyjnego-pra-fc3716b4",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "podnieść poszkodowanego i opatrzyć ranę głowy"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "przenieść poszkodowanego w bezpieczne miejsce i wezwać pomoc"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "pozostawić poszkodowanego w pozycji leżącej i wezwać pomoc"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "posadzić poszkodowanego na krześle i opatrzyć ranę głowy"
+      }
+    ],
+    "content": "Pracownik upadł na twardą nawierzchnię z wysokości 4 metrów i doznał drobnego urazu głowy, jednak jest przytomny i odczuwa mrowienie w kończynach. Co należy zrobić w pierwszej kolejności?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-spad-na-twarde-podoze-z-wysokosci-4-me-7acebb67",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "po upływie kilkunastu sekund, sprawdzając w tym czasie tętno"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 4,
+        "text": "po poinformowaniu osoby przełożonej"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 1,
+        "text": "natychmiastowo i kontynuować do momentu przybycia ratownika medycznego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 2,
+        "text": "po wezwaniu pomocy medycznej"
+      }
+    ],
+    "content": "Technik, podczas naprawy urządzenia mechatronicznego, doznał porażenia prądem elektrycznym, upadł na ziemię i przestał oddychać. Osoba udzielająca pierwszej pomocy powinna zainicjować działania ratunkowe?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "pracownik-naprawiajac-urzadzenie-mechatroniczne-zo-63172399",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 2,
+        "text": "Niezawodność"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 1,
+        "text": "Efektywność"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "Iskrobezpieczeństwo"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 3,
+        "text": "Bezobsługowość"
+      }
+    ],
+    "content": "Która z wymienionych właściwości komponentów systemów automatyki, stosowanych w liniach produkcyjnych, ma kluczowe znaczenie przy projektowaniu linii do konfekcjonowania rozcieńczalników do farb i lakierów?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "ktora-z-wymienionych-cech-podzespoow-ukadow-auto-8f167605",
+    "video": null,
+    "correct_answer": "C"
+  },
+  {
+    "answers": [
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "A",
+        "original_number": 3,
+        "text": "przeprowadzić reanimację poszkodowanego i wezwać pomoc"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "B",
+        "original_number": 2,
+        "text": "wezwać pomoc i zapewnić drożność dróg oddechowych poszkodowanego"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "C",
+        "original_number": 4,
+        "text": "pozostawić poszkodowanego w aktualnej pozycji i zatelefonować po pomoc"
+      },
+      {
+        "image": null,
+        "image_alt": "",
+        "label": "D",
+        "original_number": 1,
+        "text": "wezwać pomoc i przeprowadzić sztuczne oddychanie"
+      }
+    ],
+    "content": "Co należy zrobić w pierwszej kolejności, gdy poszkodowany w wypadku jest nieprzytomny i nie wykazuje oznak oddychania?",
+    "has_images": false,
+    "image": null,
+    "selected_answer": null,
+    "slug": "jezeli-poszkodowany-w-wypadku-jest-nieprzytomny-i-1c26c393",
+    "video": null,
+    "correct_answer": "B"
+  }
+]
