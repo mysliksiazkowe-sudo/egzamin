@@ -121,27 +121,22 @@
     }
 
     async function wczytajWszystkieBazy() {
-        let załadowanoCokolwiek = false;
         const statusText = document.getElementById("loading-status");
 
         for (const kat of FOLDERY_KATEGORII) {
             try {
                 statusText.innerText = `Pobieranie działu: ${kat.nazwa}...`;
-                const url = `./${kat.id}/pelna_baza.json`;
-                const response = await fetch(url);
+                const response = await fetch(`./${kat.id}/pelna_baza.json`);
                 if (!response.ok) throw new Error();
                 
                 let dane = await response.json();
                 dane = dane.map(q => {
-                    // Inteligentne szukanie poprawnej odpowiedzi w strukturze wewnętrznej obiektu
                     let klucz = (q.correct_answer || "").trim();
-                    
                     if (klucz === "" && q.answers) {
                         const znaleziona = q.answers.find(a => a.is_correct === true || a.correct === true);
                         if (znaleziona) klucz = znaleziona.label;
                     }
-                    
-                    q.resolved_correct_answer = klucz; // Zapisujemy bezpieczny klucz lub zostaje pusty (unieważnione)
+                    q.resolved_correct_answer = klucz;
 
                     if (q.image) q.local_image_path = fixImageUrl(q.image);
                     if (q.answers) {
@@ -153,7 +148,6 @@
                 });
                 
                 BAZA_DANYCH[kat.id] = dane;
-                if(dane.length > 0) załadowanoCokolwiek = true;
             } catch (err) {
                 BAZA_DANYCH[kat.id] = [];
             }
@@ -252,7 +246,6 @@
                 allButtons.forEach(b => b.disabled = true);
                 
                 if (!q.resolved_correct_answer) {
-                    // Pytanie wadliwe w bazie - podświetlamy na żółto, brak zmian w punktacji
                     btn.style.backgroundColor = "#eab308";
                     btn.style.color = "#000000";
                 } else if (opt.label === q.resolved_correct_answer) {
@@ -311,7 +304,7 @@
             });
             optionsHTML += '</div>';
 
-            let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold; font-size:0.85em; margin-left:10px;">[⚠️ Pytanie unieważnione przez CKE - Brak poprawnej odpowiedzi]</span>` : "";
+            let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold; font-size:0.85em; margin-left:10px;">[⚠️ Pytanie unieważnione przez CKE]</span>` : "";
 
             qBox.innerHTML = `
                 <div class="d-flex justify-content-between align-items-center mb-2">
