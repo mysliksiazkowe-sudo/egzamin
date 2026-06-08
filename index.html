@@ -22,6 +22,7 @@
         .img-question { max-height: 280px; object-fit: contain; display: block; margin: 10px 0; background-color: #ffffff; padding: 6px; border-radius: 6px; }
         .img-answer { max-height: 150px; object-fit: contain; display: block; margin-top: 8px; background-color: #ffffff; padding: 6px; border-radius: 4px; }
         .hidden { display: none !important; }
+        .cke-invalid-box { background-color: #7c2d12; color: #ffedd5; padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: bold; font-size: 0.9em; text-align: center; border: 1px solid #ea580c; }
     </style>
 </head>
 <body>
@@ -64,11 +65,14 @@
 
         <div class="col-lg-9">
             <div id="view-quiz" class="card-custom p-4 mb-4 hidden">
+                <div id="quiz-unieważnione-alert" class="cke-invalid-box hidden">
+                    ⚠️ To pytanie zostało unieważnione przez CKE (brak oficjalnej poprawnej odpowiedzi). Kliknięcie dowolnej opcji nie zmieni Twoich statystyk punktowych.
+                </div>
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span class="badge bg-secondary fs-6" id="quiz-progress">Pytanie 0/0</span>
                     <span class="text-muted small" id="quiz-qslug"></span>
                 </div>
-                <h4 id="quiz-question-text" class="fw-bold mb-3">Ładowanie...</h4>
+                <h4 class="fw-bold mb-3" id="quiz-question-text">Ładowanie...</h4>
                 <div id="quiz-image-container"></div>
                 <div id="quiz-answers-container" class="mt-4"></div>
                 <hr class="my-4" style="border-color: #334155;">
@@ -123,17 +127,22 @@
         for (const kat of FOLDERY_KATEGORII) {
             try {
                 statusText.innerText = `Pobieranie działu: ${kat.nazwa}...`;
-                // Wykorzystanie ścieżki relatywnej kropka-ukośnik bezpiecznej dla subdomen Pages
                 const url = `./${kat.id}/pelna_baza.json`;
                 const response = await fetch(url);
-                
-                if (!response.ok) {
-                    console.warn(`Nie znaleziono bazy w ścieżce: ${url}. Próba alternatywnej nazwy...`);
-                    throw new Error();
-                }
+                if (!response.ok) throw new Error();
                 
                 let dane = await response.json();
                 dane = dane.map(q => {
+                    // Inteligentne szukanie poprawnej odpowiedzi w strukturze wewnętrznej obiektu
+                    let klucz = (q.correct_answer || "").trim();
+                    
+                    if (klucz === "" && q.answers) {
+                        const znaleziona = q.answers.find(a => a.is_correct === true || a.correct === true);
+                        if (znaleziona) klucz = znaleziona.label;
+                    }
+                    
+                    q.resolved_correct_answer = klucz; // Zapisujemy bezpieczny klucz lub zostaje pusty (unieważnione)
+
                     if (q.image) q.local_image_path = fixImageUrl(q.image);
                     if (q.answers) {
                         q.answers.forEach(ans => {
@@ -146,18 +155,12 @@
                 BAZA_DANYCH[kat.id] = dane;
                 if(dane.length > 0) załadowanoCokolwiek = true;
             } catch (err) {
-                console.error(`Błąd krytyczny ładowania katalogu: ${kat.id}`);
                 BAZA_DANYCH[kat.id] = [];
             }
         }
 
         document.getElementById("loading-screen").classList.add("hidden");
         document.getElementById("content-area").classList.remove("hidden");
-        
-        if (!załadowanoCokolwiek) {
-            alert("Błąd: Skrypt nie mógł odnaleźć żadnego pliku 'pelna_baza.json' w podfolderach. Upewnij się, że nazwy katalogów na GitHubie są identyczne (wielkość liter!) jak te w kodzie HTML.");
-        }
-        
         generujMenuNawigacji();
     }
 
@@ -216,10 +219,18 @@
         const dataset = BAZA_DANYCH[currentCategory];
         if (!dataset || dataset.length === 0) return;
         const q = dataset[quizIndex];
+        
         document.getElementById('quiz-progress').innerText = `Pytanie ${quizIndex + 1} / ${dataset.length}`;
         document.getElementById('quiz-qslug').innerText = `ID: ${q.slug || ''}`;
         document.getElementById('quiz-question-text').innerText = q.content || q.text || "";
         
+        const uniewaznioneAlert = document.getElementById('quiz-unieważnione-alert');
+        if (!q.resolved_correct_answer) {
+            uniewaznioneAlert.classList.remove('hidden');
+        } else {
+            uniewaznioneAlert.classList.add('hidden');
+        }
+
         const imgContainer = document.getElementById('quiz-image-container');
         imgContainer.innerHTML = "";
         if (q.local_image_path) {
@@ -235,17 +246,23 @@
             let htmlContent = `<div><strong>${opt.label}:</strong> ${opt.text}</div>`;
             if (opt.local_image_path) htmlContent += `<img src="${opt.local_image_path}" class="img-fluid img-answer">`;
             btn.innerHTML = htmlContent;
+            
             btn.onclick = function() {
                 const allButtons = answersContainer.querySelectorAll('button');
                 allButtons.forEach(b => b.disabled = true);
-                if (opt.label === q.correct_answer) {
+                
+                if (!q.resolved_correct_answer) {
+                    // Pytanie wadliwe w bazie - podświetlamy na żółto, brak zmian w punktacji
+                    btn.style.backgroundColor = "#eab308";
+                    btn.style.color = "#000000";
+                } else if (opt.label === q.resolved_correct_answer) {
                     btn.classList.add('correct');
                     stats.correct++;
                 } else {
                     btn.classList.add('incorrect');
                     stats.incorrect++;
                     allButtons.forEach(b => {
-                        if (b.querySelector('strong').innerText.startsWith(q.correct_answer + ":")) b.classList.add('correct');
+                        if (b.querySelector('strong').innerText.startsWith(q.resolved_correct_answer + ":")) b.classList.add('correct');
                     });
                 }
                 document.getElementById('stats-ok').innerText = `Poprawne: ${stats.correct}`;
@@ -288,18 +305,20 @@
             let optionsHTML = '<div class="mt-2">';
             const options = q.answers || q.options || [];
             options.forEach(opt => {
-                const isCorrect = (opt.label === q.correct_answer);
+                const isCorrect = (q.resolved_correct_answer && opt.label === q.resolved_correct_answer);
                 let ansImgHTML = opt.local_image_path ? `<br><img src="${opt.local_image_path}" class="img-fluid img-answer">` : "";
                 optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> ${opt.text} ${isCorrect ? '✔️' : ''}${ansImgHTML}</div>`;
             });
             optionsHTML += '</div>';
+
+            let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold; font-size:0.85em; margin-left:10px;">[⚠️ Pytanie unieważnione przez CKE - Brak poprawnej odpowiedzi]</span>` : "";
 
             qBox.innerHTML = `
                 <div class="d-flex justify-content-between align-items-center mb-2">
                     <span class="badge bg-dark text-info">Pytanie ${idx + 1}</span>
                     <small class="text-muted">ID: ${q.slug || ''}</small>
                 </div>
-                <h5 class="fw-bold mt-2">${q.content || q.text || ''}</h5>
+                <h5 class="fw-bold mt-2">${q.content || q.text || ''} ${ckeLabel}</h5>
                 ${imgHTML} ${optionsHTML}
             `;
             container.appendChild(qBox);
