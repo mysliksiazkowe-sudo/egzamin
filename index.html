@@ -29,6 +29,9 @@
 <nav class="navbar navbar-expand-lg navbar-custom sticky-top mb-4">
     <div class="container">
         <span class="navbar-brand fw-bold">🎓 Mechatronik Panel</span>
+        <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto" id="category-tabs"></ul>
         </div>
@@ -38,7 +41,7 @@
 <div class="container mb-5">
     <div id="loading-screen" class="text-center my-5">
         <div class="spinner-border text-info" role="status"></div>
-        <p class="mt-2 text-muted">Ładowanie baz danych pytań...</p>
+        <p class="mt-2 text-muted" id="loading-status">Inicjalizacja baz danych pytań...</p>
     </div>
 
     <div id="content-area" class="row hidden">
@@ -87,6 +90,7 @@
     </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script>
     const FOLDERY_KATEGORII = [
         { id: "Bezpiecenstwo_i_BHP", nazwa: "BHP" },
@@ -105,22 +109,30 @@
     let quizIndex = 0;
     let stats = { correct: 0, incorrect: 0 };
 
-    // Funkcja naprawiająca URL obrazka – jeśli nie ma pełnego adresu, ciągnie z neta
     function fixImageUrl(path) {
         if (!path) return null;
         if (path.startsWith('http')) return path;
-        let clean = path.lstrip ? path.lstrip('/') : path.replace(/^\/+/, '');
+        let clean = path.replace(/^\/+/, '');
         return `https://egzaminyzawodowe.edu.pl/${clean}`;
     }
 
     async function wczytajWszystkieBazy() {
+        let załadowanoCokolwiek = false;
+        const statusText = document.getElementById("loading-status");
+
         for (const kat of FOLDERY_KATEGORII) {
             try {
-                const response = await fetch(`${kat.id}/pelna_baza.json`);
-                if (!response.ok) throw new Error();
-                let dane = await response.json();
+                statusText.innerText = `Pobieranie działu: ${kat.nazwa}...`;
+                // Wykorzystanie ścieżki relatywnej kropka-ukośnik bezpiecznej dla subdomen Pages
+                const url = `./${kat.id}/pelna_baza.json`;
+                const response = await fetch(url);
                 
-                // Wymuszamy pobieranie obrazków bezpośrednio z sieci internetowej
+                if (!response.ok) {
+                    console.warn(`Nie znaleziono bazy w ścieżce: ${url}. Próba alternatywnej nazwy...`);
+                    throw new Error();
+                }
+                
+                let dane = await response.json();
                 dane = dane.map(q => {
                     if (q.image) q.local_image_path = fixImageUrl(q.image);
                     if (q.answers) {
@@ -130,13 +142,22 @@
                     }
                     return q;
                 });
+                
                 BAZA_DANYCH[kat.id] = dane;
+                if(dane.length > 0) załadowanoCokolwiek = true;
             } catch (err) {
+                console.error(`Błąd krytyczny ładowania katalogu: ${kat.id}`);
                 BAZA_DANYCH[kat.id] = [];
             }
         }
+
         document.getElementById("loading-screen").classList.add("hidden");
         document.getElementById("content-area").classList.remove("hidden");
+        
+        if (!załadowanoCokolwiek) {
+            alert("Błąd: Skrypt nie mógł odnaleźć żadnego pliku 'pelna_baza.json' w podfolderach. Upewnij się, że nazwy katalogów na GitHubie są identyczne (wielkość liter!) jak te w kodzie HTML.");
+        }
+        
         generujMenuNawigacji();
     }
 
@@ -150,7 +171,7 @@
                 const li = document.createElement('li');
                 li.className = "nav-item";
                 const klasaAktywna = !aktywneUstawione ? 'active' : '';
-                if (!aktywneUasetwione) { currentCategory = kat.id; aktywneUstawione = true; }
+                if (!aktywneUstawione) { currentCategory = kat.id; aktywneUstawione = true; }
                 li.innerHTML = `<a class="nav-link ${klasaAktywna}" href="#" id="tab-${kat.id}" onclick="wybierzKategorie('${kat.id}')">📂 ${kat.nazwa}</a>`;
                 menuContainer.appendChild(li);
             }
