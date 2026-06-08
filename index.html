@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Panel Egzaminów Zawodowych</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
     <style>
         body { background-color: #0f172a; color: #f8fafc; font-family: 'Segoe UI', sans-serif; }
         .navbar-custom { background-color: #020617; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.5); }
@@ -34,7 +34,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto" id="category-tabs"></ul>
+            <ul class="navbar-nav ms-auto" id="category-tabs">
+                </ul>
         </div>
     </div>
 </nav>
@@ -66,13 +67,13 @@
         <div class="col-lg-9">
             <div id="view-quiz" class="card-custom p-4 mb-4 hidden">
                 <div id="quiz-unieważnione-alert" class="cke-invalid-box hidden">
-                    ⚠️ To pytanie zostało unieważnione przez CKE (brak oficjalnej poprawnej odpowiedzi). Kliknięcie dowolnej opcji nie zmieni Twoich statystyk punktowych.
+                    ⚠️ To pytanie zostało unieważnione przez CKE.
                 </div>
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span class="badge bg-secondary fs-6" id="quiz-progress">Pytanie 0/0</span>
                     <span class="text-muted small" id="quiz-qslug"></span>
                 </div>
-                <h4 class="fw-bold mb-3" id="quiz-question-text">Ładowanie...</h4>
+                <h4 class="fw-bold mb-3" id="quiz-question-text">Ładowanie pytań...</h4>
                 <div id="quiz-image-container"></div>
                 <div id="quiz-answers-container" class="mt-4"></div>
                 <hr class="my-4" style="border-color: #334155;">
@@ -94,8 +95,9 @@
     </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 <script>
+    // Dopasowanie do struktur z Twoich folderów
     const FOLDERY_KATEGORII = [
         { id: "Bezpiecenstwo_i_BHP", nazwa: "BHP" },
         { id: "Obrobka_i_techniki_laczenia", nazwa: "Obróbka i Łączenie" },
@@ -116,30 +118,32 @@
     function fixImageUrl(path) {
         if (!path) return null;
         if (path.startsWith('http')) return path;
-        let clean = path.replace(/^\/+/, '');
-        return `https://egzaminyzawodowe.edu.pl/${clean}`;
+        return `https://egzaminyzawodowe.edu.pl/${path.replace(/^\/+/, '')}`;
     }
 
     async function wczytajWszystkieBazy() {
         const statusText = document.getElementById("loading-status");
-        const cacheBuster = Math.floor(Math.random() * 100000); // Wymuszenie świeżego pobrania plików
+        const cacheBuster = Math.floor(Math.random() * 100000);
 
         for (const kat of FOLDERY_KATEGORII) {
             try {
                 statusText.innerText = `Pobieranie działu: ${kat.nazwa}...`;
-                // Dodajemy ?v= losowy_numer, żeby ominąć stary cache przeglądarki i GitHuba
                 const response = await fetch(`./${kat.id}/pelna_baza.json?v=${cacheBuster}`);
-                if (!response.ok) throw new Error();
+                
+                if (!response.ok) {
+                    console.warn(`Nie udało się pobrać bazy dla: ${kat.id}`);
+                    BAZA_DANYCH[kat.id] = [];
+                    continue;
+                }
                 
                 let dane = await response.json();
-                dane = dane.map(q => {
+                BAZA_DANYCH[kat.id] = dane.map(q => {
                     let klucz = (q.correct_answer || "").trim();
                     if (klucz === "" && q.answers) {
-                        const znaleziona = q.answers.find(a => a.is_correct === true || a.correct === true);
+                        const znaleziona = q.answers.find(a => a.is_correct || a.correct);
                         if (znaleziona) klucz = znaleziona.label;
                     }
                     q.resolved_correct_answer = klucz;
-
                     if (q.image) q.local_image_path = fixImageUrl(q.image);
                     if (q.answers) {
                         q.answers.forEach(ans => {
@@ -148,13 +152,13 @@
                     }
                     return q;
                 });
-                
-                BAZA_DANYCH[kat.id] = dane;
             } catch (err) {
+                console.error(`Błąd parsowania JSON dla: ${kat.id}`, err);
                 BAZA_DANYCH[kat.id] = [];
             }
         }
 
+        // Pokaż strukturę strony niezależnie od tego, czy bazy się pobrały
         document.getElementById("loading-screen").classList.add("hidden");
         document.getElementById("content-area").classList.remove("hidden");
         generujMenuNawigacji();
@@ -166,14 +170,13 @@
         let aktywneUstawione = false;
         
         FOLDERY_KATEGORII.forEach(kat => {
-            if (BAZA_DANYCH[kat.id] && BAZA_DANYCH[kat.id].length > 0) {
-                const li = document.createElement('li');
-                li.className = "nav-item";
-                const klasaAktywna = !aktywneUstawione ? 'active' : '';
-                if (!aktywneUstawione) { currentCategory = kat.id; aktywneUstawione = true; }
-                li.innerHTML = `<a class="nav-link ${klasaAktywna}" href="#" id="tab-${kat.id}" onclick="wybierzKategorie('${kat.id}')">📂 ${kat.nazwa}</a>`;
-                menuContainer.appendChild(li);
-            }
+            // ZMIANA: Nawet jeśli baza jest pusta, tworzymy pustą zakładkę, żeby strona nie była biała!
+            const li = document.createElement('li');
+            li.className = "nav-item";
+            const klasaAktywna = !aktywneUstawione ? 'active' : '';
+            if (!aktywneUstawione) { currentCategory = kat.id; aktywneUstawione = true; }
+            li.innerHTML = `<a class="nav-link ${klasaAktywna}" href="#" id="tab-${kat.id}" onclick="wybierzKategorie('${kat.id}')">📂 ${kat.nazwa}</a>`;
+            menuContainer.appendChild(li);
         });
         if (currentCategory) wybierzKategorie(currentCategory);
     }
@@ -184,15 +187,25 @@
         currentCategory = katId;
         const nowa = document.getElementById(`tab-${currentCategory}`);
         if (nowa) nowa.classList.add('active');
+        
         const infoKat = FOLDERY_KATEGORII.find(k => k.id === katId);
         document.getElementById('current-title').innerText = infoKat ? infoKat.nazwa : "Egzamin";
         quizIndex = 0;
         resetStats();
-        renderujQuiz();
-        if (currentMode === 'list') renderujListMode();
+        
+        const dataset = BAZA_DANYCH[currentCategory] || [];
+        if (dataset.length === 0) {
+            document.getElementById('list-counter').innerText = "Razem: 0 (Brak pliku JSON w folderze)";
+            document.getElementById('list-all-questions-container').innerHTML = `<div class="alert alert-warning">Błąd 404: Serwer GitHub nie widzi pliku pelna_baza.json w folderze /${currentCategory}/</div>`;
+            document.getElementById('quiz-question-text').innerText = "Brak pytań w tym dziale.";
+            document.getElementById('quiz-answers-container').innerHTML = "";
+            document.getElementById('quiz-progress').innerText = "Pytanie 0 / 0";
+        } else {
+            renderujQuiz();
+            if (currentMode === 'list') renderujListMode();
+        }
     }
 
-    // Pozostałe niezmienione funkcje pomocnicze panelu
     function switchMode(mode) {
         currentMode = mode;
         if (mode === 'quiz') {
@@ -201,14 +214,14 @@
             document.getElementById('quiz-stats-box').classList.remove('hidden');
             document.getElementById('mode-quiz-btn').className = "btn btn-primary py-2 fw-semibold";
             document.getElementById('mode-list-btn').className = "btn btn-outline-secondary py-2 fw-semibold";
-            renderujQuiz();
+            if ((BAZA_DANYCH[currentCategory] || []).length > 0) renderujQuiz();
         } else {
             document.getElementById('view-quiz').classList.add('hidden');
             document.getElementById('view-list').classList.remove('hidden');
             document.getElementById('quiz-stats-box').classList.add('hidden');
             document.getElementById('mode-quiz-btn').className = "btn btn-outline-secondary py-2 fw-semibold";
             document.getElementById('mode-list-btn').className = "btn btn-primary py-2 fw-semibold";
-            renderujListMode();
+            if ((BAZA_DANYCH[currentCategory] || []).length > 0) renderujListMode();
         }
     }
 
@@ -222,22 +235,15 @@
         document.getElementById('quiz-question-text').innerText = q.content || q.text || "";
         
         const uniewaznioneAlert = document.getElementById('quiz-unieważnione-alert');
-        if (!q.resolved_correct_answer) {
-            uniewaznioneAlert.classList.remove('hidden');
-        } else {
-            uniewaznioneAlert.classList.add('hidden');
-        }
+        if (!q.resolved_correct_answer) uniewaznioneAlert.classList.remove('hidden');
+        else uniewaznioneAlert.classList.add('hidden');
 
         const imgContainer = document.getElementById('quiz-image-container');
-        imgContainer.innerHTML = "";
-        if (q.local_image_path) {
-            imgContainer.innerHTML = `<img src="${q.local_image_path}" class="img-fluid img-question img-thumbnail">`;
-        }
+        imgContainer.innerHTML = q.local_image_path ? `<img src="${q.local_image_path}" class="img-fluid img-question img-thumbnail">` : "";
         
         const answersContainer = document.getElementById('quiz-answers-container');
         answersContainer.innerHTML = "";
-        const options = q.answers || q.options || [];
-        options.forEach(opt => {
+        (q.answers || q.options || []).forEach(opt => {
             const btn = document.createElement('button');
             btn.className = "btn btn-answer rounded-3";
             let htmlContent = `<div><strong>${opt.label}:</strong> ${opt.text}</div>`;
@@ -247,16 +253,12 @@
             btn.onclick = function() {
                 const allButtons = answersContainer.querySelectorAll('button');
                 allButtons.forEach(b => b.disabled = true);
-                
                 if (!q.resolved_correct_answer) {
-                    btn.style.backgroundColor = "#eab308";
-                    btn.style.color = "#000000";
+                    btn.style.backgroundColor = "#eab308"; btn.style.color = "#000000";
                 } else if (opt.label === q.resolved_correct_answer) {
-                    btn.classList.add('correct');
-                    stats.correct++;
+                    btn.classList.add('correct'); stats.correct++;
                 } else {
-                    btn.classList.add('incorrect');
-                    stats.incorrect++;
+                    btn.classList.add('incorrect'); stats.incorrect++;
                     allButtons.forEach(b => {
                         if (b.querySelector('strong').innerText.startsWith(q.resolved_correct_answer + ":")) b.classList.add('correct');
                     });
@@ -269,8 +271,8 @@
     }
 
     function navigateQuiz(dir) {
-        const dataset = BAZA_DANYCH[currentCategory];
-        if (!dataset) return;
+        const dataset = BAZA_DANYCH[currentCategory] || [];
+        if (dataset.length === 0) return;
         quizIndex += dir;
         if (quizIndex < 0) quizIndex = 0;
         if (quizIndex >= dataset.length) quizIndex = dataset.length - 1;
@@ -278,8 +280,8 @@
     }
 
     function randomQuiz() {
-        const dataset = BAZA_DANYCH[currentCategory];
-        if (!dataset) return;
+        const dataset = BAZA_DANYCH[currentCategory] || [];
+        if (dataset.length === 0) return;
         quizIndex = Math.floor(Math.random() * dataset.length);
         renderujQuiz();
     }
@@ -289,25 +291,21 @@
     function renderujListMode() {
         const container = document.getElementById('list-all-questions-container');
         container.innerHTML = "";
-        const dataset = BAZA_DANYCH[currentCategory];
-        if (!dataset) return;
+        const dataset = BAZA_DANYCH[currentCategory] || [];
         document.getElementById('list-counter').innerText = `Razem: ${dataset.length}`;
         
         dataset.forEach((q, idx) => {
             const qBox = document.createElement('div');
             qBox.className = "list-question-box shadow-sm mb-4";
             let imgHTML = q.local_image_path ? `<img src="${q.local_image_path}" class="img-fluid img-question">` : "";
-            
             let optionsHTML = '<div class="mt-2">';
-            const options = q.answers || q.options || [];
-            options.forEach(opt => {
+            (q.answers || q.options || []).forEach(opt => {
                 const isCorrect = (q.resolved_correct_answer && opt.label === q.resolved_correct_answer);
                 let ansImgHTML = opt.local_image_path ? `<br><img src="${opt.local_image_path}" class="img-fluid img-answer">` : "";
                 optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> ${opt.text} ${isCorrect ? '✔️' : ''}${ansImgHTML}</div>`;
             });
             optionsHTML += '</div>';
-
-            let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold; font-size:0.85em; margin-left:10px;">[⚠️ Pytanie unieważnione przez CKE]</span>` : "";
+            let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold;">[⚠️ Pytanie unieważnione]</span>` : "";
 
             qBox.innerHTML = `
                 <div class="d-flex justify-content-between align-items-center mb-2">
