@@ -23,6 +23,10 @@
         .img-answer { max-height: 150px; object-fit: contain; display: block; margin-top: 8px; background-color: #ffffff; padding: 6px; border-radius: 4px; }
         .hidden { display: none !important; }
         .cke-invalid-box { background-color: #7c2d12; color: #ffedd5; padding: 10px; border-radius: 8px; margin-bottom: 15px; font-weight: bold; font-size: 0.9em; text-align: center; border: 1px solid #ea580c; }
+        /* Styl dla tabel, żeby ładnie wyglądały w ciemnym motywie */
+        table { width: 100%; margin: 15px 0; border-collapse: collapse; background-color: #334155; color: #f8fafc; }
+        table th, table td { padding: 8px; border: 1px solid #475569; text-align: left; }
+        table th { background-color: #1e293b; }
     </style>
 </head>
 <body>
@@ -34,8 +38,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto" id="category-tabs">
-                </ul>
+            <ul class="navbar-nav ms-auto" id="category-tabs"></ul>
         </div>
     </div>
 </nav>
@@ -67,7 +70,7 @@
         <div class="col-lg-9">
             <div id="view-quiz" class="card-custom p-4 mb-4 hidden">
                 <div id="quiz-unieważnione-alert" class="cke-invalid-box hidden">
-                    ⚠️ To pytanie nie ma odpowiedzi?
+                    ⚠️ To pytanie nie ma odpowiedzi???
                 </div>
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span class="badge bg-secondary fs-6" id="quiz-progress">Pytanie 0/0</span>
@@ -97,7 +100,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 <script>
-    // Dopasowanie do struktur z Twoich folderów
     const FOLDERY_KATEGORII = [
         { id: "Bezpieczenstwo_i_BHP", nazwa: "BHP" },
         { id: "Obrobka_i_techniki_laczenia", nazwa: "Obróbka i Łączenie" },
@@ -131,7 +133,6 @@
                 const response = await fetch(`./${kat.id}/pelna_baza.json?v=${cacheBuster}`);
                 
                 if (!response.ok) {
-                    console.warn(`Nie udało się pobrać bazy dla: ${kat.id}`);
                     BAZA_DANYCH[kat.id] = [];
                     continue;
                 }
@@ -153,12 +154,10 @@
                     return q;
                 });
             } catch (err) {
-                console.error(`Błąd parsowania JSON dla: ${kat.id}`, err);
                 BAZA_DANYCH[kat.id] = [];
             }
         }
 
-        // Pokaż strukturę strony niezależnie od tego, czy bazy się pobrały
         document.getElementById("loading-screen").classList.add("hidden");
         document.getElementById("content-area").classList.remove("hidden");
         generujMenuNawigacji();
@@ -170,7 +169,6 @@
         let aktywneUstawione = false;
         
         FOLDERY_KATEGORII.forEach(kat => {
-            // ZMIANA: Nawet jeśli baza jest pusta, tworzymy pustą zakładkę, żeby strona nie była biała!
             const li = document.createElement('li');
             li.className = "nav-item";
             const klasaAktywna = !aktywneUstawione ? 'active' : '';
@@ -195,8 +193,8 @@
         
         const dataset = BAZA_DANYCH[currentCategory] || [];
         if (dataset.length === 0) {
-            document.getElementById('list-counter').innerText = "Razem: 0 (Brak pliku JSON w folderze)";
-            document.getElementById('list-all-questions-container').innerHTML = `<div class="alert alert-warning">Błąd 404: Serwer GitHub nie widzi pliku pelna_baza.json w folderze /${currentCategory}/</div>`;
+            document.getElementById('list-counter').innerText = "Razem: 0";
+            document.getElementById('list-all-questions-container').innerHTML = `<div class="alert alert-warning">Brak pytań lub pliku w tym dziale.</div>`;
             document.getElementById('quiz-question-text').innerText = "Brak pytań w tym dziale.";
             document.getElementById('quiz-answers-container').innerHTML = "";
             document.getElementById('quiz-progress').innerText = "Pytanie 0 / 0";
@@ -232,7 +230,9 @@
         
         document.getElementById('quiz-progress').innerText = `Pytanie ${quizIndex + 1} / ${dataset.length}`;
         document.getElementById('quiz-qslug').innerText = `ID: ${q.slug || ''}`;
-        document.getElementById('quiz-question-text').innerText = q.content || q.text || "";
+        
+        // ZMIANA: innerHTML zamiast innerText, żeby telefon renderował tabele i entery z bazy danych
+        document.getElementById('quiz-question-text').innerHTML = q.content || q.text || "";
         
         const uniewaznioneAlert = document.getElementById('quiz-unieważnione-alert');
         if (!q.resolved_correct_answer) uniewaznioneAlert.classList.remove('hidden');
@@ -246,7 +246,9 @@
         (q.answers || q.options || []).forEach(opt => {
             const btn = document.createElement('button');
             btn.className = "btn btn-answer rounded-3";
-            let htmlContent = `<div><strong>${opt.label}:</strong> ${opt.text}</div>`;
+            
+            // ZMIANA: wstrzykiwanie tekstu odpowiedzi jako HTML
+            let htmlContent = `<div><strong>${opt.label}:</strong> <span>${opt.text}</span></div>`;
             if (opt.local_image_path) htmlContent += `<img src="${opt.local_image_path}" class="img-fluid img-answer">`;
             btn.innerHTML = htmlContent;
             
@@ -302,17 +304,20 @@
             (q.answers || q.options || []).forEach(opt => {
                 const isCorrect = (q.resolved_correct_answer && opt.label === q.resolved_correct_answer);
                 let ansImgHTML = opt.local_image_path ? `<br><img src="${opt.local_image_path}" class="img-fluid img-answer">` : "";
-                optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> ${opt.text} ${isCorrect ? '✔️' : ''}${ansImgHTML}</div>`;
+                
+                // ZMIANA: renderowanie opcji na liście jako kod HTML
+                optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> <span>${opt.text}</span> ${isCorrect ? '✔️' : ''}${ansImgHTML}</div>`;
             });
             optionsHTML += '</div>';
             let ckeLabel = !q.resolved_correct_answer ? `<span style="color:#f97316; font-weight:bold;">[⚠️ Pytanie unieważnione]</span>` : "";
 
+            // ZMIANA: Pytanie główne też jako HTML wstrzykiwane
             qBox.innerHTML = `
                 <div class="d-flex justify-content-between align-items-center mb-2">
                     <span class="badge bg-dark text-info">Pytanie ${idx + 1}</span>
                     <small class="text-muted">ID: ${q.slug || ''}</small>
                 </div>
-                <h5 class="fw-bold mt-2">${q.content || q.text || ''} ${ckeLabel}</h5>
+                <div class="fw-bold mt-2 h5">${q.content || q.text || ''} ${ckeLabel}</div>
                 ${imgHTML} ${optionsHTML}
             `;
             container.appendChild(qBox);
