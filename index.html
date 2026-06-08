@@ -122,11 +122,13 @@
 
     async function wczytajWszystkieBazy() {
         const statusText = document.getElementById("loading-status");
+        const cacheBuster = Math.floor(Math.random() * 100000); // Wymuszenie świeżego pobrania plików
 
         for (const kat of FOLDERY_KATEGORII) {
             try {
                 statusText.innerText = `Pobieranie działu: ${kat.nazwa}...`;
-                const response = await fetch(`./${kat.id}/pelna_baza.json`);
+                // Dodajemy ?v= losowy_numer, żeby ominąć stary cache przeglądarki i GitHuba
+                const response = await fetch(`./${kat.id}/pelna_baza.json?v=${cacheBuster}`);
                 if (!response.ok) throw new Error();
                 
                 let dane = await response.json();
@@ -190,6 +192,7 @@
         if (currentMode === 'list') renderujListMode();
     }
 
+    // Pozostałe niezmienione funkcje pomocnicze panelu
     function switchMode(mode) {
         currentMode = mode;
         if (mode === 'quiz') {
