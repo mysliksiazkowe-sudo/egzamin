@@ -6,30 +6,22 @@
     <title>Panel Egzaminów Zawodowych</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/bootstrap.min.css" rel="stylesheet">
     <style>
-        /* DOMYŚLNY DARK MODE */
-        body { background-color: #0f172a; color: #f8fafc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: background-color 0.3s, color 0.3s; }
+        body { background-color: #0f172a; color: #f8fafc; font-family: 'Segoe UI', sans-serif; }
         .navbar-custom { background-color: #020617; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.5); }
         .navbar-custom .navbar-brand, .navbar-custom .nav-link { color: #f8fafc !important; }
         .navbar-custom .nav-link.active { font-weight: bold; color: #38bdf8 !important; border-bottom: 2px solid #38bdf8; }
-        
-        .card-custom, .sidebar-menu, .list-question-box { background-color: #1e293b; color: #f8fafc; border: none; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3); }
+        .card-custom, .sidebar-menu, .list-question-box { background-color: #1e293b; color: #f8fafc; border: none; border-radius: 12px; }
         .sidebar-menu { padding: 15px; }
-        .list-question-box { border-left: 5px solid #38bdf8; padding: 20px; margin-bottom: 30px; border-radius: 0 12px 12px 0; }
-        
-        .btn-answer { text-align: left; padding: 14px; margin-bottom: 10px; border: 2px solid #475569; transition: all 0.2s; background-color: #334155; color: #f8fafc; width: 100%; display: block; }
-        .btn-answer:hover { background-color: #475569; border-color: #38bdf8; }
-        
-        .correct { background-color: #064e3b !important; border-color: #059669 !important; color: #a7f3d0 !important; font-weight: bold; }
+        .list-question-box { border-left: 5px solid #38bdf8; padding: 20px; margin-bottom: 30px; }
+        .btn-answer { text-align: left; padding: 14px; margin-bottom: 10px; border: 2px solid #475569; background-color: #334155; color: #f8fafc; width: 100%; display: block; }
+        .btn-answer:hover { border-color: #38bdf8; }
+        .correct { background-color: #064e3b !important; border-color: #059669 !important; color: #a7f3d0 !important; }
         .incorrect { background-color: #7f1d1d !important; border-color: #b91c1c !important; color: #fecaca !important; }
-        
-        .list-answer-row { padding: 8px 12px; margin: 4px 0; border-radius: 6px; border: 1px solid #334155; color: #cbd5e1; transition: background-color 0.3s; }
-        .list-answer-row.true-answer { background-color: #064e3b; border-color: #047857; color: #a7f3d0; font-weight: 600; }
-        
-        .img-question { max-height: 280px; object-fit: contain; display: block; margin: 10px 0; background-color: #ffffff; padding: 6px; border: 1px solid #475569; border-radius: 6px; }
-        .img-answer { max-height: 150px; object-fit: contain; display: block; margin-top: 8px; background-color: #ffffff; padding: 6px; border: 1px solid #475569; border-radius: 4px; }
-        
+        .list-answer-row { padding: 8px 12px; margin: 4px 0; border-radius: 6px; border: 1px solid #334155; color: #cbd5e1; }
+        .list-answer-row.true-answer { background-color: #064e3b; border-color: #047857; color: #a7f3d0; }
+        .img-question { max-height: 280px; object-fit: contain; display: block; margin: 10px 0; background-color: #ffffff; padding: 6px; border-radius: 6px; }
+        .img-answer { max-height: 150px; object-fit: contain; display: block; margin-top: 8px; background-color: #ffffff; padding: 6px; border-radius: 4px; }
         .hidden { display: none !important; }
-        .text-secondary-custom { color: #94a3b8 !important; }
     </style>
 </head>
 <body>
@@ -37,9 +29,6 @@
 <nav class="navbar navbar-expand-lg navbar-custom sticky-top mb-4">
     <div class="container">
         <span class="navbar-brand fw-bold">🎓 Mechatronik Panel</span>
-        <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <span class="navbar-toggler-icon"></span>
-        </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto" id="category-tabs"></ul>
         </div>
@@ -49,7 +38,7 @@
 <div class="container mb-5">
     <div id="loading-screen" class="text-center my-5">
         <div class="spinner-border text-info" role="status"></div>
-        <p class="mt-2 text-secondary-custom">Ładowanie baz danych pytań...</p>
+        <p class="mt-2 text-muted">Ładowanie baz danych pytań...</p>
     </div>
 
     <div id="content-area" class="row hidden">
@@ -74,16 +63,16 @@
             <div id="view-quiz" class="card-custom p-4 mb-4 hidden">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                     <span class="badge bg-secondary fs-6" id="quiz-progress">Pytanie 0/0</span>
-                    <span class="text-secondary-custom small" id="quiz-qslug"></span>
+                    <span class="text-muted small" id="quiz-qslug"></span>
                 </div>
                 <h4 id="quiz-question-text" class="fw-bold mb-3">Ładowanie...</h4>
                 <div id="quiz-image-container"></div>
                 <div id="quiz-answers-container" class="mt-4"></div>
                 <hr class="my-4" style="border-color: #334155;">
                 <div class="d-flex justify-content-between">
-                    <button class="btn btn-outline-secondary px-4" id="btn-prev" onclick="navigateQuiz(-1)">⏮️ Poprzednie</button>
+                    <button class="btn btn-outline-secondary px-4" onclick="navigateQuiz(-1)">⏮️ Poprzednie</button>
                     <button class="btn btn-warning px-4 fw-bold text-dark" onclick="randomQuiz()">🎲 Losowe</button>
-                    <button class="btn btn-primary px-4" id="btn-next" onclick="navigateQuiz(1)">Następne ⏭️</button>
+                    <button class="btn btn-primary px-4" onclick="navigateQuiz(1)">Następne ⏭️</button>
                 </div>
             </div>
 
@@ -98,9 +87,7 @@
     </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script>
-    // 1. Definiujemy dokładnie foldery, które masz na dysku
     const FOLDERY_KATEGORII = [
         { id: "Bezpiecenstwo_i_BHP", nazwa: "BHP" },
         { id: "Obrobka_i_techniki_laczenia", nazwa: "Obróbka i Łączenie" },
@@ -114,84 +101,71 @@
 
     let BAZA_DANYCH = {};
     let currentCategory = "";
-    let currentMode = "list"; // Domyślnie Szybka Ściąga
+    let currentMode = "list"; 
     let quizIndex = 0;
     let stats = { correct: 0, incorrect: 0 };
 
-    // 2. Asynchroniczne ładowanie wszystkich plików JSON w tle
+    // Funkcja naprawiająca URL obrazka – jeśli nie ma pełnego adresu, ciągnie z neta
+    function fixImageUrl(path) {
+        if (!path) return null;
+        if (path.startsWith('http')) return path;
+        let clean = path.lstrip ? path.lstrip('/') : path.replace(/^\/+/, '');
+        return `https://egzaminyzawodowe.edu.pl/${clean}`;
+    }
+
     async function wczytajWszystkieBazy() {
         for (const kat of FOLDERY_KATEGORII) {
             try {
-                // Budujemy ścieżkę relatywną do pliku json w danym folderze
-                const sciezka = `${kat.id}/pelna_baza.json`;
-                const response = await fetch(sciezka);
-                if (!response.ok) throw new Error("Brak pliku");
+                const response = await fetch(`${kat.id}/pelna_baza.json`);
+                if (!response.ok) throw new Error();
+                let dane = await response.json();
                 
-                let dane = await response.ok ? await response.json() : [];
-                
-                // Przepisujemy ścieżki obrazków, aby wskazywały do odpowiedniego podfolderu
+                // Wymuszamy pobieranie obrazków bezpośrednio z sieci internetowej
                 dane = dane.map(q => {
-                    if (q.image) {
-                        const plikObrazka = q.image.split('/').pop();
-                        q.local_image_path = `${kat.id}/obrazki/${plikObrazka}`;
-                    }
+                    if (q.image) q.local_image_path = fixImageUrl(q.image);
                     if (q.answers) {
                         q.answers.forEach(ans => {
-                            if (ans.image) {
-                                const plikAnsObrazka = ans.image.split('/').pop();
-                                ans.local_image_path = `${kat.id}/obrazki/${plikAnsObrazka}`;
-                            }
+                            if (ans.image) ans.local_image_path = fixImageUrl(ans.image);
                         });
                     }
                     return q;
                 });
-
                 BAZA_DANYCH[kat.id] = dane;
             } catch (err) {
-                console.warn(`Nie udało się wczytać kategorii: ${kat.id}`, err);
-                BAZA_DANYCH[kat.id] = []; // zapobiegamy wywaleniu aplikacji
+                BAZA_DANYCH[kat.id] = [];
             }
         }
-        
         document.getElementById("loading-screen").classList.add("hidden");
         document.getElementById("content-area").classList.remove("hidden");
-        
         generujMenuNawigacji();
     }
 
     function generujMenuNawigacji() {
         const menuContainer = document.getElementById('category-tabs');
         menuContainer.innerHTML = "";
-        
         let aktywneUstawione = false;
         
         FOLDERY_KATEGORII.forEach(kat => {
             if (BAZA_DANYCH[kat.id] && BAZA_DANYCH[kat.id].length > 0) {
                 const li = document.createElement('li');
                 li.className = "nav-item";
-                
                 const klasaAktywna = !aktywneUstawione ? 'active' : '';
-                if (!aktywneUstawione) { currentCategory = kat.id; aktywneUstawione = true; }
-                
+                if (!aktywneUasetwione) { currentCategory = kat.id; aktywneUstawione = true; }
                 li.innerHTML = `<a class="nav-link ${klasaAktywna}" href="#" id="tab-${kat.id}" onclick="wybierzKategorie('${kat.id}')">📂 ${kat.nazwa}</a>`;
                 menuContainer.appendChild(li);
             }
         });
-        
         if (currentCategory) wybierzKategorie(currentCategory);
     }
 
     function wybierzKategorie(katId) {
-        const staraKategoria = document.getElementById(`tab-${currentCategory}`);
-        if (staraKategoria) staraKategoria.classList.remove('active');
-        
+        const stara = document.getElementById(`tab-${currentCategory}`);
+        if (stara) stara.classList.remove('active');
         currentCategory = katId;
-        const nowaKategoria = document.getElementById(`tab-${currentCategory}`);
-        if (nowaKategoria) nowaKategoria.classList.add('active');
-        
+        const nowa = document.getElementById(`tab-${currentCategory}`);
+        if (nowa) nowa.classList.add('active');
         const infoKat = FOLDERY_KATEGORII.find(k => k.id === katId);
         document.getElementById('current-title').innerText = infoKat ? infoKat.nazwa : "Egzamin";
-        
         quizIndex = 0;
         resetStats();
         renderujQuiz();
@@ -200,23 +174,19 @@
 
     function switchMode(mode) {
         currentMode = mode;
-        const modeQuizBtn = document.getElementById('mode-quiz-btn');
-        const modeListBtn = document.getElementById('mode-list-btn');
-        const statsBox = document.getElementById('quiz-stats-box');
-        
         if (mode === 'quiz') {
             document.getElementById('view-quiz').classList.remove('hidden');
             document.getElementById('view-list').classList.add('hidden');
-            statsBox.classList.remove('hidden');
-            modeQuizBtn.className = "btn btn-primary py-2 fw-semibold";
-            modeListBtn.className = "btn btn-outline-secondary py-2 fw-semibold";
+            document.getElementById('quiz-stats-box').classList.remove('hidden');
+            document.getElementById('mode-quiz-btn').className = "btn btn-primary py-2 fw-semibold";
+            document.getElementById('mode-list-btn').className = "btn btn-outline-secondary py-2 fw-semibold";
             renderujQuiz();
         } else {
             document.getElementById('view-quiz').classList.add('hidden');
             document.getElementById('view-list').classList.remove('hidden');
-            statsBox.classList.add('hidden');
-            modeQuizBtn.className = "btn btn-outline-secondary py-2 fw-semibold";
-            modeListBtn.className = "btn btn-primary py-2 fw-semibold";
+            document.getElementById('quiz-stats-box').classList.add('hidden');
+            document.getElementById('mode-quiz-btn').className = "btn btn-outline-secondary py-2 fw-semibold";
+            document.getElementById('mode-list-btn').className = "btn btn-primary py-2 fw-semibold";
             renderujListMode();
         }
     }
@@ -224,35 +194,25 @@
     function renderujQuiz() {
         const dataset = BAZA_DANYCH[currentCategory];
         if (!dataset || dataset.length === 0) return;
-        
         const q = dataset[quizIndex];
         document.getElementById('quiz-progress').innerText = `Pytanie ${quizIndex + 1} / ${dataset.length}`;
         document.getElementById('quiz-qslug').innerText = `ID: ${q.slug || ''}`;
-        document.getElementById('quiz-question-text').innerText = q.content || q.text || "Brak treści";
+        document.getElementById('quiz-question-text').innerText = q.content || q.text || "";
         
         const imgContainer = document.getElementById('quiz-image-container');
         imgContainer.innerHTML = "";
-        
         if (q.local_image_path) {
-            const img = document.createElement('img');
-            img.src = q.local_image_path;
-            img.className = "img-fluid img-question img-thumbnail";
-            imgContainer.appendChild(img);
+            imgContainer.innerHTML = `<img src="${q.local_image_path}" class="img-fluid img-question img-thumbnail">`;
         }
         
         const answersContainer = document.getElementById('quiz-answers-container');
         answersContainer.innerHTML = "";
-        
         const options = q.answers || q.options || [];
         options.forEach(opt => {
             const btn = document.createElement('button');
             btn.className = "btn btn-answer rounded-3";
             let htmlContent = `<div><strong>${opt.label}:</strong> ${opt.text}</div>`;
-            
-            if (opt.local_image_path) {
-                htmlContent += `<img src="${opt.local_image_path}" class="img-fluid img-answer">`;
-            }
-            
+            if (opt.local_image_path) htmlContent += `<img src="${opt.local_image_path}" class="img-fluid img-answer">`;
             btn.innerHTML = htmlContent;
             btn.onclick = function() {
                 const allButtons = answersContainer.querySelectorAll('button');
@@ -264,9 +224,7 @@
                     btn.classList.add('incorrect');
                     stats.incorrect++;
                     allButtons.forEach(b => {
-                        if (b.querySelector('strong').innerText.startsWith(q.correct_answer + ":")) {
-                            b.classList.add('correct');
-                        }
+                        if (b.querySelector('strong').innerText.startsWith(q.correct_answer + ":")) b.classList.add('correct');
                     });
                 }
                 document.getElementById('stats-ok').innerText = `Poprawne: ${stats.correct}`;
@@ -292,54 +250,40 @@
         renderujQuiz();
     }
 
-    function resetStats() {
-        stats.correct = 0; stats.incorrect = 0;
-        document.getElementById('stats-ok').innerText = "Poprawne: 0";
-        document.getElementById('stats-err').innerText = "Błędy: 0";
-    }
+    function resetStats() { stats.correct = 0; stats.incorrect = 0; }
 
     function renderujListMode() {
         const container = document.getElementById('list-all-questions-container');
         container.innerHTML = "";
         const dataset = BAZA_DANYCH[currentCategory];
         if (!dataset) return;
-        
         document.getElementById('list-counter').innerText = `Razem: ${dataset.length}`;
         
         dataset.forEach((q, idx) => {
             const qBox = document.createElement('div');
             qBox.className = "list-question-box shadow-sm mb-4";
+            let imgHTML = q.local_image_path ? `<img src="${q.local_image_path}" class="img-fluid img-question">` : "";
             
-            let imgHTML = "";
-            if (q.local_image_path) {
-                imgHTML = `<img src="${q.local_image_path}" class="img-fluid img-question">`;
-            }
-            
-            const options = q.answers || q.options || [];
             let optionsHTML = '<div class="mt-2">';
+            const options = q.answers || q.options || [];
             options.forEach(opt => {
                 const isCorrect = (opt.label === q.correct_answer);
-                let ansImgHTML = "";
-                if (opt.local_image_path) {
-                    ansImgHTML = `<br><img src="${opt.local_image_path}" class="img-fluid img-answer">`;
-                }
-                optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> ${opt.text} ${isCorrect ? '✔️ (Poprawna)' : ''}${ansImgHTML}</div>`;
+                let ansImgHTML = opt.local_image_path ? `<br><img src="${opt.local_image_path}" class="img-fluid img-answer">` : "";
+                optionsHTML += `<div class="list-answer-row ${isCorrect ? 'true-answer' : ''}"><strong>${opt.label}:</strong> ${opt.text} ${isCorrect ? '✔️' : ''}${ansImgHTML}</div>`;
             });
             optionsHTML += '</div>';
 
             qBox.innerHTML = `
                 <div class="d-flex justify-content-between align-items-center mb-2">
                     <span class="badge bg-dark text-info">Pytanie ${idx + 1}</span>
-                    <small class="text-secondary-custom">ID: ${q.slug || ''}</small>
+                    <small class="text-muted">ID: ${q.slug || ''}</small>
                 </div>
-                <h5 class="fw-bold mt-2">${q.content || q.text || 'Brak treści'}</h5>
-                ${imgHTML}
-                ${optionsHTML}
+                <h5 class="fw-bold mt-2">${q.content || q.text || ''}</h5>
+                ${imgHTML} ${optionsHTML}
             `;
             container.appendChild(qBox);
         });
     }
-
     window.onload = wczytajWszystkieBazy;
 </script>
 </body>
